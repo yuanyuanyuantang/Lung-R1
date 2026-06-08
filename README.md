@@ -7,6 +7,8 @@
 
 **Lung-R1** is a research framework that enhances large language models for pulmonary disease diagnosis by combining **knowledge graph-guided chain-of-thought reasoning** with **GRPO (Group Relative Policy Optimization) reinforcement learning**.
 
+![Lung-R1 Pipeline Overview](assets/pipeline_overview.png)
+
 ## News
 
 - **[2026/06]** — Initial open-source release: LungKG, Graph-CoT, GRPO training code, and LungBench.
