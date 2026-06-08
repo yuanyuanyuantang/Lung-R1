@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 25,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "内科",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 181,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "医学影像科",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 205,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "神经内科",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 238,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "耳鼻咽喉科",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 513,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "儿科",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 758,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "小儿外科",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 846,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "外科",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 857,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "儿科",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 964,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "神经内科",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 968,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "内科",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 1174,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "神经内科",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 1211,
+    "exam_type": "医师考试",
+    "exam_class": "规培结业",
+    "exam_subject": "临床病理科",
+    "question_type": "多项选择题",
+    "answer": "ABD"
+  },
+  {
+    "id": 1328,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "临床执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 1349,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "临床执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 1353,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "中西医结合执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 1401,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "临床执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 1462,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "临床执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 1555,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "公共卫生执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 1620,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "中西医结合执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 1669,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "中西医结合执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 1751,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "中西医结合执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 1856,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "中西医结合执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 1971,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "口腔执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 1979,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "口腔执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 2021,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "临床执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 2038,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "临床执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 2246,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "临床执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 2322,
+    "exam_type": "医师考试",
+    "exam_class": "执业助理医师",
+    "exam_subject": "临床执业助理医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 2377,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "公共卫生执业医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 2570,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 2580,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 2645,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 2674,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 2774,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "公共卫生执业医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 2869,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 3024,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 3198,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "中西医结合执业医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 3209,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 3324,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 3374,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 3409,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 3411,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 3421,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 3478,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 3509,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 3554,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 3575,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "中西医结合执业医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 3617,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "中西医结合执业医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 3689,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "公共卫生执业医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 3697,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "中西医结合执业医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 3714,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 3770,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "中西医结合执业医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 3803,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 4122,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "公共卫生执业医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 4235,
+    "exam_type": "医师考试",
+    "exam_class": "执业医师",
+    "exam_subject": "临床执业医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 4456,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 4548,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "外科主治医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 4615,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "医院感染",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 4643,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 4820,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "核医学主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 4885,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "消化内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 4910,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "外科主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 5067,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "外科主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 5166,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "放射科主治医师",
+    "question_type": "多项选择题",
+    "answer": "ABCDE"
+  },
+  {
+    "id": 5207,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "全科主治医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 5258,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "放射科主治医师",
+    "question_type": "多项选择题",
+    "answer": "ACDE"
+  },
+  {
+    "id": 5297,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "重症医学主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 5348,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "传染病主治医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 5361,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "肿瘤学主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 5474,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "口腔颌面外科主治医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 5637,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "儿科主治医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 5711,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "传染病主治医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 5724,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 5730,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "心血管内科与呼吸内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 5819,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "耳鼻咽喉科主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 5842,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "骨科",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 5987,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "全科主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 6087,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "儿科主治医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 6182,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "妇产科主治医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 6272,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 6363,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "儿科主治医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 6534,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "儿科主治医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 6537,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "麻醉科主治医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 6604,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "儿科主治医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 6736,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "传染病主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 6755,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "核医学主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 6775,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "病理科主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 6785,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "外科主治医师",
+    "question_type": "多项选择题",
+    "answer": "BD"
+  },
+  {
+    "id": 6804,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 6887,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "病理科主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 6981,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "外科主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 7066,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "外科主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 7100,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "心血管内科与呼吸内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 7138,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "耳鼻咽喉科主治医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 7270,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "麻醉科主治医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 7289,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "全科主治医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 7304,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "营养学主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 7419,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "内科主治医师",
+    "question_type": "多项选择题",
+    "answer": "ABC"
+  },
+  {
+    "id": 7533,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "中西医结合内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 7585,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "肿瘤学主治医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 7602,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "康复医学主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 7692,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 7758,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "口腔正畸学主治医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 7770,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "传染病主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 8419,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "儿科主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 8440,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "放射科主治医师",
+    "question_type": "多项选择题",
+    "answer": "ABCDE"
+  },
+  {
+    "id": 8453,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "核医学主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 8549,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "外科主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 8682,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "超声波医学主治医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 8800,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "传染病主治医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 8866,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "结核病主治医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 8934,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 8998,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "全科主治医师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 9055,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "儿科主治医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 9306,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "内科主治医师",
+    "question_type": "多项选择题",
+    "answer": "AC"
+  },
+  {
+    "id": 9528,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 9619,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "心血管内科与呼吸内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 9636,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "内科主治医师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 9664,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "预防医学主治医师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 9838,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "皮肤科",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 9961,
+    "exam_type": "医师考试",
+    "exam_class": "中级职称",
+    "exam_subject": "外科主治医师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 10079,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "多项选择题",
+    "answer": "AC"
+  },
+  {
+    "id": 10589,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 10648,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "普通内科高级职称",
+    "question_type": "多项选择题",
+    "answer": "ABCE"
+  },
+  {
+    "id": 10660,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "多项选择题",
+    "answer": "CE"
+  },
+  {
+    "id": 10665,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 10667,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "多项选择题",
+    "answer": "ABCDE"
+  },
+  {
+    "id": 10882,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "多项选择题",
+    "answer": "ABCD"
+  },
+  {
+    "id": 11017,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 11048,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 11145,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "心内科高级职称",
+    "question_type": "多项选择题",
+    "answer": "ABCDE"
+  },
+  {
+    "id": 11278,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "内分泌科高级职称",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 11308,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "多项选择题",
+    "answer": "ACD"
+  },
+  {
+    "id": 11327,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 11577,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "普通外科高级职称",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 11590,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 11655,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 11718,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "呼吸内科高级职称",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 11781,
+    "exam_type": "医师考试",
+    "exam_class": "高级职称",
+    "exam_subject": "消化内科高级职称",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 11906,
+    "exam_type": "护理考试",
+    "exam_class": "护士执业资格",
+    "exam_subject": "护士执业资格考试",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 11947,
+    "exam_type": "护理考试",
+    "exam_class": "护士执业资格",
+    "exam_subject": "护士执业资格考试",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 11979,
+    "exam_type": "护理考试",
+    "exam_class": "护士执业资格",
+    "exam_subject": "护士执业资格考试",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 12088,
+    "exam_type": "护理考试",
+    "exam_class": "护士执业资格",
+    "exam_subject": "护士执业资格考试",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 12268,
+    "exam_type": "护理考试",
+    "exam_class": "护士执业资格",
+    "exam_subject": "护士执业资格考试",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 12359,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 12500,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 12531,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 12564,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 12569,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 12593,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 12626,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 12679,
+    "exam_type": "护理考试",
+    "exam_class": "护师执业资格",
+    "exam_subject": "护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 12818,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "内科主管护师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 12857,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "主管护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 12893,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "内科护理学",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 12899,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "主管护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 12944,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "主管护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 12961,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "儿科主管护师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 13143,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "主管护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 13204,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "主管护师资格考试",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 13346,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "内科护理学",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 13455,
+    "exam_type": "护理考试",
+    "exam_class": "主管护师",
+    "exam_subject": "儿科主管护师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 13543,
+    "exam_type": "护理考试",
+    "exam_class": "高级护师",
+    "exam_subject": "副主任、主任护师资格考试",
+    "question_type": "多项选择题",
+    "answer": "ABE"
+  },
+  {
+    "id": 13549,
+    "exam_type": "护理考试",
+    "exam_class": "高级护师",
+    "exam_subject": "副主任、主任护师资格考试",
+    "question_type": "多项选择题",
+    "answer": "BCE"
+  },
+  {
+    "id": 13559,
+    "exam_type": "护理考试",
+    "exam_class": "高级护师",
+    "exam_subject": "副主任、主任护师资格考试",
+    "question_type": "多项选择题",
+    "answer": "ABC"
+  },
+  {
+    "id": 13595,
+    "exam_type": "护理考试",
+    "exam_class": "高级护师",
+    "exam_subject": "副主任、主任护师资格考试",
+    "question_type": "多项选择题",
+    "answer": "BD"
+  },
+  {
+    "id": 13662,
+    "exam_type": "护理考试",
+    "exam_class": "高级护师",
+    "exam_subject": "副主任、主任护师资格考试",
+    "question_type": "多项选择题",
+    "answer": "ACD"
+  },
+  {
+    "id": 13674,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question_type": "多项选择题",
+    "answer": "BE"
+  },
+  {
+    "id": 13801,
+    "exam_type": "药师考试",
+    "exam_class": "执业西药师",
+    "exam_subject": "执业西药师",
+    "question_type": "多项选择题",
+    "answer": "ABC"
+  },
+  {
+    "id": 13998,
+    "exam_type": "药师考试",
+    "exam_class": "初级药士",
+    "exam_subject": "药士初级考试",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 14106,
+    "exam_type": "药师考试",
+    "exam_class": "初级药师",
+    "exam_subject": "药师初级考试",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 14184,
+    "exam_type": "药师考试",
+    "exam_class": "主管药师",
+    "exam_subject": "主管药师资格考试",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 14192,
+    "exam_type": "药师考试",
+    "exam_class": "主管药师",
+    "exam_subject": "主管药师资格考试",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 14322,
+    "exam_type": "医技考试",
+    "exam_class": "医技士",
+    "exam_subject": "肿瘤学技术（士）",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 14366,
+    "exam_type": "医技考试",
+    "exam_class": "医技士",
+    "exam_subject": "肿瘤学技术（士）",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 14513,
+    "exam_type": "医技考试",
+    "exam_class": "医技士",
+    "exam_subject": "肿瘤学技术（士）",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 14601,
+    "exam_type": "医技考试",
+    "exam_class": "医技师",
+    "exam_subject": "肿瘤学技术（师）",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 14607,
+    "exam_type": "医技考试",
+    "exam_class": "医技师",
+    "exam_subject": "肿瘤学技术（师）",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 14641,
+    "exam_type": "医技考试",
+    "exam_class": "医技师",
+    "exam_subject": "肿瘤学技术（师）",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 14687,
+    "exam_type": "医技考试",
+    "exam_class": "医技师",
+    "exam_subject": "肿瘤学技术（师）",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 14953,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "放射医学主管技师",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 14999,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "核医学主管技师",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 15086,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "病案信息主管技师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 15139,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "肿瘤放射治疗主管技师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 15242,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "康复医学与治疗主管技师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 15463,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "肿瘤放射治疗主管技师",
+    "question_type": "多项选择题",
+    "answer": "ABC"
+  },
+  {
+    "id": 15477,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "放射医学主管技师",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 15518,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "肿瘤放射治疗主管技师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 15648,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "肿瘤放射治疗主管技师",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 15661,
+    "exam_type": "医技考试",
+    "exam_class": "主管技师",
+    "exam_subject": "输血技术主管技师",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 15759,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "病理学",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 15801,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "医学免疫学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 15804,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "生理学",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 15950,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "病理学",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 15976,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "组织学与胚胎学",
+    "question_type": "多项选择题",
+    "answer": "ACD"
+  },
+  {
+    "id": 16012,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "病理学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 16152,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "病理学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 16170,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "病理学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 16388,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "局部解剖学",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 16454,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "病理生理学",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 16561,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "药理学",
+    "question_type": "多项选择题",
+    "answer": "ABCD"
+  },
+  {
+    "id": 16590,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "医学微生物学",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 16608,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "病理学",
+    "question_type": "多项选择题",
+    "answer": "ABD"
+  },
+  {
+    "id": 16609,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "生理学",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 16732,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "病理学",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 17025,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "病理学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 17142,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "病理学",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 17230,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "病理学",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 17240,
+    "exam_type": "专业知识考试",
+    "exam_class": "基础医学",
+    "exam_subject": "组织学与胚胎学",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 17276,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "儿科学",
+    "question_type": "多项选择题",
+    "answer": "ABCDE"
+  },
+  {
+    "id": 17296,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "皮肤性病学",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 17329,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "外科学",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 17404,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "儿科学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 17440,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "物理诊断学",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 17452,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "实验诊断学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 17585,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "儿科学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 17687,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "儿科学",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 17733,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "儿科学",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 17763,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "基础护理学",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 17938,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "外科学",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 18189,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "麻醉学",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 18195,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "核医学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 18236,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "医学影像学",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 18265,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "医学影像学",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 18301,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "儿科学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 18405,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "儿科学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 18570,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "医学影像学",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 18585,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "皮肤性病学",
+    "question_type": "多项选择题",
+    "answer": "ABCD"
+  },
+  {
+    "id": 18635,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "儿科学",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 18720,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "儿科学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 18728,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "物理诊断学",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 18933,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "儿科学",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 18940,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "物理诊断学",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 18955,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "麻醉学",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 19152,
+    "exam_type": "专业知识考试",
+    "exam_class": "临床医学",
+    "exam_subject": "麻醉学",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 19458,
+    "exam_type": "医学考研",
+    "exam_class": "护理学",
+    "exam_subject": "外科护理学",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 19555,
+    "exam_type": "医学考研",
+    "exam_class": "护理学",
+    "exam_subject": "外科护理学",
+    "question_type": "单项选择题",
+    "answer": "E"
+  },
+  {
+    "id": 19742,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 19755,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 19801,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "单项选择题",
+    "answer": "C"
+  },
+  {
+    "id": 19834,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 20028,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "单项选择题",
+    "answer": "A"
+  },
+  {
+    "id": 20067,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 20075,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 20169,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 20269,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 20302,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "多项选择题",
+    "answer": "ABD"
+  },
+  {
+    "id": 20384,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "单项选择题",
+    "answer": "B"
+  },
+  {
+    "id": 20422,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "单项选择题",
+    "answer": "D"
+  },
+  {
+    "id": 20596,
+    "exam_type": "医学考研",
+    "exam_class": "西医综合",
+    "exam_subject": "考研西医综合",
+    "question_type": "多项选择题",
+    "answer": "ABC"
+  }
+]

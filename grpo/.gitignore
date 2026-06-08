@@ -1,0 +1,13 @@
+# KG-Guided GRPO Training Outputs
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model checkpoints (large files, move separately)
+checkpoint-*/
+
+# OS files
+.DS_Store
+Thumbs.db

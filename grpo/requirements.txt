@@ -1,0 +1,15 @@
+# GRPO RL Training Dependencies
+# Install: pip install -r requirements.txt
+
+torch>=2.4.0
+transformers>=4.51.0
+trl>=0.18.0
+accelerate>=1.0.0
+deepspeed>=0.16.0
+peft>=0.15.0
+datasets>=3.0.0
+modelscope>=1.35.0
+networkx>=3.0
+pandas>=2.0
+numpy>=1.24
+sentencepiece

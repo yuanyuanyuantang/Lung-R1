@@ -1,0 +1,3232 @@
+graphml_entity,medical_kg_entity,match_type,confidence
+泮库溴铵,泮库溴铵,exact,1.0
+伊立替康,伊立替康,exact,1.0
+利尿,利尿,exact,1.0
+呼吸道梗阻,呼吸道梗阻,exact,1.0
+洛美沙星,洛美沙星,exact,1.0
+咽水肿,咽水肿,exact,1.0
+代谢紊乱,代谢紊乱,exact,1.0
+辅助检查,辅助检查,exact,1.0
+头孢呋辛酯,头孢呋辛酯,exact,1.0
+prulifloxacin,prulifloxacin,exact,1.0
+洛博芽生菌病,洛博芽生菌病,exact,1.0
+肺念珠菌病,肺念珠菌病,exact,1.0
+红霉素,红霉素,exact,1.0
+宫内感染,宫内感染,exact,1.0
+失眠,失眠,exact,1.0
+thiabendazole,thiabendazole,exact,1.0
+气管受压,气管受压,exact,1.0
+对症支持治疗,对症支持治疗,exact,1.0
+gbs,gbs,exact,1.0
+磺苄西林,磺苄西林,exact,1.0
+呼吸道阻塞,呼吸道阻塞,exact,1.0
+依米丁,依米丁,exact,1.0
+氟康唑,氟康唑,exact,1.0
+cedax,cedax,exact,1.0
+结核接触史,结核接触史,exact,1.0
+imipenem,imipenem,exact,1.0
+会厌炎,会厌炎,exact,1.0
+common cold,common cold,exact,1.0
+血糖,血糖,exact,1.0
+血管扩张,血管扩张,exact,1.0
+氧饱和度,氧饱和度,exact,1.0
+cystic fibrosis,cystic fibrosis,exact,1.0
+hamartoma,hamartoma,exact,1.0
+葡萄球菌,葡萄球菌,exact,1.0
+鼻炎,鼻炎,exact,1.0
+多巴胺,多巴胺,exact,1.0
+地丝菌病,地丝菌病,exact,1.0
+剂量,剂量,exact,1.0
+慢性肺芽生菌病,慢性肺芽生菌病,exact,1.0
+抑郁,抑郁,exact,1.0
+脑膜炎,脑膜炎,exact,1.0
+cefpirome,cefpirome,exact,1.0
+禽流感,禽流感,exact,1.0
+母乳喂养,母乳喂养,exact,1.0
+病因治疗,病因治疗,exact,1.0
+水,水,exact,1.0
+呼吸,呼吸,exact,1.0
+慢性鼻炎,慢性鼻炎,exact,1.0
+育龄妇女,育龄妇女,exact,1.0
+神经炎,神经炎,exact,1.0
+甲型h1n1流感,甲型h1n1流感,exact,1.0
+头孢噻利,头孢噻利,exact,1.0
+疲乏,疲乏,exact,1.0
+中毒,中毒,exact,1.0
+肝,肝,exact,1.0
+结核菌素皮肤试验,结核菌素皮肤试验,exact,1.0
+瘫痪,瘫痪,exact,1.0
+葡萄糖注射液,葡萄糖注射液,exact,1.0
+支气管胸膜瘘,支气管胸膜瘘,exact,1.0
+假丝酵母菌,假丝酵母菌,exact,1.0
+下叶,下叶,exact,1.0
+膦甲酸钠,威立克,llm,0.8
+nocardiosis,nocardiosis,exact,1.0
+chest pain,胸骨后不适或胸前疼痛,llm,0.9
+肿瘤标志物,肿瘤标志物,exact,1.0
+隐球菌病,隐球菌病,exact,1.0
+大环内酯类,大环内酯类,exact,1.0
+琥乙红霉素,琥乙红霉素,exact,1.0
+激素,激素,exact,1.0
+氢化可的松,氢化可的松,exact,1.0
+惊厥,惊厥,exact,1.0
+克雷伯菌属,克雷伯菌属,exact,1.0
+老年肺炎,老年肺炎,exact,1.0
+土霉素,土霉素,exact,1.0
+氯法齐明,氯法齐明,exact,1.0
+局部疼痛,局部疼痛,exact,1.0
+纵隔纤维化,纵隔纤维化,exact,1.0
+阿莫西林/克拉维酸,阿莫西林/克拉维酸,exact,1.0
+视物模糊,视物模糊,exact,1.0
+恶心,恶心,exact,1.0
+体质下降,体质下降,exact,1.0
+广谱抗生素,广谱抗生素,exact,1.0
+静脉炎,静脉炎,exact,1.0
+胸腔内,胸腔内,exact,1.0
+非洲组织胞浆菌病,非洲组织胞浆菌病,exact,1.0
+压痛,压痛,exact,1.0
+声带白斑,声带白斑,exact,1.0
+饮酒,饮酒,exact,1.0
+cefodizime,cefodizime,exact,1.0
+定向障碍,定向障碍,exact,1.0
+新生儿肺透明膜病,新生儿肺透明膜病,exact,1.0
+激动,激动,exact,1.0
+immunotherapy,immunotherapy,exact,1.0
+全血细胞计数,全血细胞计数,exact,1.0
+克林霉素,克林霉素,exact,1.0
+胸外科,胸外科,exact,1.0
+厄他培南,厄他培南,exact,1.0
+黏膜炎,黏膜炎,exact,1.0
+血沉,血沉,exact,1.0
+pneumothorax,pneumothorax,exact,1.0
+cefonicid,cefonicid,exact,1.0
+眩晕,眩晕,exact,1.0
+ast,ast,exact,1.0
+125mg,125mg,exact,1.0
+胸痛,胸痛,exact,1.0
+心包炎,心包炎,exact,1.0
+伯氨喹,伯氨喹,exact,1.0
+肺炎衣原体感染,肺炎衣原体感染,exact,1.0
+消化道,消化道,exact,1.0
+ceftibuten,ceftibuten,exact,1.0
+穿孔,穿孔,exact,1.0
+空鼻综合征,空鼻综合征,exact,1.0
+ecmo,ecmo,exact,1.0
+中性粒细胞缺乏,中性粒细胞缺乏,exact,1.0
+阿糖腺苷,阿糖腺苷,exact,1.0
+戴口罩,戴口罩,exact,1.0
+ceforanide,ceforanide,exact,1.0
+慢性纵隔炎,慢性纵隔炎,exact,1.0
+听力减退,听力减退,exact,1.0
+喘息,喘息,exact,1.0
+播散性隐球菌病,播散性隐球菌病,exact,1.0
+鼻咽,鼻咽,exact,1.0
+禽流感病毒,禽流感病毒,exact,1.0
+pert,pert,exact,1.0
+支气管囊肿,支气管囊肿,exact,1.0
+过敏性哮喘,过敏性哮喘,exact,1.0
+免疫受损患者,免疫受损患者,exact,1.0
+甲氧西林,甲氧西林,exact,1.0
+匹美西林,匹美西林,exact,1.0
+免疫功能受损,免疫功能受损,exact,1.0
+长春花碱,长春花碱,exact,1.0
+嗜肺军团菌,嗜肺军团菌,exact,1.0
+病毒性上呼吸道感染,病毒性上呼吸道感染,exact,1.0
+非血栓性肺栓塞,非血栓性肺栓塞,exact,1.0
+青霉素v钾片,青霉素v钾片,exact,1.0
+呼吸内科,呼吸内科,exact,1.0
+感觉异常,感觉异常,exact,1.0
+paracoccidioides brasiliensis,paracoccidioides brasiliensis,exact,1.0
+感染性肺栓塞,感染性肺栓塞,exact,1.0
+利多卡因,利多卡因,exact,1.0
+vibramycin,vibramycin,exact,1.0
+荨麻疹,荨麻疹,exact,1.0
+肾功能衰竭,肾功能衰竭,exact,1.0
+tobramycin,tobramycin,exact,1.0
+切除,切除,exact,1.0
+普外科,普外科,exact,1.0
+流感疫苗,流感疫苗,exact,1.0
+深静脉血栓形成,深静脉血栓形成,exact,1.0
+巨细胞病毒病,巨细胞病毒病,exact,1.0
+黑便,黑便,exact,1.0
+腹膜后淋巴结,腹膜后淋巴结,exact,1.0
+咪康唑,咪康唑,exact,1.0
+23价肺炎球菌多糖疫苗,23价肺炎球菌多糖疫苗,exact,1.0
+合并,合并,exact,1.0
+肺多处,肺多处,exact,1.0
+ph值,ph值,exact,1.0
+二代或三代头孢菌素,二代或三代头孢菌素,exact,1.0
+肺表面活性物质,肺表面活性物质,exact,1.0
+copd,copd,exact,1.0
+不动杆菌属,不动杆菌属,exact,1.0
+肺移植,肺移植,exact,1.0
+疫苗接种,疫苗接种,exact,1.0
+bronchiolitis obliterans,bronchiolitis obliterans,exact,1.0
+念珠菌,念珠菌,exact,1.0
+lorabid,lorabid,exact,1.0
+ct扫描,ct扫描,exact,1.0
+皮肤试验,皮肤试验,exact,1.0
+婴幼儿,婴幼儿,exact,1.0
+巴龙霉素,巴龙霉素,exact,1.0
+人感染高致病性禽流感,人感染高致病性禽流感,exact,1.0
+长春新碱,长春新碱,exact,1.0
+萎缩性鼻炎,萎缩性鼻炎,exact,1.0
+癫痫发作,癫痫发作,exact,1.0
+j84.109,j84.109,exact,1.0
+莫匹罗星,莫匹罗星,exact,1.0
+急性纵隔炎,急性纵隔炎,exact,1.0
+全身,全身,exact,1.0
+cleocin,cleocin,exact,1.0
+nsaids,nsaids,exact,1.0
+百日咳,百日咳,exact,1.0
+锁骨上淋巴结,锁骨上淋巴结,exact,1.0
+cefaclor,cefaclor,exact,1.0
+特比萘芬,特比萘芬,exact,1.0
+抗肿瘤药物,抗肿瘤药物,exact,1.0
+右肺下叶,右肺下叶,exact,1.0
+coombs试验,coombs试验,exact,1.0
+机化性肺炎,机化性肺炎,exact,1.0
+患者教育,患者教育,exact,1.0
+ph,ph,exact,1.0
+血栓形成,血栓形成,exact,1.0
+卡那霉素,卡那霉素,exact,1.0
+hiv感染者,hiv感染者,exact,1.0
+胸膜腔积液,胸膜腔积液,exact,1.0
+肌肉酸痛,肌肉酸痛,exact,1.0
+妇产科,妇产科,exact,1.0
+青少年,青少年,exact,1.0
+低血压,低血压,exact,1.0
+恩曲他滨,恩曲他滨,exact,1.0
+支气管充气征,支气管充气征,exact,1.0
+出汗,出汗,exact,1.0
+注射部位炎症,注射部位炎症,exact,1.0
+cefmetazole,cefmetazole,exact,1.0
+寒颤,寒颤,exact,1.0
+焦虑症,焦虑症,exact,1.0
+胸部影像学检查,胸部影像学检查,exact,1.0
+嗜酸性粒细胞,嗜酸性粒细胞,exact,1.0
+手术后支气管胸膜瘘,手术后支气管胸膜瘘,exact,1.0
+藻菌病,藻菌病,exact,1.0
+尿潴留,尿潴留,exact,1.0
+空气污染,空气污染,exact,1.0
+脑膜,脑膜,exact,1.0
+chromoblastomycosis,chromoblastomycosis,exact,1.0
+abpa,abpa,exact,1.0
+核酸扩增试验,核酸扩增试验,exact,1.0
+地拉韦定,地拉韦定,exact,1.0
+先天性心脏病,先天性心脏病,exact,1.0
+心律失常,心律失常,exact,1.0
+多烯类抗真菌药物,多烯类抗真菌药物,exact,1.0
+膈肌麻痹,膈肌麻痹,exact,1.0
+肺部浸润,肺部浸润,exact,1.0
+放射科,放射科,exact,1.0
+lung abscess,lung abscess,exact,1.0
+冠状病毒,冠状病毒,exact,1.0
+化脓性胸膜炎,化脓性胸膜炎,exact,1.0
+不良,不良,exact,1.0
+氟氧头孢,氟氧头孢,exact,1.0
+白喉抗毒素,白喉抗毒素,exact,1.0
+瘙痒,瘙痒,exact,1.0
+胸骨后不适,胸骨后不适,exact,1.0
+硬结,硬结,exact,1.0
+胃肠道出血,胃肠道出血,exact,1.0
+链球菌性肺炎,链球菌性肺炎,exact,1.0
+皮炎芽生菌,皮炎芽生菌,exact,1.0
+运动性支气管哮喘,运动性支气管哮喘,exact,1.0
+呼吸道症状,呼吸道症状,exact,1.0
+结核杆菌,结核杆菌,exact,1.0
+支气管哮喘，危重,支气管哮喘，危重,exact,1.0
+晚期,晚期,exact,1.0
+呋苄西林,呋苄西林,exact,1.0
+急性血行播散型肺结核,急性血行播散型肺结核,exact,1.0
+顺铂,顺铂,exact,1.0
+淋巴管炎,淋巴管炎,exact,1.0
+血管性水肿,血管性水肿,exact,1.0
+免疫缺陷病,免疫缺陷病,exact,1.0
+纵膈淋巴结,纵膈淋巴结,exact,1.0
+腹腔积液,腹腔积液,exact,1.0
+特发性肺纤维化,特发性肺纤维化,exact,1.0
+美西林,美西林,exact,1.0
+骨扫描,骨扫描,exact,1.0
+罗伯芽生菌病,罗伯芽生菌病,exact,1.0
+头孢吡肟,头孢吡肟,exact,1.0
+mg,mg,exact,1.0
+结晶尿,结晶尿,exact,1.0
+电解质紊乱,电解质紊乱,exact,1.0
+胆红素升高,胆红素升高,exact,1.0
+西地那非,西地那非,exact,1.0
+心肺复苏,心肺复苏,exact,1.0
+支气管肺泡灌洗,支气管肺泡灌洗,exact,1.0
+硫糖铝,硫糖铝,exact,1.0
+基因治疗,基因治疗,exact,1.0
+急性喉炎,急性喉炎,exact,1.0
+粒细胞减少症,粒细胞减少症,exact,1.0
+奇异变形杆菌,奇异变形杆菌,exact,1.0
+呼吸道传播,呼吸道传播,exact,1.0
+肺门,肺门,exact,1.0
+大汗,大汗,exact,1.0
+actinomycosis,actinomycosis,exact,1.0
+黄疸,黄疸,exact,1.0
+尿素氮升高,尿素氮升高,exact,1.0
+氟胞嘧啶注射液,氟胞嘧啶注射液,exact,1.0
+肾炎,肾炎,exact,1.0
+心血管手术,心血管手术,exact,1.0
+间质性肺炎,间质性肺炎,exact,1.0
+过敏性疾病,过敏性疾病,exact,1.0
+鼻真菌病,鼻真菌病,exact,1.0
+支气管淋巴结结核,支气管淋巴结结核,exact,1.0
+zanamivir,zanamivir,exact,1.0
+哮喘发作,哮喘发作,exact,1.0
+rifampicin,rifampicin,exact,1.0
+炎症,炎症,exact,1.0
+咽干,咽干,exact,1.0
+血嗜酸粒细胞增多,血嗜酸粒细胞增多,exact,1.0
+恶性肿瘤,恶性肿瘤,exact,1.0
+隔离,隔离,exact,1.0
+卫非特,卫非特,exact,1.0
+肺,肺,exact,1.0
+谵妄,谵妄,exact,1.0
+溶血性贫血,溶血性贫血,exact,1.0
+多非利特,多非利特,exact,1.0
+流感杆菌,流感杆菌,exact,1.0
+基孔肯雅热,基孔肯雅热,exact,1.0
+支气管阻塞,支气管阻塞,exact,1.0
+结膜充血,结膜充血,exact,1.0
+rifapentine,rifapentine,exact,1.0
+肿瘤科,肿瘤科,exact,1.0
+肺纤维化,肺纤维化,exact,1.0
+周围神经病变,周围神经病变,exact,1.0
+心电图检查,心电图检查,exact,1.0
+loracarbef,loracarbef,exact,1.0
+bronchitis,bronchitis,exact,1.0
+prednisone,prednisone,exact,1.0
+高钠血症,高钠血症,exact,1.0
+flomoxef,flomoxef,exact,1.0
+病原学检查,病原学检查,exact,1.0
+抗组胺药,抗组胺药,exact,1.0
+狗,狗,exact,1.0
+发绀,发绀,exact,1.0
+新生儿,新生儿,exact,1.0
+病理检查,病理检查,exact,1.0
+pet,pet,exact,1.0
+便秘,便秘,exact,1.0
+factive,factive,exact,1.0
+盐酸吗啡,盐酸吗啡,exact,1.0
+普鲁卡因青霉素,普鲁卡因青霉素,exact,1.0
+sporotrichosis,sporotrichosis,exact,1.0
+ad,ad,exact,1.0
+罗库溴铵,罗库溴铵,exact,1.0
+胸膜粘连,胸膜粘连,exact,1.0
+煤炭工肺尘埃沉着病,煤炭工肺尘埃沉着病,exact,1.0
+ketoconazole,ketoconazole,exact,1.0
+tygacil,tygacil,exact,1.0
+肺脓肿,肺脓肿,exact,1.0
+抗细菌药,抗细菌药,exact,1.0
+血小板减少,血小板减少,exact,1.0
+急性会厌炎,急性会厌炎,exact,1.0
+10mg,10mg,exact,1.0
+过敏性鼻炎,过敏性鼻炎,exact,1.0
+relenza,relenza,exact,1.0
+ss,ss,exact,1.0
+食管气管瘘,食管气管瘘,exact,1.0
+职业性支气管哮喘,职业性支气管哮喘,exact,1.0
+胸膜活检,胸膜活检,exact,1.0
+免疫抑制剂,免疫抑制剂,exact,1.0
+多杀巴斯德菌,多杀巴斯德菌,exact,1.0
+多囊肺,多囊肺,exact,1.0
+全血细胞减少症,全血细胞减少症,exact,1.0
+孕妇,孕妇,exact,1.0
+器官,器官,exact,1.0
+伐地那非,伐地那非,exact,1.0
+外科手术切除,外科手术切除,exact,1.0
+疲倦,疲倦,exact,1.0
+血栓,血栓,exact,1.0
+低镁血症,低镁血症,exact,1.0
+吉非替尼,吉非替尼,exact,1.0
+胺碘酮,胺碘酮,exact,1.0
+吡哌酸,吡哌酸,exact,1.0
+灰黄霉素,灰黄霉素,exact,1.0
+肺炎杆菌,肺炎杆菌,exact,1.0
+5,5,exact,1.0
+培养,培养,exact,1.0
+咽肌痉挛,咽肌痉挛,exact,1.0
+安慰剂,安慰剂,exact,1.0
+20%,20%,exact,1.0
+zygomycosis,zygomycosis,exact,1.0
+支原体肺炎,支原体肺炎,exact,1.0
+脑出血,脑出血,exact,1.0
+耶氏肺孢子菌肺炎,耶氏肺孢子菌肺炎,exact,1.0
+毛霉属,毛霉属,exact,1.0
+肾脏,肾脏,exact,1.0
+变应性支气管肺曲霉病,变应性支气管肺曲霉病,exact,1.0
+肺部ct,肺部ct,exact,1.0
+安泼那韦,安泼那韦,exact,1.0
+胰岛素,胰岛素,exact,1.0
+脓胸不伴有瘘,脓胸不伴有瘘,exact,1.0
+乙硫异烟胺,乙硫异烟胺,exact,1.0
+金霉素,金霉素,exact,1.0
+心率加快,心率加快,exact,1.0
+二盐酸奎宁注射液,二盐酸奎宁注射液,exact,1.0
+焦虑,焦虑,exact,1.0
+血培养,血培养,exact,1.0
+慢性鼻窦炎,慢性鼻窦炎,exact,1.0
+腺病毒,腺病毒感染引起,llm,0.9
+拟杆菌属,拟杆菌属,exact,1.0
+鹦鹉热,鹦鹉热,exact,1.0
+b族链球菌,b族链球菌,exact,1.0
+卡波西肉瘤,卡波西肉瘤,exact,1.0
+消化道出血,消化道出血,exact,1.0
+灼热感,灼热感,exact,1.0
+青霉菌病,青霉菌病,exact,1.0
+氢氧化钠,氢氧化钠,exact,1.0
+超敏反应,超敏反应,exact,1.0
+葡萄球菌性肺炎,葡萄球菌性肺炎,exact,1.0
+流感病毒,流感病毒,exact,1.0
+代谢性酸中毒,代谢性酸中毒,exact,1.0
+肺不张,肺不张,exact,1.0
+猝死,猝死,exact,1.0
+低磷血症,低磷血症,exact,1.0
+普通感冒,普通感冒,exact,1.0
+免疫功能低下,免疫功能低下,exact,1.0
+先天性喉喘鸣,先天性喉喘鸣,exact,1.0
+并发症,并发症,exact,1.0
+喉部,喉部,exact,1.0
+阿霉素,阿霉素,exact,1.0
+病理组织学检查,病理组织学检查,exact,1.0
+鼻腔,鼻腔,exact,1.0
+呼吸性疾患,呼吸性疾患,exact,1.0
+呼吸道,呼吸道,exact,1.0
+100mg,100mg,exact,1.0
+青霉素g,青霉素g,exact,1.0
+c2,c2,exact,1.0
+哮喘,哮喘,exact,1.0
+利福平,利福平,exact,1.0
+气候,气候,exact,1.0
+呼吸机相关肺炎,呼吸机相关肺炎,exact,1.0
+水疱,水疱,exact,1.0
+感染性疾病,感染性疾病,exact,1.0
+肺部感染,肺部感染,exact,1.0
+1,1,exact,1.0
+xpert mtb/rif,xpert mtb/rif,exact,1.0
+支原体,支原体,exact,1.0
+呕血,呕血,exact,1.0
+静脉给药,静脉给药,exact,1.0
+炎症标志物,炎症标志物,exact,1.0
+吸入糖皮质激素,吸入糖皮质激素,exact,1.0
+低体温,低体温,exact,1.0
+食物过敏,食物过敏,exact,1.0
+祛痰药,祛痰药,exact,1.0
+多粘菌素类,多粘菌素类,exact,1.0
+大面积肺栓塞,大面积肺栓塞,exact,1.0
+纵隔脓肿,纵隔脓肿,exact,1.0
+水肿,水肿,exact,1.0
+干扰素,干扰素,exact,1.0
+组织胞浆菌病,组织胞浆菌病,exact,1.0
+mri检查,mri检查,exact,1.0
+抗胆碱能药物,抗胆碱能药物,exact,1.0
+spect,spect,exact,1.0
+氢氯噻嗪,氢氯噻嗪,exact,1.0
+血清学诊断,血清学诊断,exact,1.0
+芬氟拉明,芬氟拉明,exact,1.0
+假单胞菌,假单胞菌,exact,1.0
+地高辛,地高辛,exact,1.0
+耳鸣,耳鸣,exact,1.0
+中成药,中成药,exact,1.0
+支气管炎,支气管炎,exact,1.0
+腹泻,腹泻,exact,1.0
+基线检测,基线检测,exact,1.0
+过敏,过敏,exact,1.0
+维库溴铵,维库溴铵,exact,1.0
+磷霉素,磷霉素,exact,1.0
+原发性肺动脉高压,原发性肺动脉高压,exact,1.0
+念珠菌感染,念珠菌感染,exact,1.0
+易感人群,易感人群,exact,1.0
+美洲锥虫病,美洲锥虫病,exact,1.0
+过敏性紫癜,过敏性紫癜,exact,1.0
+鸟疫,鸟疫,exact,1.0
+急性肺原性心脏病,急性肺原性心脏病,exact,1.0
+头孢哌酮钠,头孢哌酮钠,exact,1.0
+ancef,ancef,exact,1.0
+感染科,感染科,exact,1.0
+azithromycin,azithromycin,exact,1.0
+磺胺药,磺胺药,exact,1.0
+癫痫,癫痫,exact,1.0
+levofloxacin,levofloxacin,exact,1.0
+皮肤红斑,皮肤红斑,exact,1.0
+膦甲酸,膦甲酸,exact,1.0
+头孢美唑,头孢美唑,exact,1.0
+急性支气管炎,急性支气管炎,exact,1.0
+西咪替丁,西咪替丁,exact,1.0
+g试验,g试验,exact,1.0
+鼻息肉,鼻息肉,exact,1.0
+机械通气,机械通气,exact,1.0
+敏感,敏感,exact,1.0
+流感嗜血杆菌性肺炎,流感嗜血杆菌性肺炎,exact,1.0
+抗真菌药物,抗真菌药物,exact,1.0
+泊沙康唑,泊沙康唑,exact,1.0
+丙硫异烟胺,丙硫异烟胺,exact,1.0
+新型隐球菌,新型隐球菌,exact,1.0
+新霉素,新霉素,exact,1.0
+创伤,创伤,exact,1.0
+candidiasis,candidiasis,exact,1.0
+新生儿鼻塞,新生儿鼻塞,exact,1.0
+头孢噻肟钠,头孢噻肟钠,exact,1.0
+休息,休息,exact,1.0
+集束化治疗策略,集束化治疗策略,exact,1.0
+抗酸染色涂片,抗酸染色涂片,exact,1.0
+消瘦,消瘦,exact,1.0
+慢性肺血栓栓塞症,慢性肺血栓栓塞症,exact,1.0
+头孢曲松钠,头孢曲松钠,exact,1.0
+体重减轻,体重减轻,exact,1.0
+氨苄西林,氨苄西林,exact,1.0
+睡眠障碍,睡眠障碍,exact,1.0
+细支气管,细支气管,exact,1.0
+核酸检测,核酸检测,exact,1.0
+低钙血症,低钙血症,exact,1.0
+重度感染,重度感染,exact,1.0
+痰培养,痰培养,exact,1.0
+捻发音,捻发音,exact,1.0
+去甲万古霉素,去甲万古霉素,exact,1.0
+刺痛,刺痛,exact,1.0
+伏立康唑,伏立康唑,exact,1.0
+厌氧菌感染,厌氧菌感染,exact,1.0
+肺间质,肺间质,exact,1.0
+溃疡分枝杆菌,溃疡分枝杆菌,exact,1.0
+血管神经性水肿,血管神经性水肿,exact,1.0
+输血,输血,exact,1.0
+allergic bronchopulmonary aspergillosis,allergic bronchopulmonary aspergillosis,exact,1.0
+血尿,血尿,exact,1.0
+高铁血红蛋白血症,高铁血红蛋白血症,exact,1.0
+hemoptysis,hemoptysis,exact,1.0
+纳差,纳差,exact,1.0
+minocycline,minocycline,exact,1.0
+fev1,fev1,exact,1.0
+减充血剂,减充血剂,exact,1.0
+毒性表皮坏死,毒性表皮坏死,exact,1.0
+老年人,老年人,exact,1.0
+住院治疗,住院治疗,exact,1.0
+肺泡蛋白沉积症,肺泡蛋白沉积症,exact,1.0
+两性霉素b脂质复合物,两性霉素b脂质复合物,exact,1.0
+胸腹水常规检查,胸腹水常规检查,exact,1.0
+慢性阻塞性肺疾病,慢性阻塞性肺疾病,exact,1.0
+羧苄西林,羧苄西林,exact,1.0
+结节病,结节病,exact,1.0
+英国,英国,exact,1.0
+低血钾,低血钾,exact,1.0
+咽,咽,exact,1.0
+脱敏疗法,脱敏疗法,exact,1.0
+中性粒细胞,中性粒细胞,exact,1.0
+at,at,exact,1.0
+昏迷,昏迷,exact,1.0
+无,无,exact,1.0
+组织病理检查,组织病理检查,exact,1.0
+成人,成人,exact,1.0
+羟氯喹,羟氯喹,exact,1.0
+酮康唑,酮康唑,exact,1.0
+阿米替林,阿米替林,exact,1.0
+变形杆菌性肺炎,变形杆菌性肺炎,exact,1.0
+铁剂,铁剂,exact,1.0
+支气管结石,支气管结石,exact,1.0
+预后良好,预后良好,exact,1.0
+纵隔气肿,纵隔气肿,exact,1.0
+美托洛尔,美托洛尔,exact,1.0
+sd,sd,exact,1.0
+鼻病毒,鼻病毒,exact,1.0
+b型流感嗜血杆菌感染,b型流感嗜血杆菌感染,exact,1.0
+组胺,组胺,exact,1.0
+比西林,比西林,exact,1.0
+棘球蚴病,棘球蚴病,exact,1.0
+中性粒细胞减少症,中性粒细胞减少症,exact,1.0
+kantrex,kantrex,exact,1.0
+左肺下叶,左肺下叶,exact,1.0
+niv,niv,exact,1.0
+纵隔炎,纵隔炎,exact,1.0
+重症肺炎,重症肺炎,exact,1.0
+il-6,il-6,exact,1.0
+偏肺病毒,偏肺病毒,exact,1.0
+氯霉素,氯霉素,exact,1.0
+脓气胸,脓气胸,exact,1.0
+药物热,药物热,exact,1.0
+丘疹,丘疹,exact,1.0
+红细胞沉降率,红细胞沉降率,exact,1.0
+酵母,酵母,exact,1.0
+nse,nse,exact,1.0
+哌拉西林,哌拉西林,exact,1.0
+肝脏,肝脏,exact,1.0
+慢性支气管炎,慢性支气管炎,exact,1.0
+肺炎球菌,肺炎球菌,exact,1.0
+考来烯胺,考来烯胺,exact,1.0
+乙,乙,exact,1.0
+苯唑西林,苯唑西林,exact,1.0
+唾液,唾液,exact,1.0
+流感病毒感染,流感病毒感染,exact,1.0
+咽部,咽部,exact,1.0
+皮肤隐球菌病,皮肤隐球菌病,exact,1.0
+药物过敏反应,药物过敏反应,exact,1.0
+意识模糊,意识模糊,exact,1.0
+特康唑,特康唑,exact,1.0
+急性咽喉炎,急性咽喉炎,exact,1.0
+咳黏液痰,咳黏液痰,exact,1.0
+面部,面部,exact,1.0
+流感病毒疫苗,流感病毒疫苗,exact,1.0
+阿洛西林,阿洛西林,exact,1.0
+长期治疗,长期治疗,exact,1.0
+脓疱,脓疱,exact,1.0
+急性肺水肿,急性肺水肿,exact,1.0
+嗜酸粒细胞增多,嗜酸粒细胞增多,exact,1.0
+abelcet,abelcet,exact,1.0
+眼底检查,眼底检查,exact,1.0
+乙酰半胱氨酸,乙酰半胱氨酸,exact,1.0
+沙雷菌属,沙雷菌属,exact,1.0
+生化,生化,exact,1.0
+头颈部,头颈部,exact,1.0
+对乙酰氨基酚,对乙酰氨基酚,exact,1.0
+包虫病,包虫病,exact,1.0
+肺毛霉菌病,肺毛霉菌病,exact,1.0
+关节肿痛,关节肿痛,exact,1.0
+链球菌属,链球菌属,exact,1.0
+胸壁,胸壁,exact,1.0
+布康唑,布康唑,exact,1.0
+雾化吸入,雾化吸入,exact,1.0
+溶血性链球菌,溶血性链球菌,exact,1.0
+肠杆菌属,肠杆菌属,exact,1.0
+免疫功能低下者,免疫功能低下者,exact,1.0
+替硝唑,替硝唑,exact,1.0
+急性呼吸道感染,急性呼吸道感染,exact,1.0
+利福霉素,利福霉素,exact,1.0
+头孢妥仑匹酯,头孢妥仑匹酯,exact,1.0
+polymyxin b,polymyxin b,exact,1.0
+无创正压通气,无创正压通气,exact,1.0
+胸膜炎,胸膜炎,exact,1.0
+抗原检测,抗原检测,exact,1.0
+咪达唑仑,咪达唑仑,exact,1.0
+过敏性休克,过敏性休克,exact,1.0
+学校,学校,exact,1.0
+外周血白细胞计数,外周血白细胞计数,exact,1.0
+胸腺素,胸腺素,exact,1.0
+血红蛋白降低,血红蛋白降低,exact,1.0
+侵入性操作,侵入性操作,exact,1.0
+易激惹,易激惹,exact,1.0
+乳酸脱氢酶,乳酸脱氢酶,exact,1.0
+汉坦病毒肺综合征,汉坦病毒肺综合征,exact,1.0
+pseudomonas aeruginosa,pseudomonas aeruginosa,exact,1.0
+胃肠,胃肠,exact,1.0
+治疗用药,治疗用药,exact,1.0
+imipenem/cilastatin,imipenem/cilastatin,exact,1.0
+pcr,pcr,exact,1.0
+死亡率高,死亡率高,exact,1.0
+gentamicin,gentamicin,exact,1.0
+肺栓塞,肺栓塞,exact,1.0
+革兰阴性菌感染,革兰阴性菌感染,exact,1.0
+肺隐球菌病,肺隐球菌病,exact,1.0
+避免刺激物,避免刺激物,exact,1.0
+克雷伯菌,克雷伯菌,exact,1.0
+声嘶,声嘶,exact,1.0
+流行性斑疹伤寒,流行性斑疹伤寒,exact,1.0
+隐球菌脑膜炎,隐球菌脑膜炎,exact,1.0
+头孢哌酮,头孢哌酮,exact,1.0
+喹诺酮类药物,喹诺酮类药物,exact,1.0
+青霉素,青霉素,exact,1.0
+电解质,电解质,exact,1.0
+马尔尼菲青霉菌病,马尔尼菲青霉菌病,exact,1.0
+fuzeon,fuzeon,exact,1.0
+多巴酚丁胺,多巴酚丁胺,exact,1.0
+legionella pneumonia,legionella pneumonia,exact,1.0
+盐酸米诺环素,盐酸米诺环素,exact,1.0
+齐多夫定,齐多夫定,exact,1.0
+戊烷脒,戊烷脒,exact,1.0
+低热,低热,exact,1.0
+潮红,潮红,exact,1.0
+茶碱,茶碱,exact,1.0
+肺炎链球菌,肺炎链球菌,exact,1.0
+辅助通气,辅助通气,exact,1.0
+环孢素a,环孢素a,exact,1.0
+环丙沙星,环丙沙星,exact,1.0
+滑石粉尘肺,滑石粉尘肺,exact,1.0
+polymyxin b sulfate,polymyxin b sulfate,exact,1.0
+引流管,引流管,exact,1.0
+脂质体两性霉素,脂质体两性霉素,exact,1.0
+哮喘性肺炎,哮喘性肺炎,exact,1.0
+pcr技术,pcr技术,exact,1.0
+地霉病,地霉病,exact,1.0
+柳氮磺吡啶,柳氮磺吡啶,exact,1.0
+骨髓移植,骨髓移植,exact,1.0
+蛔虫病,蛔虫病,exact,1.0
+支气管肺炎,支气管肺炎,exact,1.0
+嗜酸性粒细胞增多,嗜酸性粒细胞增多,exact,1.0
+转氨酶升高,转氨酶升高,exact,1.0
+超声心动图,超声心动图,exact,1.0
+磺胺甲噁唑-甲氧苄啶,磺胺甲噁唑-甲氧苄啶,exact,1.0
+托氟沙星,托氟沙星,exact,1.0
+乙胺嘧啶,乙胺嘧啶,exact,1.0
+胸闷,胸闷,exact,1.0
+新生儿巨细胞病毒感染,新生儿巨细胞病毒感染,exact,1.0
+膈肌肿瘤,膈肌肿瘤,exact,1.0
+左旋咪唑,左旋咪唑,exact,1.0
+半合成青霉素,半合成青霉素,exact,1.0
+抗菌药物治疗,抗菌药物治疗,exact,1.0
+sb,sb,exact,1.0
+学龄儿童,学龄儿童,exact,1.0
+virazole,virazole,exact,1.0
+血栓性静脉炎,血栓性静脉炎,exact,1.0
+vd,vd,exact,1.0
+阴性,阴性,exact,1.0
+interleukin-6,interleukin-6,exact,1.0
+多动,多动,exact,1.0
+倦怠,倦怠,exact,1.0
+ivig,ivig,exact,1.0
+替卡西林/克拉维酸,替卡西林/克拉维酸,exact,1.0
+脓胸伴有瘘,脓胸伴有瘘,exact,1.0
+血清肌酐,血清肌酐,exact,1.0
+白喉,白喉,exact,1.0
+synagis,synagis,exact,1.0
+过敏性皮疹,过敏性皮疹,exact,1.0
+第二代头孢菌素,第二代头孢菌素,exact,1.0
+支气管狭窄,支气管狭窄,exact,1.0
+nafcillin,nafcillin,exact,1.0
+furosemide,furosemide,exact,1.0
+12岁以上患者,12岁以上患者,exact,1.0
+雷诺嗪,雷诺嗪,exact,1.0
+地塞米松,地塞米松,exact,1.0
+水痘,水痘,exact,1.0
+需氧菌,需氧菌,exact,1.0
+复方磺胺甲基异噁唑,复方磺胺甲基异噁唑,exact,1.0
+早产,早产,exact,1.0
+0.1g,0.1g,exact,1.0
+头孢托仑,头孢托仑,exact,1.0
+胎儿,胎儿,exact,1.0
+pentamidine,pentamidine,exact,1.0
+皮肤芽生菌病,皮肤芽生菌病,exact,1.0
+sulfamethoxazole,sulfamethoxazole,exact,1.0
+戈登分枝杆菌,戈登分枝杆菌,exact,1.0
+镜检,镜检,exact,1.0
+巴西诺卡菌,巴西诺卡菌,exact,1.0
+酮症酸中毒,酮症酸中毒,exact,1.0
+继发感染,继发感染,exact,1.0
+利福布丁,利福布丁,exact,1.0
+奥美拉唑,奥美拉唑,exact,1.0
+呼吸困难加重,呼吸困难加重,exact,1.0
+液体潴留,液体潴留,exact,1.0
+左氧氟沙星,左氧氟沙星,exact,1.0
+急性阑尾炎,急性阑尾炎,exact,1.0
+免疫学,免疫学,exact,1.0
+奎尼丁,奎尼丁,exact,1.0
+寄生虫感染,寄生虫感染,exact,1.0
+杆菌性血管瘤病,杆菌性血管瘤病,exact,1.0
+剧烈咳嗽,剧烈咳嗽,exact,1.0
+病理学检查,病理学检查,exact,1.0
+肝脏肿大,肝脏肿大,exact,1.0
+wbc,wbc,exact,1.0
+细菌学检查,细菌学检查,exact,1.0
+利奈唑胺,利奈唑胺,exact,1.0
+混合性哮喘,混合性哮喘,exact,1.0
+免疫缺陷患者,免疫缺陷患者,exact,1.0
+骨质疏松,骨质疏松,exact,1.0
+头孢孟多,头孢孟多,exact,1.0
+浆膜腔积液,浆膜腔积液,exact,1.0
+胸腔积液检查,胸腔积液检查,exact,1.0
+氨曲南,氨曲南,exact,1.0
+头孢呋辛钠,头孢呋辛钠,exact,1.0
+钩虫病,钩虫病,exact,1.0
+替卡西林,替卡西林,exact,1.0
+大肠杆菌,大肠杆菌,exact,1.0
+活动,活动,exact,1.0
+氯碳头孢,氯碳头孢,exact,1.0
+头晕,头晕,exact,1.0
+肝坏死,肝坏死,exact,1.0
+喷他佐辛,喷他佐辛,exact,1.0
+磺胺增效剂,磺胺增效剂,exact,1.0
+meropenem,meropenem,exact,1.0
+流泪,流泪,exact,1.0
+气管,气管,exact,1.0
+关节痛,关节痛,exact,1.0
+更昔洛韦,更昔洛韦,exact,1.0
+脂肪乳,脂肪乳,exact,1.0
+急性肾功能衰竭,急性肾功能衰竭,exact,1.0
+高分辨ct,高分辨ct,exact,1.0
+胃肠道反应,胃肠道反应,exact,1.0
+神经质,神经质,exact,1.0
+dna酶,dna酶,exact,1.0
+2,2,exact,1.0
+磺胺甲噁唑,磺胺甲噁唑,exact,1.0
+d-dimer,d-dimer,exact,1.0
+精神病,精神病,exact,1.0
+脓胸,脓胸,exact,1.0
+抗微生物药物治疗,抗微生物药物治疗,exact,1.0
+定期筛查,定期筛查,exact,1.0
+肺源性心脏病,肺源性心脏病,exact,1.0
+抗结核药,抗结核药,exact,1.0
+环境污染,环境污染,exact,1.0
+咖啡因,咖啡因,exact,1.0
+支气管镜检查,支气管镜检查,exact,1.0
+心脏超声,心脏超声,exact,1.0
+喉,喉,exact,1.0
+秋水仙碱,秋水仙碱,exact,1.0
+高尿酸血症,高尿酸血症,exact,1.0
+氟康唑注射液,氟康唑注射液,exact,1.0
+手术切除,手术切除,exact,1.0
+胸部增强ct,胸部增强ct,exact,1.0
+asthma,asthma,exact,1.0
+冷凝集试验,冷凝集试验,exact,1.0
+卟啉病,卟啉病,exact,1.0
+替诺福韦酯,替诺福韦酯,exact,1.0
+鼻气管插管,鼻气管插管,exact,1.0
+普卢利沙星,普卢利沙星,exact,1.0
+益康唑,益康唑,exact,1.0
+肾上腺,肾上腺,exact,1.0
+蛋白质,蛋白质,exact,1.0
+95%,95%,exact,1.0
+合并感染,合并感染,exact,1.0
+厌食,厌食,exact,1.0
+误吸,误吸,exact,1.0
+胸膜腔,胸膜腔,exact,1.0
+中枢神经系统损害,中枢神经系统损害,exact,1.0
+amikin,amikin,exact,1.0
+脓肿分枝杆菌,脓肿分枝杆菌,exact,1.0
+肝大,肝大,exact,1.0
+流涕,流涕,exact,1.0
+2.5%,2.5%,exact,1.0
+伊曲康唑,伊曲康唑,exact,1.0
+肺大泡,肺大泡,exact,1.0
+cefixime,cefixime,exact,1.0
+注射部位疼痛,注射部位疼痛,exact,1.0
+咽喉肿痛,咽喉肿痛,exact,1.0
+发痒,发痒,exact,1.0
+沙美特罗,沙美特罗,exact,1.0
+卡介苗,卡介苗,exact,1.0
+磺胺甲噁唑/甲氧苄啶,磺胺甲噁唑/甲氧苄啶,exact,1.0
+白蛋白,白蛋白,exact,1.0
+g-csf,g-csf,exact,1.0
+蛋白尿,蛋白尿,exact,1.0
+脊髓,脊髓,exact,1.0
+鼻塞,鼻塞,exact,1.0
+美洛西林,美洛西林,exact,1.0
+糖尿病,糖尿病,exact,1.0
+背痛,背痛,exact,1.0
+igm,igm,exact,1.0
+室上性心动过速,室上性心动过速,exact,1.0
+嗜血流感杆菌,嗜血流感杆菌,exact,1.0
+免疫调节剂,免疫调节剂,exact,1.0
+ct,ct,exact,1.0
+病毒分离,病毒分离,exact,1.0
+溶血,溶血,exact,1.0
+精神障碍,精神障碍,exact,1.0
+血常规,血常规,exact,1.0
+胆固醇肺炎,胆固醇肺炎,exact,1.0
+球孢子菌病,球孢子菌病,exact,1.0
+流行性感冒,流行性感冒,exact,1.0
+肥胖,肥胖,exact,1.0
+放射学检查,放射学检查,exact,1.0
+呼吸困难,呼吸困难,exact,1.0
+粒细胞缺乏,粒细胞缺乏,exact,1.0
+次大面积肺栓塞,次大面积肺栓塞,exact,1.0
+大环内酯类抗生素,大环内酯类抗生素,exact,1.0
+光滑念珠菌,光滑念珠菌,exact,1.0
+influenza a,influenza a,exact,1.0
+维生素a,维生素a,exact,1.0
+风湿性关节炎,风湿性关节炎,exact,1.0
+链激酶,链激酶,exact,1.0
+皮质激素,皮质激素,exact,1.0
+broncholithiasis,broncholithiasis,exact,1.0
+影像检查,影像检查,exact,1.0
+中毒性表皮坏死,中毒性表皮坏死,exact,1.0
+眼痛,眼痛,exact,1.0
+窒息死亡,窒息死亡,exact,1.0
+抗生素相关性腹泻,抗生素相关性腹泻,exact,1.0
+乙酰唑胺,乙酰唑胺,exact,1.0
+气胸,气胸,exact,1.0
+呼吸功能衰竭,呼吸功能衰竭,exact,1.0
+鼻病毒急性支气管炎,鼻病毒急性支气管炎,exact,1.0
+侵袭性真菌感染,侵袭性真菌感染,exact,1.0
+胸壁窦道,胸壁窦道,exact,1.0
+fortaz,fortaz,exact,1.0
+肺芽生菌病,肺芽生菌病,exact,1.0
+寒战,寒战,exact,1.0
+环丝氨酸,环丝氨酸,exact,1.0
+热,热,exact,1.0
+西司他丁,西司他丁,exact,1.0
+smz-tmp,smz-tmp,exact,1.0
+抗真菌药,抗真菌药,exact,1.0
+苄星青霉素g,苄星青霉素g,exact,1.0
+精神状态改变,精神状态改变,exact,1.0
+氨茶碱,氨茶碱,exact,1.0
+硼酸,硼酸,exact,1.0
+非甾体抗炎药,非甾体抗炎药,exact,1.0
+巨细胞病毒,巨细胞病毒,exact,1.0
+吸虫病,吸虫病,exact,1.0
+人乳头瘤病毒,人乳头瘤病毒,exact,1.0
+cpk,cpk,exact,1.0
+palivizumab,palivizumab,exact,1.0
+肺结核,肺结核,exact,1.0
+囊性纤维化,囊性纤维化,exact,1.0
+血清学检测,血清学检测,exact,1.0
+烦躁,烦躁,exact,1.0
+行为异常,行为异常,exact,1.0
+单纯疱疹病毒,单纯疱疹病毒,exact,1.0
+抗生素,抗生素,exact,1.0
+血小板,血小板,exact,1.0
+急慢性感染,急慢性感染,exact,1.0
+流感嗜血杆菌急性支气管炎,流感嗜血杆菌急性支气管炎,exact,1.0
+人血白蛋白,人血白蛋白,exact,1.0
+cid,cid,exact,1.0
+严重急性呼吸综合征,严重急性呼吸综合征,exact,1.0
+抽搐,抽搐,exact,1.0
+传播途径,传播途径,exact,1.0
+血压降低,血压降低,exact,1.0
+doxycycline,doxycycline,exact,1.0
+维生素b6,维生素b6,exact,1.0
+blastomycosis,blastomycosis,exact,1.0
+低氧血症,低氧血症,exact,1.0
+33%,33%,exact,1.0
+gm-csf,gm-csf,exact,1.0
+急性呼吸窘迫综合征,急性呼吸窘迫综合征,exact,1.0
+心悸,心悸,exact,1.0
+热带念珠菌,热带念珠菌,exact,1.0
+急性期,急性期,exact,1.0
+急性细支气管炎,急性细支气管炎,exact,1.0
+ceftazidime,ceftazidime,exact,1.0
+严重头痛,严重头痛,exact,1.0
+呼吸暂停,呼吸暂停,exact,1.0
+头孢唑啉,头孢唑啉,exact,1.0
+肾移植,肾移植,exact,1.0
+包裹性胸腔积液,包裹性胸腔积液,exact,1.0
+克力芝,克力芝,exact,1.0
+视力障碍,视力障碍,exact,1.0
+肝素,肝素,exact,1.0
+抗真菌治疗,抗真菌治疗,exact,1.0
+衣原体感染,衣原体感染,exact,1.0
+chronic bronchitis,chronic bronchitis,exact,1.0
+机械通气支持,机械通气支持,exact,1.0
+amphocil,amphocil,exact,1.0
+红霉素琥珀酸乙酯,红霉素琥珀酸乙酯,exact,1.0
+剥脱性皮炎,剥脱性皮炎,exact,1.0
+味觉异常,味觉异常,exact,1.0
+奈替米星,奈替米星,exact,1.0
+pas,pas,exact,1.0
+头孢菌素类,头孢菌素类,exact,1.0
+盐酸氨溴索,盐酸氨溴索,exact,1.0
+amphotericin b,amphotericin b,exact,1.0
+林格液,林格液,exact,1.0
+结核感染,结核感染,exact,1.0
+laryngitis,laryngitis,exact,1.0
+甲泼尼龙,甲泼尼龙,exact,1.0
+药物性支气管哮喘,药物性支气管哮喘,exact,1.0
+legionnaires' disease,legionnaires' disease,exact,1.0
+盐酸多西环素,盐酸多西环素,exact,1.0
+肠穿孔,肠穿孔,exact,1.0
+精神异常,精神异常,exact,1.0
+抗病毒药,抗病毒药,exact,1.0
+两性霉素b,两性霉素b,exact,1.0
+厌氧菌,厌氧菌等,llm,0.9
+犬吠样咳嗽,犬吠样咳嗽,exact,1.0
+肾衰,肾衰,exact,1.0
+四环素,四环素,exact,1.0
+胸水,胸水,exact,1.0
+硫氯酚,硫氯酚,exact,1.0
+四肢,四肢,exact,1.0
+血管炎,血管炎,exact,1.0
+肺浸润,肺浸润,exact,1.0
+免疫抑制,免疫抑制,exact,1.0
+变形杆菌属,变形杆菌属,exact,1.0
+抗微生物治疗,抗微生物治疗,exact,1.0
+细支气管炎,细支气管炎,exact,1.0
+自发性张力性气胸,自发性张力性气胸,exact,1.0
+结核菌素试验,结核菌素试验,exact,1.0
+ldh升高,ldh升高,exact,1.0
+心电图,心电图,exact,1.0
+芬太尼,芬太尼,exact,1.0
+机械通气治疗,机械通气治疗,exact,1.0
+大肠杆菌性肺炎,大肠杆菌性肺炎,exact,1.0
+乳酸脱氢酶升高,乳酸脱氢酶升高,exact,1.0
+他唑巴坦,他唑巴坦,exact,1.0
+呼吸窘迫综合征,呼吸窘迫综合征,exact,1.0
+四环素类,四环素类,exact,1.0
+声音嘶哑,声音嘶哑,exact,1.0
+轻度畏寒,轻度畏寒,exact,1.0
+卷曲霉素,卷曲霉素,exact,1.0
+原位癌,原位癌,exact,1.0
+药物敏感性试验,药物敏感性试验,exact,1.0
+肠梗阻,肠梗阻,exact,1.0
+哌库溴铵,哌库溴铵,exact,1.0
+嗜酸细胞增多,嗜酸细胞增多,exact,1.0
+普遍易感,普遍易感,exact,1.0
+支气管内膜结核,支气管内膜结核,exact,1.0
+严重肝功能不全,严重肝功能不全,exact,1.0
+流涎,流涎,exact,1.0
+多西环素,多西环素,exact,1.0
+芽生菌病,芽生菌病,exact,1.0
+原发性肺球孢子菌病,原发性肺球孢子菌病,exact,1.0
+巨细胞病毒感染,巨细胞病毒感染,exact,1.0
+mers,mers,exact,1.0
+组织,组织,exact,1.0
+胀气,胀气,exact,1.0
+运动,运动,exact,1.0
+肝功能异常,肝功能异常,exact,1.0
+外科手术,外科手术,exact,1.0
+实验室检查,实验室检查,exact,1.0
+cefpodoxime proxetil,cefpodoxime proxetil,exact,1.0
+influenza,influenza,exact,1.0
+青霉素v钾,青霉素v钾,exact,1.0
+液气胸,液气胸,exact,1.0
+氟罗沙星,氟罗沙星,exact,1.0
+spiramycin,spiramycin,exact,1.0
+气喘,气喘,exact,1.0
+咽喉,咽喉,exact,1.0
+纵隔,纵隔,exact,1.0
+结核病,结核病,exact,1.0
+支气管扩张,支气管扩张,exact,1.0
+polymyxin e,硫酸粘菌素颗粒,llm,0.9
+肌病,肌病,exact,1.0
+过敏性皮炎,过敏性皮炎,exact,1.0
+克拉霉素缓释片,克拉霉素缓释片,exact,1.0
+tmp,tmp,exact,1.0
+晕厥,晕厥,exact,1.0
+乙酰螺旋霉素,乙酰螺旋霉素,exact,1.0
+穿透性创伤,穿透性创伤,exact,1.0
+5%葡萄糖,5%葡萄糖,exact,1.0
+胸部,胸部,exact,1.0
+免疫状态,免疫状态,exact,1.0
+cefzil,cefzil,exact,1.0
+β2受体激动剂,β2受体激动剂,exact,1.0
+氧氟沙星,氧氟沙星,exact,1.0
+生化检查,生化检查,exact,1.0
+心搏骤停,心搏骤停,exact,1.0
+纵隔增宽,纵隔增宽,exact,1.0
+nosocomial pneumonia,nosocomial pneumonia,exact,1.0
+色素沉着,色素沉着,exact,1.0
+发热待查,发热待查,exact,1.0
+头孢克洛,头孢克洛,exact,1.0
+细菌性肺炎,细菌性肺炎,exact,1.0
+支气管痉挛,支气管痉挛,exact,1.0
+itraconazole,itraconazole,exact,1.0
+畏寒,畏寒,exact,1.0
+感染,感染,exact,1.0
+手术治疗,手术治疗,exact,1.0
+右上腹痛,右上腹痛,exact,1.0
+肾衰竭,肾衰竭,exact,1.0
+接合菌病,接合菌病,exact,1.0
+磺胺多辛,磺胺多辛,exact,1.0
+真菌培养,真菌培养,exact,1.0
+人型支原体,人型支原体,exact,1.0
+意识混乱,意识混乱,exact,1.0
+戒烟,戒烟,exact,1.0
+肺炎链球菌性肺炎,肺炎链球菌性肺炎,exact,1.0
+肝脾肿大,肝脾肿大,exact,1.0
+播散性副球孢子菌病,播散性副球孢子菌病,exact,1.0
+庆大霉素,庆大霉素,exact,1.0
+气管切开,气管切开,exact,1.0
+肝肾功能,肝肾功能,exact,1.0
+生理盐水,生理盐水,exact,1.0
+少见,少见,exact,1.0
+dexamethasone,dexamethasone,exact,1.0
+金刚乙胺,金刚乙胺,exact,1.0
+神经病变,神经病变,exact,1.0
+葡萄球菌属,葡萄球菌属,exact,1.0
+进行性呼吸困难,进行性呼吸困难,exact,1.0
+蝇疫霉病,蝇疫霉病,exact,1.0
+咽拭子培养,咽拭子培养,exact,1.0
+艾滋病,艾滋病,exact,1.0
+体位引流,体位引流,exact,1.0
+严重感染,严重感染,exact,1.0
+阿苯达唑,阿苯达唑,exact,1.0
+冠状病毒感染,冠状病毒感染,exact,1.0
+肺泡,肺泡,exact,1.0
+心内膜炎,心内膜炎,exact,1.0
+carbon dioxide,carbon dioxide,exact,1.0
+范围,范围,exact,1.0
+tuberculosis,tuberculosis,exact,1.0
+呼吸道黏膜,呼吸道黏膜,exact,1.0
+免疫,免疫,exact,1.0
+血性胸水,血性胸水,exact,1.0
+注意力不集中,注意力不集中,exact,1.0
+支气管扩张伴感染,支气管扩张伴感染,exact,1.0
+地红霉素,地红霉素,exact,1.0
+肺炎链球菌疫苗,肺炎链球菌疫苗,exact,1.0
+无尿,无尿,exact,1.0
+安浮特克,安浮特克,exact,1.0
+粒细胞缺乏症,粒细胞缺乏症,exact,1.0
+记忆力减退,记忆力减退,exact,1.0
+日内瓦分枝杆菌,日内瓦分枝杆菌,exact,1.0
+bronchiectasis,bronchiectasis,exact,1.0
+500mg,500mg,exact,1.0
+皮肤溃疡,皮肤溃疡,exact,1.0
+叩诊浊音,叩诊浊音,exact,1.0
+亚胺培南,亚胺培南,exact,1.0
+中鼻道,中鼻道,exact,1.0
+病毒,病毒,exact,1.0
+disseminated aspergillosis,disseminated aspergillosis,exact,1.0
+伴有全身症状,伴有全身症状,exact,1.0
+甲氧苄啶,甲氧苄啶,exact,1.0
+5-fc,5-fc,exact,1.0
+急性上呼吸道感染,急性上呼吸道感染,exact,1.0
+600mg,600mg,exact,1.0
+脓毒症,脓毒症,exact,1.0
+接触传播,接触传播,exact,1.0
+头孢克肟,头孢克肟,exact,1.0
+咽部结核,咽部结核,exact,1.0
+甲型流感,甲型流感,exact,1.0
+传染源,传染源,exact,1.0
+股骨,股骨,exact,1.0
+胸膜炎性疼痛,胸膜炎性疼痛,exact,1.0
+风疹病毒,风疹病毒,exact,1.0
+c反应蛋白（crp）,c反应蛋白（crp）,exact,1.0
+头疼,头疼,exact,1.0
+弛张热,弛张热,exact,1.0
+持续发热,持续发热,exact,1.0
+血痰,血痰,exact,1.0
+骨痛,骨痛,exact,1.0
+决奈达隆,决奈达隆,exact,1.0
+呋塞米,呋塞米,exact,1.0
+面部浮肿,面部浮肿,exact,1.0
+头孢噻肟,头孢噻肟,exact,1.0
+巴基斯坦,巴基斯坦,exact,1.0
+超声,超声,exact,1.0
+肺孢子菌肺炎,肺孢子菌肺炎,exact,1.0
+放线菌,放线菌,exact,1.0
+磺胺甲基异噁唑,磺胺甲基异噁唑,exact,1.0
+组织学检查,组织学检查,exact,1.0
+枸橼酸杆菌属,枸橼酸杆菌属,exact,1.0
+多黏菌素e,多黏菌素e,exact,1.0
+运动障碍,运动障碍,exact,1.0
+高龄,高龄,exact,1.0
+盐酸,盐酸,exact,1.0
+骨骼,骨骼,exact,1.0
+gpt升高,gpt升高,exact,1.0
+切开引流,切开引流,exact,1.0
+支气管源性囊肿,支气管源性囊肿,exact,1.0
+支气管肺泡灌洗液,支气管肺泡灌洗液,exact,1.0
+右肺,右肺,exact,1.0
+rt,rt,exact,1.0
+囊肿,囊肿,exact,1.0
+血清病,血清病,exact,1.0
+循环衰竭,循环衰竭,exact,1.0
+全身不适,全身不适,exact,1.0
+会厌囊肿,会厌囊肿,exact,1.0
+平衡失调,平衡失调,exact,1.0
+欧洲,欧洲,exact,1.0
+局部治疗,局部治疗,exact,1.0
+骨隐球菌病,骨隐球菌病,exact,1.0
+乳糖酸红霉素,乳糖酸红霉素,exact,1.0
+蜂蜜,蜂蜜,exact,1.0
+社区获得性肺炎,社区获得性肺炎,exact,1.0
+印度尼西亚,印度尼西亚,exact,1.0
+肿胀,肿胀,exact,1.0
+心动过速,心动过速,exact,1.0
+头孢唑林钠,头孢唑林钠,exact,1.0
+急性肺血栓栓塞症,急性肺血栓栓塞症,exact,1.0
+慢性支气管炎急性发作,慢性支气管炎急性发作,exact,1.0
+急性肾衰,急性肾衰,exact,1.0
+吉米沙星,吉米沙星,exact,1.0
+百日咳疫苗,百日咳疫苗,exact,1.0
+贫血,贫血,exact,1.0
+黏菌素,黏菌素,exact,1.0
+rsv感染,rsv感染,exact,1.0
+新生儿吸入性肺炎,新生儿吸入性肺炎,exact,1.0
+体弱,体弱,exact,1.0
+帕利珠单抗,帕利珠单抗,exact,1.0
+抗感染治疗,抗感染治疗,exact,1.0
+精神错乱,精神错乱,exact,1.0
+深静脉血栓,深静脉血栓,exact,1.0
+肌酐升高,肌酐升高,exact,1.0
+泊沙康唑口服混悬液,泊沙康唑口服混悬液,exact,1.0
+250mg,250mg,exact,1.0
+肠球菌,肠球菌,exact,1.0
+喉梗阻,喉梗阻,exact,1.0
+皮肤瘙痒,皮肤瘙痒,exact,1.0
+低蛋白血症,低蛋白血症,exact,1.0
+支扩,支扩,exact,1.0
+颜面潮红,颜面潮红,exact,1.0
+多房棘球蚴病,多房棘球蚴病,exact,1.0
+cefoperazone,cefoperazone,exact,1.0
+出血点,出血点,exact,1.0
+异烟肼,异烟肼,exact,1.0
+血胸,血胸,exact,1.0
+依他尼酸,依他尼酸,exact,1.0
+kanamycin,kanamycin,exact,1.0
+不定型流感嗜血杆菌,不定型流感嗜血杆菌,exact,1.0
+泼尼松,泼尼松,exact,1.0
+林可霉素,林可霉素,exact,1.0
+氧饱和度降低,氧饱和度降低,exact,1.0
+primaxin,primaxin,exact,1.0
+蜂窝肺,蜂窝肺,exact,1.0
+斑丘疹,斑丘疹,exact,1.0
+美洛培南,美洛培南,exact,1.0
+红肿,红肿,exact,1.0
+间质性肺疾病,间质性肺疾病,exact,1.0
+侵袭性曲霉菌病,侵袭性曲霉菌病,exact,1.0
+鼻中隔穿孔,鼻中隔穿孔,exact,1.0
+哌替啶,哌替啶,exact,1.0
+瘀斑,瘀斑,exact,1.0
+肺炎支原体,肺炎支原体,exact,1.0
+黏膜,黏膜,exact,1.0
+肾活检,肾活检,exact,1.0
+不明原因发热,不明原因发热,exact,1.0
+头孢米诺,头孢米诺,exact,1.0
+吲哚美辛,吲哚美辛,exact,1.0
+两性霉素b脂质体,康丽能,llm,0.7
+粒细胞减少,粒细胞减少,exact,1.0
+肌肉疼痛,肌肉疼痛,exact,1.0
+头孢唑林,头孢唑林,exact,1.0
+caspofungin,caspofungin,exact,1.0
+fungal pneumonia,fungal pneumonia,exact,1.0
+休克,休克,exact,1.0
+双氯西林,双氯西林,exact,1.0
+基本药物,基本药物,exact,1.0
+靶向治疗,靶向治疗,exact,1.0
+苯海拉明,苯海拉明,exact,1.0
+随机,随机,exact,1.0
+恩卡胺,恩卡胺,exact,1.0
+黏膜型孢子丝菌病,黏膜型孢子丝菌病,exact,1.0
+凝血功能,凝血功能,exact,1.0
+恶心呕吐,恶心呕吐,exact,1.0
+肝炎,肝炎,exact,1.0
+眼睑下垂,眼睑下垂,exact,1.0
+全身治疗,全身治疗,exact,1.0
+丁丙诺啡,丁丙诺啡,exact,1.0
+咳嗽变异性哮喘,咳嗽变异性哮喘,exact,1.0
+血液科,血液科,exact,1.0
+软弱,软弱,exact,1.0
+柯萨奇病毒急性支气管炎,柯萨奇病毒急性支气管炎,exact,1.0
+免疫接种,免疫接种,exact,1.0
+慢阻肺,慢阻肺,exact,1.0
+阿米卡星,阿米卡星,exact,1.0
+生物制剂,生物制剂,exact,1.0
+血管,血管,exact,1.0
+腺样体肥大,腺样体肥大,exact,1.0
+人工喂养,人工喂养,exact,1.0
+舌炎,舌炎,exact,1.0
+咪喹莫特,咪喹莫特,exact,1.0
+星形诺卡菌,星形诺卡菌,exact,1.0
+铜绿假单胞菌,铜绿假单胞菌,exact,1.0
+主要为变应性哮喘,主要为变应性哮喘,exact,1.0
+ampicillin,ampicillin,exact,1.0
+慢性肺部疾病,慢性肺部疾病,exact,1.0
+bronchopneumonia,bronchopneumonia,exact,1.0
+白假丝酵母,白假丝酵母,exact,1.0
+血管炎综合征,血管炎综合征,exact,1.0
+严重并发症,严重并发症,exact,1.0
+疱疹,疱疹,exact,1.0
+膈膨升,膈膨升,exact,1.0
+畏光,畏光,exact,1.0
+细菌学培养,细菌学培养,exact,1.0
+流浪者,流浪者,exact,1.0
+胃灼热,胃灼热,exact,1.0
+芽生菌性皮炎,芽生菌性皮炎,exact,1.0
+慢性鼻咽炎,慢性鼻咽炎,exact,1.0
+硫酸黏菌素,硫酸黏菌素,exact,1.0
+曲霉球,曲霉球,exact,1.0
+rifampin,rifampin,exact,1.0
+活检,活检,exact,1.0
+血钾,血钾,exact,1.0
+大肠埃希菌,大肠埃希菌,exact,1.0
+葡萄糖,葡萄糖,exact,1.0
+气管食管瘘,气管食管瘘,exact,1.0
+胸部ct检查,胸部ct检查,exact,1.0
+甘露醇,甘露醇,exact,1.0
+肺气肿,肺气肿,exact,1.0
+组织病理学,组织病理学,exact,1.0
+支持治疗,支持治疗,exact,1.0
+皮质类固醇,皮质类固醇,exact,1.0
+头孢西丁钠,头孢西丁钠,exact,1.0
+自身免疫性疾病,自身免疫性疾病,exact,1.0
+cat,cat,exact,1.0
+acute mediastinitis,acute mediastinitis,exact,1.0
+南美洲,南美洲,exact,1.0
+细菌,细菌,exact,1.0
+细胞学检查,细胞学检查,exact,1.0
+zinacef,zinacef,exact,1.0
+pct,pct,exact,1.0
+口腔炎,口腔炎,exact,1.0
+副流感嗜血杆菌,副流感嗜血杆菌,exact,1.0
+噻苯达唑,噻苯达唑,exact,1.0
+pc,pc,exact,1.0
+物理治疗,物理治疗,exact,1.0
+角膜结膜炎,角膜结膜炎,exact,1.0
+浸润,浸润,exact,1.0
+精神症状,精神症状,exact,1.0
+心肌炎,心肌炎,exact,1.0
+免疫球蛋白,免疫球蛋白,exact,1.0
+去羟肌苷,去羟肌苷,exact,1.0
+第三代头孢菌素,第三代头孢菌素,exact,1.0
+会诊,会诊,exact,1.0
+灭活疫苗,灭活疫苗,exact,1.0
+军团菌肺炎,军团菌肺炎,exact,1.0
+抗体检测,抗体检测,exact,1.0
+复方磺胺甲噁唑,复方磺胺甲噁唑,exact,1.0
+mucormycosis,mucormycosis,exact,1.0
+biapenem,biapenem,exact,1.0
+多器官功能障碍,多器官功能障碍,exact,1.0
+比阿培南,比阿培南,exact,1.0
+糖浆,糖浆,exact,1.0
+腹部压痛,腹部压痛,exact,1.0
+对症处理,对症处理,exact,1.0
+抗菌治疗,抗菌治疗,exact,1.0
+抗生素治疗,抗生素治疗,exact,1.0
+摩氏摩根菌,摩氏摩根菌,exact,1.0
+被动吸烟,被动吸烟,exact,1.0
+瘀点,瘀点,exact,1.0
+x线,x线,exact,1.0
+其他药物,其他药物,exact,1.0
+脓肿,脓肿,exact,1.0
+血压下降,血压下降,exact,1.0
+制霉菌素片,制霉菌素片,exact,1.0
+咳脓痰,咳脓痰,exact,1.0
+蜱,蜱,exact,1.0
+肺泡微结石症,肺泡微结石症,exact,1.0
+副流感病毒急性支气管炎,副流感病毒急性支气管炎,exact,1.0
+炭疽,炭疽,exact,1.0
+慢性肺血栓栓塞急性再发,慢性肺血栓栓塞急性再发,exact,1.0
+替考拉宁,替考拉宁,exact,1.0
+心率增快,心率增快,exact,1.0
+流行性出血热,流行性出血热,exact,1.0
+体格检查,体格检查,exact,1.0
+介入治疗,介入治疗,exact,1.0
+米诺环素,米诺环素,exact,1.0
+闭合性气胸,闭合性气胸,exact,1.0
+vantin,vantin,exact,1.0
+temopen,temopen,exact,1.0
+胸腔闭式引流,胸腔闭式引流,exact,1.0
+cpa,cpa,exact,1.0
+卡维地洛,卡维地洛,exact,1.0
+慢性喉炎,慢性喉炎,exact,1.0
+外周水肿,外周水肿,exact,1.0
+阵发性咳嗽,阵发性咳嗽,exact,1.0
+可的松,可的松,exact,1.0
+听力下降,听力下降,exact,1.0
+先天性肺炎,先天性肺炎,exact,1.0
+脱发,脱发,exact,1.0
+淋巴结结核,淋巴结结核,exact,1.0
+急性发作,急性发作,exact,1.0
+肺部疾病,肺部疾病,exact,1.0
+新生儿吸入综合征,新生儿吸入综合征,exact,1.0
+疲劳,疲劳,exact,1.0
+伊曲康唑胶囊,伊曲康唑胶囊,exact,1.0
+感染性休克,感染性休克,exact,1.0
+azactam,azactam,exact,1.0
+张力性气胸,张力性气胸,exact,1.0
+缺铁性贫血,缺铁性贫血,exact,1.0
+呼吸变慢变浅,呼吸变慢变浅,exact,1.0
+肺实变,肺实变,exact,1.0
+肾病综合征,肾病综合征,exact,1.0
+苯巴比妥,苯巴比妥,exact,1.0
+叶酸,叶酸,exact,1.0
+voriconazole,voriconazole,exact,1.0
+枯草热,枯草热,exact,1.0
+急性哮喘,急性哮喘,exact,1.0
+哌嗪,哌嗪,exact,1.0
+抗胆碱药,抗胆碱药,exact,1.0
+咳,咳,exact,1.0
+酶联免疫吸附试验,酶联免疫吸附试验,exact,1.0
+ofloxacin,ofloxacin,exact,1.0
+亚甲蓝,亚甲蓝,exact,1.0
+链霉素,链霉素,exact,1.0
+血吸虫病,血吸虫病,exact,1.0
+1.0g,1.0g,exact,1.0
+味觉减退,味觉减退,exact,1.0
+血丝痰,血丝痰,exact,1.0
+病毒性肺炎,病毒性肺炎,exact,1.0
+空洞,空洞,exact,1.0
+萘夫西林,萘夫西林,exact,1.0
+胸腔感染,胸腔感染,exact,1.0
+抗病毒治疗,抗病毒治疗,exact,1.0
+利托那韦,利托那韦,exact,1.0
+早产儿,早产儿,exact,1.0
+85%,85%,exact,1.0
+心脏病,心脏病,exact,1.0
+外周神经炎,外周神经炎,exact,1.0
+放线菌病,放线菌病,exact,1.0
+毛孢子菌,毛孢子菌,exact,1.0
+阿司匹林,阿司匹林,exact,1.0
+奥司他韦,奥司他韦,exact,1.0
+epiglottitis,epiglottitis,exact,1.0
+注射用水,注射用水,exact,1.0
+呼吸窘迫,呼吸窘迫,exact,1.0
+伊曲康唑口服液,伊曲康唑口服液,exact,1.0
+皮下气肿,皮下气肿,exact,1.0
+强心药,强心药,exact,1.0
+针刺感,针刺感,exact,1.0
+无力,无力,exact,1.0
+腹痛,腹痛,exact,1.0
+ketek,ketek,exact,1.0
+clarithromycin,clarithromycin,exact,1.0
+常见,常见,exact,1.0
+甲硝唑,甲硝唑,exact,1.0
+胸腔穿刺术,胸腔穿刺术,exact,1.0
+中度,中度,exact,1.0
+淋巴结肿大,淋巴结肿大,exact,1.0
+冷冻,冷冻,exact,1.0
+隐球菌,隐球菌,exact,1.0
+头孢托仑匹酯,头孢托仑匹酯,exact,1.0
+community-acquired pneumonia,community-acquired pneumonia,exact,1.0
+剧烈头痛,剧烈头痛,exact,1.0
+预后差,预后差,exact,1.0
+凝血障碍,凝血障碍,exact,1.0
+喉息肉,喉息肉,exact,1.0
+血糖升高,血糖升高,exact,1.0
+淋巴结,淋巴结,exact,1.0
+视网膜炎,视网膜炎,exact,1.0
+吡嗪酰胺,吡嗪酰胺,exact,1.0
+体育锻炼,体育锻炼,exact,1.0
+利尿剂,利尿剂,exact,1.0
+流感病毒肺炎,流感病毒肺炎,exact,1.0
+北美,北美,exact,1.0
+histoplasmosis,histoplasmosis,exact,1.0
+腺病毒肺炎,腺病毒肺炎,exact,1.0
+咳嗽后呕吐,咳嗽后呕吐,exact,1.0
+神经内科,神经内科,exact,1.0
+播散性荚膜组织胞浆菌病,播散性荚膜组织胞浆菌病,exact,1.0
+pcp,pcp,exact,1.0
+invanz,invanz,exact,1.0
+pao2,pao2,exact,1.0
+羧甲司坦,羧甲司坦,exact,1.0
+假单胞菌感染,假单胞菌感染,exact,1.0
+阿莫沙平,阿莫沙平,exact,1.0
+呼吸道合胞体病毒急性支气管炎,呼吸道合胞体病毒急性支气管炎,exact,1.0
+右肺上叶,右肺上叶,exact,1.0
+口干,口干,exact,1.0
+哮喘持续状态,哮喘持续状态,exact,1.0
+aspiration pneumonia,aspiration pneumonia,exact,1.0
+吸痰,吸痰,exact,1.0
+密切观察,密切观察,exact,1.0
+急性,急性,exact,1.0
+营养不良,营养不良,exact,1.0
+发烧,发烧,exact,1.0
+司帕沙星,司帕沙星,exact,1.0
+阻塞性肺气肿,阻塞性肺气肿,exact,1.0
+左肺上叶,左肺上叶,exact,1.0
+链球菌性咽炎,链球菌性咽炎,exact,1.0
+尿常规,尿常规,exact,1.0
+氧疗,氧疗,exact,1.0
+肺炎克雷伯菌,肺炎克雷伯菌,exact,1.0
+肺部病变,肺部病变,exact,1.0
+头孢替唑,头孢替唑,exact,1.0
+早期治疗,早期治疗,exact,1.0
+流感样症状,流感样症状,exact,1.0
+呼吸系统,呼吸系统,exact,1.0
+他克莫司,他克莫司,exact,1.0
+高血糖,高血糖,exact,1.0
+依维莫司,依维莫司,exact,1.0
+涂片镜检,涂片镜检,exact,1.0
+肾功能不全,肾功能不全,exact,1.0
+pyrazinamide,pyrazinamide,exact,1.0
+喉部黏膜,喉部黏膜,exact,1.0
+影像学,影像学,exact,1.0
+美他环素,美他环素,exact,1.0
+浓缩,浓缩,exact,1.0
+头孢西丁,头孢西丁,exact,1.0
+非结核分枝杆菌感染,非结核分枝杆菌感染,exact,1.0
+胸部ct,胸部ct,exact,1.0
+x线片,x线片,exact,1.0
+5%～10%,5%～10%,exact,1.0
+肺癌,肺癌,exact,1.0
+广谱青霉素,广谱青霉素,exact,1.0
+支气管壁增厚,支气管壁增厚,exact,1.0
+声带结节,声带结节,exact,1.0
+no,no,exact,1.0
+苄星青霉素,苄星青霉素,exact,1.0
+immunoglobulin,immunoglobulin,exact,1.0
+颈部,颈部,exact,1.0
+铁锈色痰,铁锈色痰,exact,1.0
+急性呼吸衰竭,急性呼吸衰竭,exact,1.0
+慢性咽炎,慢性咽炎,exact,1.0
+病理活检,病理活检,exact,1.0
+肺炎球菌多糖疫苗,肺炎球菌多糖疫苗,exact,1.0
+阿昔洛韦,阿昔洛韦,exact,1.0
+喹诺酮类,喹诺酮类,exact,1.0
+colistin,硫酸粘菌素颗粒,llm,0.9
+血气胸,血气胸,exact,1.0
+肾脏替代治疗,肾脏替代治疗,exact,1.0
+内镜检查,内镜检查,exact,1.0
+声门水肿,声门水肿,exact,1.0
+过敏反应,过敏反应,exact,1.0
+ceftriaxone,ceftriaxone,exact,1.0
+外科治疗,外科治疗,exact,1.0
+皮肤反应,皮肤反应,exact,1.0
+双盲,双盲,exact,1.0
+阿莫西林,阿莫西林,exact,1.0
+唑吡坦,唑吡坦,exact,1.0
+ciprofloxacin,ciprofloxacin,exact,1.0
+ambisome,ambisome,exact,1.0
+肝衰竭,肝衰竭,exact,1.0
+人免疫球蛋白,人免疫球蛋白,exact,1.0
+血行感染,血行感染,exact,1.0
+肺原发性结核性复征,肺原发性结核性复征,exact,1.0
+眼新型隐球菌病,眼新型隐球菌病,exact,1.0
+利福昔明,利福昔明,exact,1.0
+肌阵挛,肌阵挛,exact,1.0
+肺门淋巴结肿大,肺门淋巴结肿大,exact,1.0
+磺胺甲恶唑,磺胺甲恶唑,exact,1.0
+扎那米韦,扎那米韦,exact,1.0
+心肌缺血,心肌缺血,exact,1.0
+皮肤,皮肤,exact,1.0
+噻吗洛尔,噻吗洛尔,exact,1.0
+1%,1%,exact,1.0
+脓性痰,脓性痰,exact,1.0
+乳胶凝集试验,乳胶凝集试验,exact,1.0
+omalizumab,omalizumab,exact,1.0
+呼吸道隔离,呼吸道隔离,exact,1.0
+呼吸科,呼吸科,exact,1.0
+育龄期女性,育龄期女性,exact,1.0
+米库氯铵,米库氯铵,exact,1.0
+兔热病,兔热病,exact,1.0
+预防性抗生素,预防性抗生素,exact,1.0
+博卡病毒,博卡病毒,exact,1.0
+混合感染,混合感染,exact,1.0
+低血糖,低血糖,exact,1.0
+咳嗽,咳嗽,exact,1.0
+脱水,脱水,exact,1.0
+喉水肿,喉水肿,exact,1.0
+治疗措施,治疗措施,exact,1.0
+胸部x线,胸部x线,exact,1.0
+慢性呼吸衰竭,慢性呼吸衰竭,exact,1.0
+口腔黏膜,口腔黏膜,exact,1.0
+一级预防,一级预防,exact,1.0
+肺组织活检,肺组织活检,exact,1.0
+唑类,唑类,exact,1.0
+肿瘤患者,肿瘤患者,exact,1.0
+间质性肺气肿,间质性肺气肿,exact,1.0
+羟考酮,羟考酮,exact,1.0
+军团菌病,军团菌病,exact,1.0
+劳拉西泮,劳拉西泮,exact,1.0
+慢性喘息性支气管炎,慢性喘息性支气管炎,exact,1.0
+cefadroxil,cefadroxil,exact,1.0
+念珠菌病,念珠菌病,exact,1.0
+体重下降,体重下降,exact,1.0
+卡巴胂,卡巴胂,exact,1.0
+pcr法,pcr法,exact,1.0
+毛霉病,毛霉病,exact,1.0
+青年,青年,exact,1.0
+头孢泊肟酯,头孢泊肟酯,exact,1.0
+脑,脑,exact,1.0
+呼吸循环衰竭,呼吸循环衰竭,exact,1.0
+itraconazole capsules,itraconazole capsules,exact,1.0
+发热,发热,exact,1.0
+痉挛,痉挛,exact,1.0
+利福霉素钠,利福霉素钠,exact,1.0
+头孢替安,头孢替安,exact,1.0
+肺炎性假瘤,肺炎性假瘤,exact,1.0
+医院获得性感染,医院获得性感染,exact,1.0
+empyema,empyema,exact,1.0
+外伤,外伤,exact,1.0
+解毒药,解毒药,exact,1.0
+检验科,检验科,exact,1.0
+肝毒性,肝毒性,exact,1.0
+衰弱,衰弱,exact,1.0
+pneumonia,pneumonia,exact,1.0
+灼痛,灼痛,exact,1.0
+血白细胞计数,血白细胞计数,exact,1.0
+喉痉挛,喉痉挛,exact,1.0
+坏死性丘疹,坏死性丘疹,exact,1.0
+支气管镜,支气管镜,exact,1.0
+气管梗阻,气管梗阻,exact,1.0
+严重,严重,exact,1.0
+食欲不振,食欲不振,exact,1.0
+b族链球菌感染,b族链球菌感染,exact,1.0
+凝血酶原时间,凝血酶原时间,exact,1.0
+喉炎,喉炎,exact,1.0
+高钙血症,高钙血症,exact,1.0
+渗出性胸膜炎,渗出性胸膜炎,exact,1.0
+胸腺肽,胸腺肽,exact,1.0
+心内科,心内科,exact,1.0
+窒息,窒息,exact,1.0
+土拉菌病,土拉菌病,exact,1.0
+急性喉水肿,急性喉水肿,exact,1.0
+klebsiella pneumoniae,klebsiella pneumoniae,exact,1.0
+血管活性药物,血管活性药物,exact,1.0
+保泰松,保泰松,exact,1.0
+面部肿胀,面部肿胀,exact,1.0
+抗菌剂,抗菌剂,exact,1.0
+肺坏疽,肺坏疽,exact,1.0
+尿抗原检测,尿抗原检测,exact,1.0
+蠕虫,蠕虫,exact,1.0
+莫匹罗星软膏,莫匹罗星软膏,exact,1.0
+跟腱断裂,跟腱断裂,exact,1.0
+月经期支气管哮喘,月经期支气管哮喘,exact,1.0
+血液病,血液病,exact,1.0
+结膜炎,结膜炎,exact,1.0
+急性肺栓塞,急性肺栓塞,exact,1.0
+螺旋霉素,螺旋霉素,exact,1.0
+甲氨蝶呤,甲氨蝶呤,exact,1.0
+急性气管支气管炎,急性气管支气管炎,exact,1.0
+病原治疗,病原治疗,exact,1.0
+zosyn,zosyn,exact,1.0
+艾他培南,艾他培南,exact,1.0
+hiv感染,hiv感染,exact,1.0
+误吸风险,误吸风险,exact,1.0
+胆汁淤积性黄疸,胆汁淤积性黄疸,exact,1.0
+碳青霉烯类抗生素,碳青霉烯类抗生素,exact,1.0
+白喉棒状杆菌,白喉棒状杆菌,exact,1.0
+骨,骨,exact,1.0
+白细胞减少,白细胞减少,exact,1.0
+外部物质引起的呼吸性情况,外部物质引起的呼吸性情况,exact,1.0
+阻塞性肺炎,阻塞性肺炎,exact,1.0
+播散性孢子丝菌病,播散性孢子丝菌病,exact,1.0
+肝损害,肝损害,exact,1.0
+cefuroxime axetil,cefuroxime axetil,exact,1.0
+磁共振成像,磁共振成像,exact,1.0
+结核性脓胸,结核性脓胸,exact,1.0
+噻嘧啶,噻嘧啶,exact,1.0
+钩端螺旋体病,钩端螺旋体病,exact,1.0
+北美洲,北美洲,exact,1.0
+c反应蛋白,c反应蛋白,exact,1.0
+伊维菌素,伊维菌素,exact,1.0
+透析,透析,exact,1.0
+三氯苯达唑,三氯苯达唑,exact,1.0
+耳聋,耳聋,exact,1.0
+免疫缺陷,免疫缺陷,exact,1.0
+转移因子,转移因子,exact,1.0
+内科,内科,exact,1.0
+红斑,红斑,exact,1.0
+血浆置换,血浆置换,exact,1.0
+呃逆,呃逆,exact,1.0
+注射剂,注射剂,exact,1.0
+药疹,药疹,exact,1.0
+咳黄痰,咳黄痰,exact,1.0
+西多福韦,西多福韦,exact,1.0
+包裹性脓胸,包裹性脓胸,exact,1.0
+痰液,痰液,exact,1.0
+化脓性淋巴结炎,化脓性淋巴结炎,exact,1.0
+高热,高热,exact,1.0
+肺动脉菌栓栓塞,肺动脉菌栓栓塞,exact,1.0
+死亡,死亡,exact,1.0
+5mg,5mg,exact,1.0
+血小板减少症,血小板减少症,exact,1.0
+自发性气胸,自发性气胸,exact,1.0
+镇静药,镇静药,exact,1.0
+环磷酰胺,环磷酰胺,exact,1.0
+头孢唑肟钠,头孢唑肟钠,exact,1.0
+斑疹,斑疹,exact,1.0
+迟发型哮喘,迟发型哮喘,exact,1.0
+夫西地酸,夫西地酸,exact,1.0
+ethambutol,ethambutol,exact,1.0
+外周血,外周血,exact,1.0
+血红蛋白,血红蛋白,exact,1.0
+渗出物,渗出物,exact,1.0
+胸片,胸片,exact,1.0
+补液,补液,exact,1.0
+病原体,病原体,exact,1.0
+肺间质纤维化,肺间质纤维化,exact,1.0
+异维a酸,异维a酸,exact,1.0
+氟康唑片,氟康唑片,exact,1.0
+直接镜检,直接镜检,exact,1.0
+静脉滴注,静脉滴注,exact,1.0
+多形性红斑,多形性红斑,exact,1.0
+西洛他唑,西洛他唑,exact,1.0
+堪萨斯分枝杆菌,堪萨斯分枝杆菌,exact,1.0
+氨基糖苷类,氨基糖苷类,exact,1.0
+震颤,震颤,exact,1.0
+肺栓塞提及急性肺源性心脏病,肺栓塞提及急性肺源性心脏病,exact,1.0
+泼尼松龙,泼尼松龙,exact,1.0
+骨质疏松症,骨质疏松症,exact,1.0
+c34,c34,exact,1.0
+干燥,干燥,exact,1.0
+胸腔,胸腔,exact,1.0
+脑电图检查,脑电图检查,exact,1.0
+mefoxin,mefoxin,exact,1.0
+血红蛋白下降,血红蛋白下降,exact,1.0
+多黏菌素b,多黏菌素b,exact,1.0
+麻疹病毒,麻疹病毒,exact,1.0
+非典型性肺炎,非典型性肺炎,exact,1.0
+副球孢子菌病,副球孢子菌病,exact,1.0
+华法林,华法林,exact,1.0
+腹胀,腹胀,exact,1.0
+儿童,儿童,exact,1.0
+耳痛,耳痛,exact,1.0
+肺叶,肺叶,exact,1.0
+胃肠道症状,胃肠道症状,exact,1.0
+氟替卡松,氟替卡松,exact,1.0
+新生儿呼吸窘迫综合征,新生儿呼吸窘迫综合征,exact,1.0
+声带水肿,声带水肿,exact,1.0
+口服,口服,exact,1.0
+产妇,产妇,exact,1.0
+变态反应,变态反应,exact,1.0
+脓毒血症,脓毒血症,exact,1.0
+amoxicillin,amoxicillin,exact,1.0
+急性粟粒性肺结核,急性粟粒性肺结核,exact,1.0
+复视,复视,exact,1.0
+耐酶青霉素,耐酶青霉素,exact,1.0
+nebcin,nebcin,exact,1.0
+咳痰,咳痰,exact,1.0
+沙眼衣原体,沙眼衣原体,exact,1.0
+慢性,慢性,exact,1.0
+丙二醇,丙二醇,exact,1.0
+平衡液,平衡液,exact,1.0
+polymyxin,polymyxin,exact,1.0
+万古霉素,万古霉素,exact,1.0
+鹦鹉热衣原体肺炎,鹦鹉热衣原体肺炎,exact,1.0
+肾上腺素,肾上腺素,exact,1.0
+eosinophilic pneumonia,eosinophilic pneumonia,exact,1.0
+器官移植,器官移植,exact,1.0
+smzco,smzco,exact,1.0
+心外科,心外科,exact,1.0
+病情稳定,病情稳定,exact,1.0
+低钾血症,低钾血症,exact,1.0
+呼吸功能锻炼,呼吸功能锻炼,exact,1.0
+着色芽生菌病,着色芽生菌病,exact,1.0
+骨骼肌松弛药,骨骼肌松弛药,exact,1.0
+周围神经病,周围神经病,exact,1.0
+利巴韦林,利巴韦林,exact,1.0
+内脏,内脏,exact,1.0
+肺孢子菌,肺孢子菌,exact,1.0
+tienam,tienam,exact,1.0
+预后不良,预后不良,exact,1.0
+脑脊液,脑脊液,exact,1.0
+aspergillosis,aspergillosis,exact,1.0
+大脑隐球菌病,大脑隐球菌病,exact,1.0
+美洲组织胞浆菌病,美洲组织胞浆菌病,exact,1.0
+氟胞嘧啶,氟胞嘧啶,exact,1.0
+乳腺癌,乳腺癌,exact,1.0
+气管镜,气管镜,exact,1.0
+抗感染药,抗感染药,exact,1.0
+急性肺动脉栓塞,急性肺动脉栓塞,exact,1.0
+疼痛,疼痛,exact,1.0
+纤维支气管镜,纤维支气管镜,exact,1.0
+周身不适,周身不适,exact,1.0
+氯吡格雷,氯吡格雷,exact,1.0
+儿科,儿科,exact,1.0
+cryptococcosis,cryptococcosis,exact,1.0
+乙胺丁醇,乙胺丁醇,exact,1.0
+甲氧氟烷,甲氧氟烷,exact,1.0
+肺假性淋巴瘤,肺假性淋巴瘤,exact,1.0
+年龄,年龄,exact,1.0
+50mg,50mg,exact,1.0
+过氧化氢溶液,过氧化氢溶液,exact,1.0
+利福布汀,利福布汀,exact,1.0
+美罗培南,美罗培南,exact,1.0
+阿米巴病,阿米巴病,exact,1.0
+真菌感染,真菌感染,exact,1.0
+鼾音,鼾音,exact,1.0
+呕吐,呕吐,exact,1.0
+fungizone,fungizone,exact,1.0
+克雷伯氏菌,克雷伯氏菌,exact,1.0
+炭疽病,炭疽病,exact,1.0
+艾柯病毒急性支气管炎,艾柯病毒急性支气管炎,exact,1.0
+tracheitis,tracheitis,exact,1.0
+社区获得性感染,社区获得性感染,exact,1.0
+胃,胃,exact,1.0
+肺活检,肺活检,exact,1.0
+脱屑,脱屑,exact,1.0
+呼吸系统感染,呼吸系统感染,exact,1.0
+脾切除,脾切除,exact,1.0
+喉头水肿,喉头水肿,exact,1.0
+elisa,elisa,exact,1.0
+嗜酸细胞性肺炎,嗜酸细胞性肺炎,exact,1.0
+冬季,冬季,exact,1.0
+空气消毒,空气消毒,exact,1.0
+磺胺异噁唑,磺胺异噁唑,exact,1.0
+李斯特菌,李斯特菌,exact,1.0
+干啰音,干啰音,exact,1.0
+消化不良,消化不良,exact,1.0
+螺内酯,螺内酯,exact,1.0
+cefotan,cefotan,exact,1.0
+gatifloxacin,gatifloxacin,exact,1.0
+虚弱,虚弱,exact,1.0
+美沙拉秦,美沙拉秦,exact,1.0
+invasive pulmonary aspergillosis,invasive pulmonary aspergillosis,exact,1.0
+获得性免疫缺陷综合征,获得性免疫缺陷综合征,exact,1.0
+ifa,ifa,exact,1.0
+crp,crp,exact,1.0
+血管扩张药,血管扩张药,exact,1.0
+气管插管,气管插管,exact,1.0
+penicilliosis,penicilliosis,exact,1.0
+chlamydia pneumoniae,chlamydia pneumoniae,exact,1.0
+对照,对照,exact,1.0
+流行性感冒疫苗,流行性感冒疫苗,exact,1.0
+煤工尘肺,煤工尘肺,exact,1.0
+多肽类,多肽类,exact,1.0
+肺部,肺部,exact,1.0
+萎缩性咽炎,萎缩性咽炎,exact,1.0
+香菇多糖,香菇多糖,exact,1.0
+结核性脑膜炎,结核性脑膜炎,exact,1.0
+肌酐,肌酐,exact,1.0
+反射亢进,反射亢进,exact,1.0
+口渴,口渴,exact,1.0
+异帕米星,异帕米星,exact,1.0
+maxipime,maxipime,exact,1.0
+克拉霉素,克拉霉素,exact,1.0
+克拉维酸,克拉维酸,exact,1.0
+tazocin,tazocin,exact,1.0
+锋克松,锋克松,exact,1.0
+心功能不全,心功能不全,exact,1.0
+非甾体类抗炎药,非甾体类抗炎药,exact,1.0
+纤毛不动综合征,纤毛不动综合征,exact,1.0
+unasyn,unasyn,exact,1.0
+拍背,拍背,exact,1.0
+关节炎,关节炎,exact,1.0
+免疫抑制药物,免疫抑制药物,exact,1.0
+结节,结节,exact,1.0
+rsv,rsv,exact,1.0
+儿童期哮喘,儿童期哮喘,exact,1.0
+偶然分枝杆菌,偶然分枝杆菌,exact,1.0
+菌血症,菌血症,exact,1.0
+复方制剂,复方制剂,exact,1.0
+胆固醇,胆固醇,exact,1.0
+头孢地尼,头孢地尼,exact,1.0
+医护人员,医护人员,exact,1.0
+着色真菌病,着色真菌病,exact,1.0
+精氨酸,精氨酸,exact,1.0
+粒细胞集落刺激因子,粒细胞集落刺激因子,exact,1.0
+间质性肺病,间质性肺病,exact,1.0
+镇静,镇静,exact,1.0
+脓毒性休克,脓毒性休克,exact,1.0
+机会性感染,机会性感染,exact,1.0
+血钾降低,血钾降低,exact,1.0
+tazobactam,tazobactam,exact,1.0
+疫苗,疫苗,exact,1.0
+四环素类抗生素,四环素类抗生素,exact,1.0
+病情严重,病情严重,exact,1.0
+医院感染,医院感染,exact,1.0
+败血症,败血症,exact,1.0
+恩夫韦地,恩夫韦地,exact,1.0
+多粘菌素,多粘菌素,exact,1.0
+血清学检查,血清学检查,exact,1.0
+曲霉菌病,曲霉菌病,exact,1.0
+毛霉菌病,毛霉菌病,exact,1.0
+cefotetan,cefotetan,exact,1.0
+厌氧培养,厌氧培养,exact,1.0
+缺氧,缺氧,exact,1.0
+hiv患者,hiv患者,exact,1.0
+纳入,纳入,exact,1.0
+皮疹,皮疹,exact,1.0
+咽部充血,咽部充血,exact,1.0
+中国,中国,exact,1.0
+抗病毒药物治疗,抗病毒药物治疗,exact,1.0
+肺血栓形成,肺血栓形成,exact,1.0
+低钠血症,低钠血症,exact,1.0
+加替沙星,加替沙星,exact,1.0
+经支气管肺活检,经支气管肺活检,exact,1.0
+关节疼痛,关节疼痛,exact,1.0
+胆囊炎,胆囊炎,exact,1.0
+痰量增加,痰量增加,exact,1.0
+虫霉病,虫霉病,exact,1.0
+过敏性鼻炎伴哮喘,过敏性鼻炎伴哮喘,exact,1.0
+替加环素,替加环素,exact,1.0
+栓塞,栓塞,exact,1.0
+x线检查,x线检查,exact,1.0
+谷草转氨酶,谷草转氨酶,exact,1.0
+变态反应性支气管哮喘,变态反应性支气管哮喘,exact,1.0
+急性毛细支气管炎,急性毛细支气管炎,exact,1.0
+排痰困难,排痰困难,exact,1.0
+生化试验,生化试验,exact,1.0
+幻觉,幻觉,exact,1.0
+甲氧苄胺嘧啶,甲氧苄胺嘧啶,exact,1.0
+注意事项,注意事项,exact,1.0
+口腔念珠菌感染,口腔念珠菌感染,exact,1.0
+食欲增加,食欲增加,exact,1.0
+乏力,乏力,exact,1.0
+真菌性肺炎,真菌性肺炎,exact,1.0
+心脏杂音,心脏杂音,exact,1.0
+肺鼠疫,肺鼠疫,exact,1.0
+起病急骤,起病急骤,exact,1.0
+头孢氨苄,头孢氨苄,exact,1.0
+胸腔穿刺,胸腔穿刺,exact,1.0
+急性低风险性肺栓塞,急性低风险性肺栓塞,exact,1.0
+依托红霉素,依托红霉素,exact,1.0
+气管狭窄,气管狭窄,exact,1.0
+细胞毒性药物,细胞毒性药物,exact,1.0
+外科,外科,exact,1.0
+脑脓肿,脑脓肿,exact,1.0
+阿比多尔,阿比多尔,exact,1.0
+发冷,发冷,exact,1.0
+第三代,第三代,exact,1.0
+头孢丙烯,头孢丙烯,exact,1.0
+药物过敏,药物过敏,exact,1.0
+碳酸氢钠,碳酸氢钠,exact,1.0
+定向力障碍,定向力障碍,exact,1.0
+耐甲氧西林金黄色葡萄球菌,耐甲氧西林金黄色葡萄球菌,exact,1.0
+史蒂文斯-约翰逊综合征,史蒂文斯-约翰逊综合征,exact,1.0
+眼球突出,眼球突出,exact,1.0
+cephazolin,cephazolin,exact,1.0
+环孢菌素,环孢菌素,exact,1.0
+结石,结石,exact,1.0
+西妥昔单抗,西妥昔单抗,exact,1.0
+全身中毒症状,全身中毒症状,exact,1.0
+头孢美唑钠,头孢美唑钠,exact,1.0
+足菌肿,足菌肿,exact,1.0
+sulperazon,sulperazon,exact,1.0
+中东呼吸综合征,中东呼吸综合征,exact,1.0
+皮肤损害,皮肤损害,exact,1.0
+药敏,药敏,exact,1.0
+非典型肺炎,非典型肺炎,exact,1.0
+肠道,肠道,exact,1.0
+头孢布烯,头孢布烯,exact,1.0
+免疫学检测,免疫学检测,exact,1.0
+感觉缺失,感觉缺失,exact,1.0
+上消化道出血,上消化道出血,exact,1.0
+异物,异物,exact,1.0
+烧伤,烧伤,exact,1.0
+包裹性气胸,包裹性气胸,exact,1.0
+酸中毒,酸中毒,exact,1.0
+骨髓抑制,骨髓抑制,exact,1.0
+维生素c,维生素c,exact,1.0
+自愈,自愈,exact,1.0
+白消安,白消安,exact,1.0
+ipa,ipa,exact,1.0
+非小细胞肺癌,非小细胞肺癌,exact,1.0
+吞咽困难,吞咽困难,exact,1.0
+高血压,高血压,exact,1.0
+炎症反应,炎症反应,exact,1.0
+衣原体,衣原体,exact,1.0
+芽生菌性脓皮病,芽生菌性脓皮病,exact,1.0
+再感染,再感染,exact,1.0
+kaletra,kaletra,exact,1.0
+sars,sars,exact,1.0
+泰利霉素,泰利霉素,exact,1.0
+氟康唑胶囊,氟康唑胶囊,exact,1.0
+isoniazid,isoniazid,exact,1.0
+头孢氨噻醚酯,头孢氨噻醚酯,exact,1.0
+肺隐球菌感染,肺隐球菌感染,exact,1.0
+盗汗,盗汗,exact,1.0
+肺大疱,肺大疱,exact,1.0
+便血,便血,exact,1.0
+血液培养,血液培养,exact,1.0
+立克次体病,立克次体病,exact,1.0
+喉鸣,喉鸣,exact,1.0
+海分枝杆菌,海分枝杆菌,exact,1.0
+内窥镜检查,内窥镜检查,exact,1.0
+12个月,12个月,exact,1.0
+出血热,出血热,exact,1.0
+革兰阴性杆菌,革兰阴性杆菌,exact,1.0
+grepafloxacin,grepafloxacin,exact,1.0
+acei,acei,exact,1.0
+干咳,干咳,exact,1.0
+环境,环境,exact,1.0
+动脉血气分析,动脉血气分析,exact,1.0
+精神紊乱,精神紊乱,exact,1.0
+莫西沙星,莫西沙星,exact,1.0
+磺胺嘧啶,磺胺嘧啶,exact,1.0
+上腹部不适,上腹部不适,exact,1.0
+肺毛霉病,肺毛霉病,exact,1.0
+寒战高热,寒战高热,exact,1.0
+葡萄牙念珠菌,葡萄牙念珠菌,exact,1.0
+组织活检,组织活检,exact,1.0
+哮喘性支气管炎,哮喘性支气管炎,exact,1.0
+血浆,血浆,exact,1.0
+环丙沙星缓释片,环丙沙星缓释片,exact,1.0
+vap,vap,exact,1.0
+头孢匹罗,头孢匹罗,exact,1.0
+肺动脉,肺动脉,exact,1.0
+心动过缓,心动过缓,exact,1.0
+食欲缺乏,食欲缺乏,exact,1.0
+血,血,exact,1.0
+肺部症状,肺部症状,exact,1.0
+棘白菌素类药物,棘白菌素类药物,exact,1.0
+阿司匹林哮喘,阿司匹林哮喘,exact,1.0
+卡泊芬净,卡泊芬净,exact,1.0
+房室传导阻滞,房室传导阻滞,exact,1.0
+肺梗死,肺梗死,exact,1.0
+周围神经炎,周围神经炎,exact,1.0
+轻度腹泻,轻度腹泻,exact,1.0
+心脏停搏,心脏停搏,exact,1.0
+乙胺嗪,乙胺嗪,exact,1.0
+幽门梗阻,幽门梗阻,exact,1.0
+tdf,tdf,exact,1.0
+茚地那韦,茚地那韦,exact,1.0
+氮质血症,氮质血症,exact,1.0
+ceftizoxime,ceftizoxime,exact,1.0
+人类偏肺病毒,人类偏肺病毒,exact,1.0
+会厌,会厌,exact,1.0
+病原学检测,病原学检测,exact,1.0
+胸壁瘘,胸壁瘘,exact,1.0
+痰涂片,痰涂片,exact,1.0
+鼻孢子菌病,鼻孢子菌病,exact,1.0
+temocillin,temocillin,exact,1.0
+孢子丝菌病,孢子丝菌病,exact,1.0
+心胸外科,心胸外科,exact,1.0
+肺炎支原体急性支气管炎,肺炎支原体急性支气管炎,exact,1.0
+声带,声带,exact,1.0
+氨苄西林钠,氨苄西林钠,exact,1.0
+经验性抗菌治疗,经验性抗菌治疗,exact,1.0
+气管炎,气管炎,exact,1.0
+eosinophilia,eosinophilia,exact,1.0
+肝功能损害,肝功能损害,exact,1.0
+新型隐球菌脑膜炎,新型隐球菌脑膜炎,exact,1.0
+氯二甲箭毒,氯二甲箭毒,exact,1.0
+萘啶酸,萘啶酸,exact,1.0
+cefprozil,cefprozil,exact,1.0
+强力霉素,强力霉素,exact,1.0
+急诊科,急诊科,exact,1.0
+动脉,动脉,exact,1.0
+氟喹诺酮类,氟喹诺酮类,exact,1.0
+过敏样反应,过敏样反应,exact,1.0
+伤寒,伤寒,exact,1.0
+急性肺荚膜组织胞浆菌病,急性肺荚膜组织胞浆菌病,exact,1.0
+上呼吸道,上呼吸道,exact,1.0
+呼吸道感染,呼吸道感染,exact,1.0
+150mg,150mg,exact,1.0
+心力衰竭,心力衰竭,exact,1.0
+男性患者,男性患者,exact,1.0
+呼吸道合胞病毒感染,呼吸道合胞病毒感染,exact,1.0
+百日咳杆菌,百日咳杆菌,exact,1.0
+ertapenem,ertapenem,exact,1.0
+氟西泮,氟西泮,exact,1.0
+克柔念珠菌,克柔念珠菌,exact,1.0
+视神经炎,视神经炎,exact,1.0
+血尿素氮,血尿素氮,exact,1.0
+男性,男性,exact,1.0
+流感嗜血杆菌,流感嗜血杆菌,exact,1.0
+密切接触,密切接触,exact,1.0
+肺吸虫病,肺吸虫病,exact,1.0
+gpt,gpt,exact,1.0
+呋喃妥因,呋喃妥因,exact,1.0
+手,手,exact,1.0
+肺血管,肺血管,exact,1.0
+难治性支气管哮喘,难治性支气管哮喘,exact,1.0
+is,is,exact,1.0
+复数菌感染,复数菌感染,exact,1.0
+对症治疗,对症治疗,exact,1.0
+手术,手术,exact,1.0
+抗菌药物,抗菌药物,exact,1.0
+血小板计数,血小板计数,exact,1.0
+面罩,面罩,exact,1.0
+眼睑,眼睑,exact,1.0
+paragonimiasis,paragonimiasis,exact,1.0
+fungal asthma,fungal asthma,exact,1.0
+奥硝唑,奥硝唑,exact,1.0
+哮鸣音,哮鸣音,exact,1.0
+期外收缩,期外收缩,exact,1.0
+高压氧治疗,高压氧治疗,exact,1.0
+卧床休息,卧床休息,exact,1.0
+慢性呼吸道疾病,慢性呼吸道疾病,exact,1.0
+舒巴坦,舒巴坦,exact,1.0
+痤疮,痤疮,exact,1.0
+西罗莫司,西罗莫司,exact,1.0
+镇痛,镇痛,exact,1.0
+mri,mri,exact,1.0
+免疫抑制状态,免疫抑制状态,exact,1.0
+利福喷丁,利福喷丁,exact,1.0
+分子生物学检查,分子生物学检查,exact,1.0
+nystatin,nystatin,exact,1.0
+头霉素类,头霉素类,exact,1.0
+体重增加,体重增加,exact,1.0
+睾丸炎,睾丸炎,exact,1.0
+西他沙星,西他沙星,exact,1.0
+血胆红素升高,血胆红素升高,exact,1.0
+家族史,家族史,exact,1.0
+头孢硫脒,头孢硫脒,exact,1.0
+纤维支气管镜检查,纤维支气管镜检查,exact,1.0
+il-8,il-8,exact,1.0
+放疗,放疗,exact,1.0
+减毒活疫苗,减毒活疫苗,exact,1.0
+片剂,片剂,exact,1.0
+对氨基水杨酸钠,对氨基水杨酸钠,exact,1.0
+慢性肺动脉栓塞,慢性肺动脉栓塞,exact,1.0
+副流感病毒,副流感病毒,exact,1.0
+克霉唑,克霉唑,exact,1.0
+慢性哮喘性支气管炎,慢性哮喘性支气管炎,exact,1.0
+昏睡,昏睡,exact,1.0
+依氟鸟氨酸,依氟鸟氨酸,exact,1.0
+糜烂,糜烂,exact,1.0
+米卡芬净,米卡芬净,exact,1.0
+肺炎支原体感染,肺炎支原体感染,exact,1.0
+喉麻痹,喉麻痹,exact,1.0
+弥漫性肺间质纤维化,弥漫性肺间质纤维化,exact,1.0
+penicillin,penicillin,exact,1.0
+clindamycin,clindamycin,exact,1.0
+肺部物理治疗,肺部物理治疗,exact,1.0
+respiratory failure,respiratory failure,exact,1.0
+lincomycin,lincomycin,exact,1.0
+肺炎,肺炎,exact,1.0
+急性气管炎,急性气管炎,exact,1.0
+cefepime,cefepime,exact,1.0
+血清病样反应,血清病样反应,exact,1.0
+铜绿假单胞菌感染,铜绿假单胞菌感染,exact,1.0
+德拉马尼,德拉马尼,exact,1.0
+厌氧菌培养,厌氧菌培养,exact,1.0
+支气管哮喘,支气管哮喘,exact,1.0
+慢性q热,慢性q热,exact,1.0
+诺氟沙星,诺氟沙星,exact,1.0
+脑脊液检查,脑脊液检查,exact,1.0
+肝功能衰竭,肝功能衰竭,exact,1.0
+肾综合征出血热,肾综合征出血热,exact,1.0
+宿主因素,宿主因素,exact,1.0
+头孢拉定,头孢拉定,exact,1.0
+烧灼感,烧灼感,exact,1.0
+中耳炎,中耳炎,exact,1.0
+遗传,遗传,exact,1.0
+300mg,300mg,exact,1.0
+ablc,ablc,exact,1.0
+氯丙嗪,氯丙嗪,exact,1.0
+重度营养不良,重度营养不良,exact,1.0
+痰,痰,exact,1.0
+闭塞性细支气管炎,闭塞性细支气管炎,exact,1.0
+免疫缺陷者,免疫缺陷者,exact,1.0
+肾,肾,exact,1.0
+mri扫描,mri扫描,exact,1.0
+激越,激越,exact,1.0
+纵隔囊肿,纵隔囊肿,exact,1.0
+血清ige升高,血清ige升高,exact,1.0
+东南亚,东南亚,exact,1.0
+支架,支架,exact,1.0
+乳糖,乳糖,exact,1.0
+igg,igg,exact,1.0
+西维美林,西维美林,exact,1.0
+卡马西平,卡马西平,exact,1.0
+肌无力,肌无力,exact,1.0
+hiv,hiv,exact,1.0
+病毒性感染,病毒性感染,exact,1.0
+氨苄西林/舒巴坦,氨苄西林/舒巴坦,exact,1.0
+预防性治疗,预防性治疗,exact,1.0
+脉细弱,脉细弱,exact,1.0
+超声检查,超声检查,exact,1.0
+pertussis,pertussis,exact,1.0
+破伤风抗毒素,破伤风抗毒素,exact,1.0
+b型流感嗜血杆菌,b型流感嗜血杆菌,exact,1.0
+白色念珠菌,白色念珠菌,exact,1.0
+吡喹酮,吡喹酮,exact,1.0
+dna,dna,exact,1.0
+西司他丁钠,西司他丁钠,exact,1.0
+年长儿,年长儿,exact,1.0
+吞咽障碍,吞咽障碍,exact,1.0
+变形杆菌,变形杆菌,exact,1.0
+细菌感染,细菌感染,exact,1.0
+光敏反应,光敏反应,exact,1.0
+呼吸道病毒感染,呼吸道病毒感染,exact,1.0
+慢性肺荚膜组织胞浆菌病,慢性肺荚膜组织胞浆菌病,exact,1.0
+l,l,exact,1.0
+飞沫,飞沫,exact,1.0
+混合性感染,混合性感染,exact,1.0
+急性大面积肺栓塞,急性大面积肺栓塞,exact,1.0
+创伤性湿肺,创伤性湿肺,exact,1.0
+血气分析,血气分析,exact,1.0
+肺血栓栓塞症,肺血栓栓塞症,exact,1.0
+新生儿科,新生儿科,exact,1.0
+安非他酮,安非他酮,exact,1.0
+咽痛,咽痛,exact,1.0
+吸入性肺炎,吸入性肺炎,exact,1.0
+毛细支气管炎,毛细支气管炎,exact,1.0
+红斑疹,红斑疹,exact,1.0
+肺隔离症,肺隔离症,exact,1.0
+皮下脓肿,皮下脓肿,exact,1.0
+头孢唑肟,头孢唑肟,exact,1.0
+早期,早期,exact,1.0
+石棉肺,石棉肺,exact,1.0
+got,got,exact,1.0
+麻醉科,麻醉科,exact,1.0
+mycobutin,mycobutin,exact,1.0
+新生儿湿肺,新生儿湿肺,exact,1.0
+肌电图检查,肌电图检查,exact,1.0
+肺炭疽,肺炭疽,exact,1.0
+耳鼻喉科,耳鼻喉科,exact,1.0
+达托霉素,达托霉素,exact,1.0
+皮肤紫癜,皮肤紫癜,exact,1.0
+急性感染性喉炎,急性感染性喉炎,exact,1.0
+黏液溶解剂,黏液溶解剂,exact,1.0
+印度,印度,exact,1.0
+真菌病,真菌病,exact,1.0
+ddi,ddi,exact,1.0
+肺部听诊,肺部听诊,exact,1.0
+变应性鼻炎,变应性鼻炎,exact,1.0
+白细胞计数,白细胞计数,exact,1.0
+革兰氏染色,革兰氏染色,exact,1.0
+哌喹,哌喹,exact,1.0
+湿疹,湿疹,exact,1.0
+肺损伤,肺损伤,exact,1.0
+淋巴细胞减少,淋巴细胞减少,exact,1.0
+浆液性胸膜炎,浆液性胸膜炎,exact,1.0
+格帕沙星,格帕沙星,exact,1.0
+曲霉菌感染,曲霉菌感染,exact,1.0
+替莫西林,替莫西林,exact,1.0
+食欲下降,食欲下降,exact,1.0
+上腹痛,上腹痛,exact,1.0
+猫,猫,exact,1.0
+视力模糊,视力模糊,exact,1.0
+结核性胸膜炎,结核性胸膜炎,exact,1.0
+氨苯砜,氨苯砜,exact,1.0
+高烧,高烧,exact,1.0
+cefoperazone/sulbactam,cefoperazone/sulbactam,exact,1.0
+pulmonary aspergillosis,pulmonary aspergillosis,exact,1.0
+alp升高,alp升高,exact,1.0
+大叶性肺炎,大叶性肺炎,exact,1.0
+诺卡菌病,诺卡菌病,exact,1.0
+粟粒性肺结核,粟粒性肺结核,exact,1.0
+镰刀菌病,镰刀菌病,exact,1.0
+神志改变,神志改变,exact,1.0
+胃肠道不适,胃肠道不适,exact,1.0
+抗炎治疗,抗炎治疗,exact,1.0
+痰液检查,痰液检查,exact,1.0
+肺炎衣原体,肺炎衣原体,exact,1.0
+青霉素v,青霉素v,exact,1.0
+支气管扩张药,支气管扩张药,exact,1.0
+病情加重,病情加重,exact,1.0
+隐球菌感染,隐球菌感染,exact,1.0
+白细胞,白细胞,exact,1.0
+膈肌,膈肌,exact,1.0
+中毒性肝炎,中毒性肝炎,exact,1.0
+100%,100%,exact,1.0
+羊水,羊水,exact,1.0
+骨髓炎,骨髓炎,exact,1.0
+pulmonary cryptococcosis,pulmonary cryptococcosis,exact,1.0
+头孢呋辛,头孢呋辛,exact,1.0
+脑水肿,脑水肿,exact,1.0
+400mg,400mg,exact,1.0
+流感,流感,exact,1.0
+治疗方案,治疗方案,exact,1.0
+影像学检查,影像学检查,exact,1.0
+肌炎,肌炎,exact,1.0
+抗微生物药,抗微生物药,exact,1.0
+冬春季,冬春季,exact,1.0
+脑炎,脑炎,exact,1.0
+支气管扩张剂,支气管扩张剂,exact,1.0
+γ干扰素,γ干扰素,exact,1.0
+乙醇,乙醇,exact,1.0
+肌肉无力,肌肉无力,exact,1.0
+piperacillin,piperacillin,exact,1.0
+氟尿嘧啶,氟尿嘧啶,exact,1.0
+cefamandole,cefamandole,exact,1.0
+hiv检测,hiv检测,exact,1.0
+呼吸性细支气管炎伴间质性肺病,呼吸性细支气管炎伴间质性肺病,exact,1.0
+产科,产科,exact,1.0
+呼吸频率增快,呼吸频率增快,exact,1.0
+婴儿,婴儿,exact,1.0
+头孢托仑酯,头孢托仑酯,exact,1.0
+ca,ca,exact,1.0
+四氯乙烯,四氯乙烯,exact,1.0
+罗红霉素,罗红霉素,exact,1.0
+沙利度胺,沙利度胺,exact,1.0
+感觉障碍,感觉障碍,exact,1.0
+播散性芽生菌病,播散性芽生菌病,exact,1.0
+右美沙芬,右美沙芬,exact,1.0
+草绿色链球菌,草绿色链球菌,exact,1.0
+发声困难,发声困难,exact,1.0
+非变应性哮喘,非变应性哮喘,exact,1.0
+fish,fish,exact,1.0
+cmv,cmv,exact,1.0
+无乳链球菌,无乳链球菌,exact,1.0
+血管加压素,血管加压素,exact,1.0
+多形红斑,多形红斑,exact,1.0
+acute lung injury,acute lung injury,exact,1.0
+金刚烷胺,金刚烷胺,exact,1.0
+肾内科,肾内科,exact,1.0
+急性次大面积肺栓塞,急性次大面积肺栓塞,exact,1.0
+头孢替坦,头孢替坦,exact,1.0
+氟胞嘧啶片,氟胞嘧啶片,exact,1.0
+dna杂交技术,dna杂交技术,exact,1.0
+抗结核治疗,抗结核治疗,exact,1.0
+淋巴结节,淋巴结节,exact,1.0
+肋骨,肋骨,exact,1.0
+持续性咳嗽,持续性咳嗽,exact,1.0
+cefuroxime,cefuroxime,exact,1.0
+sustiva,sustiva,exact,1.0
+q热,q热,exact,1.0
+地方性斑疹伤寒,地方性斑疹伤寒,exact,1.0
+不动杆菌,不动杆菌,exact,1.0
+单纯疱疹,单纯疱疹,exact,1.0
+氨甲环酸,氨甲环酸,exact,1.0
+急性咽炎,急性咽炎,exact,1.0
+分子生物学检测,分子生物学检测,exact,1.0
+阿巴卡韦,阿巴卡韦,exact,1.0
+无创机械通气,无创机械通气,exact,1.0
+胸部影像检查,胸部影像检查,exact,1.0
+cefotaxime,cefotaxime,exact,1.0
+第一代,第一代,exact,1.0
+妥布霉素,妥布霉素,exact,1.0
+白细胞增多,白细胞增多,exact,1.0
+诱因,诱因,exact,1.0
+病灶,病灶,exact,1.0
+分离,分离,exact,1.0
+改善氧合,改善氧合,exact,1.0
+良好,良好,exact,1.0
+头痛,头痛,exact,1.0
+药物,药物,exact,1.0
+videx,videx,exact,1.0
+ct检查,ct检查,exact,1.0
+coccidioidomycosis,coccidioidomycosis,exact,1.0
+异尖线虫病,异尖线虫病,exact,1.0
+意识障碍,意识障碍,exact,1.0
+曲安西龙,曲安西龙,exact,1.0
+倍他米松,倍他米松,exact,1.0
+普鲁卡因,普鲁卡因,exact,1.0
+下降,下降,exact,1.0
+头孢曲松,头孢曲松,exact,1.0
+心脏超声检查,心脏超声检查,exact,1.0
+经皮肺穿刺,经皮肺穿刺,exact,1.0
+心肌梗死,心肌梗死,exact,1.0
+bronchiolitis,bronchiolitis,exact,1.0
+医院内感染,医院内感染,exact,1.0
+组织病理学检查,组织病理学检查,exact,1.0
+新型隐球菌肺炎,新型隐球菌肺炎,exact,1.0
+teicoplanin,teicoplanin,exact,1.0
+职业,职业,exact,1.0
+阿扎那韦,阿扎那韦,exact,1.0
+头孢哌酮-舒巴坦,头孢哌酮-舒巴坦,exact,1.0
+美国,美国,exact,1.0
+真菌,真菌,exact,1.0
+呼吸功能不全,呼吸功能不全,exact,1.0
+丙磺舒,丙磺舒,exact,1.0
+心电图改变,心电图改变,exact,1.0
+绿脓杆菌,绿脓杆菌,exact,1.0
+多奈哌齐,多奈哌齐,exact,1.0
+红细胞,红细胞,exact,1.0
+急性鼻窦炎,急性鼻窦炎,exact,1.0
+高危人群,高危人群,exact,1.0
+无发热,无发热,exact,1.0
+脱屑性间质性肺炎,脱屑性间质性肺炎,exact,1.0
+头孢菌素,头孢菌素,exact,1.0
+曲霉菌,曲霉菌,exact,1.0
+肾小管坏死,肾小管坏死,exact,1.0
+纵隔淋巴结肿大,纵隔淋巴结肿大,exact,1.0
+第一代头孢菌素,第一代头孢菌素,exact,1.0
+左肺,左肺,exact,1.0
+amikacin,硫酸小诺霉素,llm,0.7
+abcd,abcd,exact,1.0
+共济失调,共济失调,exact,1.0
+unipen,unipen,exact,1.0
+1/10万,1/10万,exact,1.0
+链球菌急性支气管炎,链球菌急性支气管炎,exact,1.0
+肺炎衣原体肺炎,肺炎衣原体肺炎,exact,1.0
+气短,气短,exact,1.0
+近平滑念珠菌,近平滑念珠菌,exact,1.0
+化脓性链球菌,化脓性链球菌,exact,1.0
+去甲肾上腺素,去甲肾上腺素,exact,1.0
+吕弗勒综合征,吕弗勒综合征,exact,1.0
+mem,mem,exact,1.0
+光动力疗法,光动力疗法,exact,1.0
+心血管内科,心血管内科,exact,1.0
+结节性红斑,结节性红斑,exact,1.0
+林可霉素类,林可霉素类,exact,1.0
+肺荚膜组织胞浆菌病,肺荚膜组织胞浆菌病,exact,1.0
+意识模糊状态,意识模糊状态,exact,1.0
+声门,声门,exact,1.0
+磺胺嘧啶银,磺胺嘧啶银,exact,1.0
+链球菌,链球菌,exact,1.0
+面部潮红,面部潮红,exact,1.0
+支气管扩张症,支气管扩张症,exact,1.0
+热病,热病,exact,1.0
+打喷嚏,打喷嚏,exact,1.0
+阿托伐醌,阿托伐醌,exact,1.0
+类固醇,类固醇,exact,1.0
+过氧化氢,过氧化氢,exact,1.0
+胸部x线片,胸部x线片,exact,1.0
+纵隔淋巴结,纵隔淋巴结,exact,1.0
+咯血,咯血,exact,1.0
+pa,pa,exact,1.0
+布地奈德,布地奈德,exact,1.0
+麻疹,麻疹,exact,1.0
+胸腔积液,胸腔积液,exact,1.0
+反复发热,反复发热,exact,1.0
+环孢素,环孢素,exact,1.0
+暗色丝孢霉病,暗色丝孢霉病,exact,1.0
+肺组织胞浆菌病,肺组织胞浆菌病,exact,1.0
+人偏肺病毒,人偏肺病毒,exact,1.0
+智力障碍,智力障碍,exact,1.0
+恙虫病,恙虫病,exact,1.0
+肺水肿,肺水肿,exact,1.0
+支气管,支气管,exact,1.0
+pet-ct,pet-ct,exact,1.0
+氯唑西林,氯唑西林,exact,1.0
+ticarcillin,ticarcillin,exact,1.0
+肺炎支原体肺炎,肺炎支原体肺炎,exact,1.0
+gemifloxacin,gemifloxacin,exact,1.0
+卡氏肺囊虫,卡氏肺囊虫,exact,1.0
+嗜睡,嗜睡,exact,1.0
+肺曲霉病,肺曲霉病,exact,1.0
+腺病毒感染,腺病毒感染,exact,1.0
+注射部位反应,注射部位反应,exact,1.0
+阿奇霉素,阿奇霉素,exact,1.0
+接触性皮炎,接触性皮炎,exact,1.0
+症状缓解,症状缓解,exact,1.0
+肺栓塞未提及急性肺源性心脏病,肺栓塞未提及急性肺源性心脏病,exact,1.0
+速尿,速尿,exact,1.0
+尿素氮,尿素氮,exact,1.0
+aztreonam,aztreonam,exact,1.0
+降钙素原,降钙素原,exact,1.0
+alt,alt,exact,1.0
+法罗培南,法罗培南,exact,1.0
+氨溴索,氨溴索,exact,1.0
+ige,ige,exact,1.0
+传染病科,传染病科,exact,1.0
+胸部x线检查,胸部x线检查,exact,1.0
+荚膜组织胞浆菌病,荚膜组织胞浆菌病,exact,1.0
+细菌培养,细菌培养,exact,1.0
+幻视,幻视,exact,1.0
+慢性阻塞性肺病,慢性阻塞性肺病,exact,1.0
+恢复期,恢复期,exact,1.0
+急性化脓性支气管炎,急性化脓性支气管炎,exact,1.0
+头孢噻吩,头孢噻吩,exact,1.0
+肝损伤,肝损伤,exact,1.0
+erythromycin,erythromycin,exact,1.0
+tigecycline,tigecycline,exact,1.0
+第四代头孢菌素,第四代头孢菌素,exact,1.0
+姑息治疗,姑息治疗,exact,1.0
+全身酸痛,全身酸痛,exact,1.0
+头昏,头昏,exact,1.0
+皮炎,皮炎,exact,1.0
+发展中国家,发展中国家,exact,1.0
+脓性分泌物,脓性分泌物,exact,1.0
+qt间期延长,qt间期延长,exact,1.0
+先天性,先天性,exact,1.0
+老年,老年,exact,1.0
+听诊呼吸音减弱,听诊呼吸音减弱,exact,1.0
+呼吸急促,呼吸急促,exact,1.0
+原虫,原虫,exact,1.0
+linezolid,linezolid,exact,1.0
+氨苄青霉素,氨苄青霉素,exact,1.0
+复方新诺明,复方新诺明,exact,1.0
+噻康唑,噻康唑,exact,1.0
+头孢羟氨苄,头孢羟氨苄,exact,1.0
+扁桃体肥大,扁桃体肥大,exact,1.0
+闭锁肺综合征,闭锁肺综合征,exact,1.0
+奈韦拉平,奈韦拉平,exact,1.0
+化疗,化疗,exact,1.0
+空气,空气,exact,1.0
+paracoccidioidomycosis,paracoccidioidomycosis,exact,1.0
+伊曲康唑注射液,伊曲康唑注射液,exact,1.0
+ards,ards,exact,1.0
+新生儿肺炎,新生儿肺炎,exact,1.0
+心脏,心脏,exact,1.0
+可待因,可待因,exact,1.0
+病毒感染,病毒感染,exact,1.0
+病理科,病理科,exact,1.0
+结核分枝杆菌,结核分枝杆菌感染,llm,0.9
+全血细胞减少,全血细胞减少,exact,1.0
+氟喹诺酮,氟喹诺酮,exact,1.0
+灭菌注射用水,灭菌注射用水,exact,1.0
+坏死,坏死,exact,1.0
+筒箭毒碱,筒箭毒碱,exact,1.0
+高钾血症,高钾血症,exact,1.0
+亚洲,亚洲,exact,1.0
+胃部不适,胃部不适,exact,1.0
+金硫葡糖,金硫葡糖,exact,1.0
+非处方药,非处方药,exact,1.0
+鹦鹉热衣原体,鹦鹉热衣原体,exact,1.0
+腹部不适,腹部不适,exact,1.0
+病毒性咽炎,病毒性咽炎,exact,1.0
+慢性气管炎,慢性气管炎,exact,1.0
+肺功能检查,肺功能检查,exact,1.0
+cf,cf,exact,1.0
+candida pneumonia,candida pneumonia,exact,1.0
+pleural effusion,pleural effusion,exact,1.0
+阿普唑仑,阿普唑仑,exact,1.0
+肿瘤,肿瘤,exact,1.0
+肺结核瘤,肺结核瘤,exact,1.0
+肺功能,肺功能,exact,1.0
+激素类药物,激素类药物,exact,1.0
+直接接触,直接接触,exact,1.0
+职业暴露,职业暴露,exact,1.0
+军团菌,嗜肺军团杆菌感染,llm,0.9
+细菌溶解产物,细菌溶解产物,exact,1.0
+毛囊炎,毛囊炎,exact,1.0
+氯喹,氯喹,exact,1.0
+治疗手段,治疗手段,exact,1.0
+神经系统疾病,神经系统疾病,exact,1.0
+食欲减退,食欲减退,exact,1.0
+自限性,自限性,exact,1.0
+普通外科,普通外科,exact,1.0
+心包积液,心包积液,exact,1.0
+血压升高,血压升高,exact,1.0
+外科切除,外科切除,exact,1.0
+青霉病,青霉病,exact,1.0
+青霉素类,青霉素类,exact,1.0
+溃疡,溃疡,exact,1.0
+浮肿,浮肿,exact,1.0
+cancidas,cancidas,exact,1.0
+甲苯达唑,甲苯达唑,exact,1.0
+肾损害,肾损害,exact,1.0
+多尿,多尿,exact,1.0
+dapsone,dapsone,exact,1.0
+whooping cough,whooping cough,exact,1.0
+治疗原则,治疗原则,exact,1.0
+纵隔疝,纵隔疝,exact,1.0
+表皮葡萄球菌,表皮葡萄球菌,exact,1.0
+显微镜检查,显微镜检查,exact,1.0
+肝酶升高,肝酶升高,exact,1.0
+中性粒细胞减少,中性粒细胞减少,exact,1.0
+氟哌啶醇,氟哌啶醇,exact,1.0
+哌拉西林他唑巴坦,哌拉西林他唑巴坦,exact,1.0
+营养,营养,exact,1.0
+急性肺芽生菌病,急性肺芽生菌病,exact,1.0
+吸烟,吸烟,exact,1.0
+药物治疗,药物治疗,exact,1.0
+继发细菌感染,继发细菌感染,exact,1.0
+dic,dic,exact,1.0
+急性肾小管坏死,急性肾小管坏死,exact,1.0
+拉氧头孢,拉氧头孢,exact,1.0
+苯妥英钠,苯妥英钠,exact,1.0
+磺胺类,磺胺类,exact,1.0
+胸膜,胸膜,exact,1.0
+时间,时间,exact,1.0
+cmv感染,cmv感染,exact,1.0
+抗结核药物,抗结核药物,exact,1.0
+醉酒,醉酒,exact,1.0
+曲霉病,曲霉病,exact,1.0
+外源性支气管哮喘,外源性支气管哮喘,exact,1.0
+重症肌无力,重症肌无力,exact,1.0
+直接涂片镜检,直接涂片镜检,exact,1.0
+telithromycin,telithromycin,exact,1.0
+ot,ot,exact,1.0
+缬更昔洛韦,缬更昔洛韦,exact,1.0
+hydrocortisone,hydrocortisone,exact,1.0
+麻木,麻木,exact,1.0
+多粘菌素e,多粘菌素e,exact,1.0
+苯妥英,苯妥英,exact,1.0
+去铁胺,去铁胺,exact,1.0
+金黄色葡萄球菌,金黄色葡萄球菌,exact,1.0
+出血,出血,exact,1.0
+革兰阴性肠杆菌,革兰阴性肠杆菌,exact,1.0
+急性间质性肺炎,急性间质性肺炎,exact,1.0
+潜伏结核感染,潜伏结核感染,exact,1.0
+病原菌,病原菌,exact,1.0
+浸润型肺结核,浸润型肺结核,exact,1.0
+其他,其他,exact,1.0
+bal,bal,exact,1.0
+下呼吸道感染,下呼吸道感染,exact,1.0
+呼吸道合胞病毒,呼吸道合胞病毒,exact,1.0
+抗感染,抗感染,exact,1.0
+糖皮质激素,糖皮质激素,exact,1.0
+急性感染,急性感染,exact,1.0
+rna,rna,exact,1.0
+hiv 感染,hiv 感染,exact,1.0
+酶类,酶类,exact,1.0
+预防,预防,exact,1.0
+咽后脓肿,咽后脓肿,exact,1.0
+胸膜钙化,胸膜钙化,exact,1.0
+胸膜肥厚,胸膜肥厚,exact,1.0
+胸膜增厚,胸膜增厚,exact,1.0
+抗病毒药物,抗病毒药物,exact,1.0
+杜波依西变种组织胞浆菌病,杜波依西变种组织胞浆菌病,exact,1.0
+咽喉痛,咽喉痛,exact,1.0
+阿曲库铵,阿曲库铵,exact,1.0
+多器官衰竭,多器官衰竭,exact,1.0
+光过敏,光过敏,exact,1.0
+免疫治疗,免疫治疗,exact,1.0
+新生儿肺不张,新生儿肺不张,exact,1.0
+中枢神经系统,中枢神经系统,exact,1.0
+免疫力低下者,免疫力低下者,exact,1.0
+气促,气促,exact,1.0
+湿啰音,湿啰音,exact,1.0
+肌痉挛,肌痉挛,exact,1.0
+氟氯西林,氟氯西林,exact,1.0
+急性心功能不全,急性心功能不全,exact,1.0
+pulmonary mucormycosis,pulmonary mucormycosis,exact,1.0
+淋巴管型孢子丝菌病,淋巴管型孢子丝菌病,exact,1.0
+opportunistic infection,opportunistic infection,exact,1.0
+抗流感病毒治疗,抗流感病毒治疗,exact,1.0
+gm实验,gm实验,exact,1.0
+外周神经病变,外周神经病变,exact,1.0
+肺部真菌感染,肺部真菌感染,exact,1.0
+保护环境,保护环境,exact,1.0
+支链氨基酸,支链氨基酸,exact,1.0
+脑病,脑病,exact,1.0
+肺孢子丝菌病,肺孢子丝菌病,exact,1.0
+头孢他啶,头孢他啶,exact,1.0
+喷他脒,喷他脒,exact,1.0
+活组织检查,活组织检查,exact,1.0
+花粉症,花粉症,exact,1.0
+cefoxitin,cefoxitin,exact,1.0
+白细胞减少症,白细胞减少症,exact,1.0
+排尿困难,排尿困难,exact,1.0
+聚乙二醇干扰素α2a,聚乙二醇干扰素α2a,exact,1.0
+吗啡,吗啡,exact,1.0
+病毒性感冒,病毒性感冒,exact,1.0
+白细胞计数增高,白细胞计数增高,exact,1.0
+fluconazole,fluconazole,exact,1.0
+病毒检测,病毒检测,exact,1.0
+空气传播,空气传播,exact,1.0
+处方药,处方药,exact,1.0
+气管憩室,气管憩室,exact,1.0
+气管软化症,气管软化症,exact,1.0
+3,3,exact,1.0
+呼吸停止,呼吸停止,exact,1.0
+不适,不适,exact,1.0
+肺功能不全,肺功能不全,exact,1.0
+头孢泊肟,头孢泊肟,exact,1.0
+室性心动过速,室性心动过速,exact,1.0
+呼吸衰竭,呼吸衰竭,exact,1.0
+制霉菌素,制霉菌素,exact,1.0
+瞳孔散大,瞳孔散大,exact,1.0
+上呼吸道感染,上呼吸道感染,exact,1.0
+bmd,bmd,exact,1.0
+衣原体肺炎,衣原体肺炎,exact,1.0
+维a酸,维a酸,exact,1.0
+抗肿瘤药,抗肿瘤药,exact,1.0
+急性肺源性心脏病,急性肺源性心脏病,exact,1.0
+花粉,花粉,exact,1.0
+腹水,腹水,exact,1.0
+法扎溴铵,法扎溴铵,exact,1.0
+氨基糖苷类抗生素,氨基糖苷类抗生素,exact,1.0
+肌痛,肌痛,exact,1.0
+肾病,肾病,exact,1.0
+味觉丧失,味觉丧失,exact,1.0
+甲基泼尼松龙,甲基泼尼松龙,exact,1.0
+喉结核,喉结核,exact,1.0
+第二代,第二代,exact,1.0
+咽痒,咽痒,exact,1.0
+坏死性肺炎,坏死性肺炎,exact,1.0
+声带小结,声带小结,exact,1.0
+支气管哮喘，非危重,支气管哮喘，非危重,exact,1.0
+消化性溃疡,消化性溃疡,exact,1.0
+青霉素过敏,青霉素过敏,exact,1.0
+肺动脉血栓形成,肺动脉血栓形成,exact,1.0
+心源性休克,心源性休克,exact,1.0
+肺炎链球菌肺炎,肺炎链球菌肺炎,exact,1.0
+单侧肺气肿,单侧肺气肿,exact,1.0
+依替米星,依替米星,exact,1.0
+咽炎,咽炎,exact,1.0
+胸壁结核,胸壁结核,exact,1.0
+肝功能检查,肝功能检查,exact,1.0
+基因突变,基因突变,exact,1.0
+奥格门汀,奥格门汀,exact,1.0
+耳道流脓,耳道流脓,exact,1.0
+非洲,非洲,exact,1.0
+鼻窦炎,鼻窦炎,exact,1.0
+q fever,q fever,exact,1.0
+2%,2%,exact,1.0
+化脓性脑膜炎,化脓性脑膜炎,exact,1.0
+卡他莫拉菌,卡他莫拉菌,exact,1.0
+vancomycin,vancomycin,exact,1.0
+黄芩苷,黄芩苷,exact,1.0
+波生坦,波生坦,exact,1.0
+hospital-acquired pneumonia,hospital acquired pneumonia,fuzzy,0.95
+oxygen therapy,oxygen	therapy,fuzzy,0.95
+支气管哮喘(中度持续),支气管哮喘（中度持续）,fuzzy,0.95
+胸部x 线检查,胸部 x 线检查,fuzzy,0.95
+54 %,54%,fuzzy,0.95
+silver sulfadiazine,silversulfadiazine,fuzzy,0.95
+cotrimoxazole,co-trimoxazole,fuzzy,0.95
+支气管哮喘(急性发作期),支气管哮喘（急性发作期）,fuzzy,0.95
+alp上升,al—p上升,fuzzy,0.95
+其他β-内酰胺类,其他β内酰胺类,fuzzy,0.95
+支气管哮喘(间歇发作),支气管哮喘（间歇发作）,fuzzy,0.95
+人类免疫缺陷病毒[hiv]病,人类免疫缺陷病毒hiv病,fuzzy,0.95
+copd急性加重,copd 急性加重,fuzzy,0.95
+支气管哮喘(未控制),支气管哮喘（未控制）,fuzzy,0.95
+支气管哮喘(部分控制),支气管哮喘（部分控制）,fuzzy,0.95
+支气管哮喘(慢性持续期),支气管哮喘（慢性持续期）,fuzzy,0.95
+支气管哮喘(临床缓解期),支气管哮喘（临床缓解期）,fuzzy,0.95
+5-氟胞嘧啶,5氟胞嘧啶,fuzzy,0.95
+12天,1—2天,fuzzy,0.95
+支气管哮喘(重度持续),支气管哮喘（重度持续）,fuzzy,0.95
+pneumocystis pneumonia,pneumocystispneumonia,fuzzy,0.95
+支气管哮喘(完全控制),支气管哮喘（完全控制）,fuzzy,0.95
+β-内酰胺酶抑制剂,β—内酰胺酶抑制剂,fuzzy,0.95
+97 %,97%,fuzzy,0.95
+重组人干扰素α-2b,重组人干扰素α2b,fuzzy,0.95
+支气管哮喘(轻度持续),支气管哮喘（轻度持续）,fuzzy,0.95
+史-约综合征,史约综合征,fuzzy,0.95
+allergic aspergillosis,allergic	aspergillosis,fuzzy,0.95
+干扰素-γ,干扰素γ,fuzzy,0.95
+0.5%,0. 5%,fuzzy,0.95
+acute respiratory distress syndrome (ards),小儿急性呼吸窘迫综合征,llm,0.85
+airway stricture,气道位移及梗阻,llm,0.7
+结核性支气管胸膜瘘,brock综合征或graham—burford—mayer综合征,llm,0.7
+慢性阻塞性肺疾病i级,慢阻肺病,llm,0.7
+急性咽炎/扁桃体炎,急性上感,llm,0.7
+candida intra-abdominal infections,moniliasis,llm,0.7
+acute念珠菌病,moniliasis,llm,0.9
+chronic pulmonary aspergillosis,慢性肺曲霉病,llm,1.0
+disseminated candidiasis,moniliasis,llm,0.9
+成人型呼吸窘迫综合征,小儿急性呼吸窘迫综合征,llm,0.7
+结核性肺不张,小儿肺不张,llm,0.7
+肺嗜酸性粒细胞增多,慢性嗜酸性粒细胞性肺炎,llm,0.7
+chronic obstructive pulmonary disease iv级,慢性阻塞性肺疾病iv级,llm,1.0
+acute respiratory illness,小儿急性呼吸窘迫综合征,llm,0.7
+esophageal candidiasis,moniliasis,llm,0.8
+gastrointestinal infections,敏感致病菌株所引起的下列感染：1,llm,0.7
+嗜酸性粒细胞性肺炎,慢性嗜酸性粒细胞性肺炎,llm,0.8
+tetanus,破伤风,llm,1.0
+破伤风,破伤风,llm,1.0
+mesothelioma,局限性间皮瘤,llm,0.9
+新生儿原发性肺不张,小儿肺不张,llm,0.7
+过敏性支气管肺曲霉病（abpa）,过敏性支气管肺青霉病,llm,0.8
+已知病毒的流感性急性上呼吸道感染,急性上感,llm,0.8
+pancreatic carcinoma,终末导管腺癌,llm,0.7
+ards/ali,小儿急性肺损伤,llm,0.9
+hydrops fetalis,hbbart胎儿水肿综合征,llm,0.8
+结核性肺炎,结核性肺炎,llm,1.0
+angiostrongylus cantonensis (angiostrongyliasis),广州管圆线虫病,llm,0.95
+哮喘-慢阻肺重叠综合征,overlapping syndrome,llm,0.9
+pneumocystis jirovecii pneumonia (pcp),丝酵母菌性肺炎,llm,0.8
+囊状纤维化,肺囊性纤维化,llm,0.9
+otomycosis,moniliasis,llm,0.7
+hospital-acquired pneumonia (hap),严重的肺炎,llm,0.7
+特发性肺间质纤维化,小儿hamman-rich综合征,llm,0.8
+acute high altitude sickness,acute high altitude sickness,llm,1.0
+呼吸道合胞体病毒肺炎,呼吸道合胞病毒急性支气管炎,llm,0.7
+单纯性慢性支气管炎,以及老年急慢性支气管炎,llm,0.7
+社区获得性肺炎（cap）,严重的肺炎,llm,0.7
+nocardia infection,肺诺卡菌病,llm,0.9
+community-acquired pneumonia (cap),严重的肺炎,llm,0.7
+underlying pulmonary conditions cystic fibrosis,肺囊性纤维化,llm,0.95
+allergic bronchopulmonary aspergillosis (abpa),过敏性支气管肺青霉病,llm,0.9
+新生儿其他和未特指的肺不张,小儿肺不张,llm,0.7
+community-acquired hospitalized pneumonia,严重的肺炎,llm,0.8
+急性鼻咽炎［感冒］,急性上感,llm,0.8
+急性咽气管炎,喘息样支气管炎,llm,0.7
+鼠疫,皮肤鼠疫,llm,0.9
+ⅲ型：膜性咽炎,白喉性膜性喉炎,llm,0.7
+重症肝病合并侵袭性念珠菌病,moniliasis,llm,0.85
+克雷白氏杆菌性肺炎,克雷白氏杆菌感染,llm,0.8
+贫血 (anemia),红细胞下降,llm,0.8
+呼吸系统症状,咳嗽（10%）,llm,0.7
+general symptoms,感冒样症状,llm,0.7
+仅有发热（>38.5℃）持续12～24小时,伴高热,llm,0.8
+异常临床症状或体征,临床症状、体征,llm,0.9
+prolonged cough,咳嗽渐加重；中期嗽起连连,llm,0.7
+临床表现,临床症状、体征,llm,0.9
+expectoration of mucous plugs,咳出少量黏液痰,llm,0.8
+肺部结节,肺内结节,llm,0.9
+心脏呼吸骤停,心跳呼吸骤停,llm,0.95
+hallucinations,夜梦异常和幻觉,llm,0.85
+cough,咳嗽（10%）,llm,0.8
+heart failure,右心衰竭,llm,0.9
+obesity,肥胖性低通气综合征,llm,0.8
+tissue necrosis and angioinvasion,坏死或蜂窝织炎等,llm,0.7
+shortness of breath,呼吸极为困难,llm,0.9
+进行性的呼吸困难,呼吸极为困难,llm,0.9
+circulatory failure,右心衰竭,llm,0.8
+局灶性神经系统体征,定位神经体征等,llm,0.9
+全身淋巴结肿大,坏死或蜂窝织炎等,llm,0.7
+febrile,伴高热,llm,0.9
+nodule or mass,肺内结节,llm,0.8
+14%出现面部潮红和荨麻疹,面色潮红,llm,0.7
+visual or auditory hallucinations,夜梦异常和幻觉,llm,0.85
+气道痉挛,支气管痉挛恶化,llm,0.8
+白细胞计数异常,外周血白细胞计数常升高,llm,0.7
+乏力 (fatigue),疲劳、乏力、运动耐量减低,llm,0.9
+nasal blockage,肺脾气虚鼻塞,llm,0.8
+skin necrosis,坏死或蜂窝织炎等,llm,0.7
+cavity,空洞形成,llm,0.9
+pleural effusions,大叶实变伴脓胸,llm,0.7
+headache,头痛等,llm,0.9
+elevated white blood cell count,外周血白细胞计数常升高,llm,0.95
+flu-like symptoms,感冒样症状,llm,0.9
+oral ulcers,消化道溃疡,llm,0.8
+fever,伴高热,llm,0.9
+dyspnea,呼吸极为困难,llm,0.9
+abdominal pain,食欲缺乏，腹痛,llm,0.8
+sputum production,咳痰及不同程度的呼吸困难,llm,0.8
+neutropenia (general),外周血白细胞计数常升高,llm,0.7
+消化道症状,食欲缺乏，腹痛,llm,0.7
+shock,血压剧降,llm,0.8
+低氧（氧饱和度 ＜ 93 % ，氧合指数 < 3 0 0 mmhg 或氧饱和度 6 % 且氧合指数 ≤ 3 1 5 mmhg ）,低氧血症（2%）,llm,0.8
+airway obstruction,支气管痉挛恶化,llm,0.7
+rashes,偶见皮疹、药物热及其他变态反应,llm,0.8
+pulmonary infiltrates,肺中低部区域浸润,llm,0.7
+skin and soft tissue infection,坏死或蜂窝织炎等,llm,0.7
+bronchospasm,支气管痉挛恶化,llm,0.8
+alveolar lung infiltrates,肺中低部区域浸润,llm,0.7
+acute low oxygen,低氧血症（2%）,llm,0.8
+thick sputum plugging,气管分泌增多,llm,0.7
+necrotic tissue,坏死或蜂窝织炎等,llm,0.7
+productive cough,咳嗽（10%）,llm,0.8
+发热 (fever),伴高热,llm,0.9
+hiv感染症状,夜梦异常和幻觉,llm,0.7
+肺部影像学提示胸膜下团块影,肺内结节,llm,0.8
+耳毒性,瞳孔极度缩小,llm,0.7
+nausea and vomiting,食欲缺乏，腹痛,llm,0.7
+腹泻导致脱水、循环障碍、精神状态改变,1/3患者出现腹泻水样便,llm,0.8
+消化道反应,消化道溃疡,llm,0.8
+leucocytes,外周血白细胞计数常升高,llm,0.9
+tissue necrosis,坏死或蜂窝织炎等,llm,0.85
+记忆困难、抑郁、嗜睡或头痛,头痛等,llm,0.8
+lung infiltrates,肺中低部区域浸润,llm,0.8
+swollen legs,上肢和面部水肿,llm,0.7
+头痛 (headache),头痛等,llm,0.8
+头晕 (dizziness),头晕6,llm,0.8
+水样便,1/3患者出现腹泻水样便,llm,0.7
+中性粒细胞增多,外周血白细胞计数常升高,llm,0.8
+rhinorrhea,肺脾气虚鼻塞,llm,0.7
+febrile patients,伴高热,llm,0.9
+massive hemoptysis,咯血及食欲减退,llm,0.9
+crusted lesions,坏死或蜂窝织炎等,llm,0.8
+新月征,肺内结节,llm,0.7
+干咳，进行性呼吸,咳嗽渐加重；中期嗽起连连,llm,0.7
+cavitation,空洞形成,llm,0.9
+nodule,肺内结节,llm,0.8
+significant fatigue,疲劳、乏力、运动耐量减低,llm,0.8
+咳嗽、厌食、呕吐、腹痛,食欲缺乏，腹痛,llm,0.7
+hypoxia,低氧血症（2%）,llm,0.8
+包括胸痛、气短和低氧血症或）季肋部及腿痛,胸骨后不适或胸前疼痛,llm,0.7
+临床症状,临床症状、体征,llm,0.9
+respiratory symptoms,呼吸困难等；婴幼儿表现为阵发或持续性呼吸困难,llm,0.8
+diarrhea,1/3患者出现腹泻水样便,llm,0.9
+血便,咯血及食欲减退,llm,0.7
+弓形虫呼吸困难,呼吸困难等；婴幼儿表现为阵发或持续性呼吸困难,llm,0.8
+腹痛17%、恶心/呕吐12%、腹泻10%、眩晕5%,食欲缺乏，腹痛,llm,0.7
+临床症状体征,临床症状、体征,llm,0.95
+cavity formation,空洞形成,llm,1.0
+inflammation symptoms and signs,临床症状、体征,llm,0.8
+fatigue,疲劳、乏力、运动耐量减低,llm,0.8
+obese,肥胖性低通气综合征,llm,0.7
+bronchoconstriction,支气管痉挛恶化,llm,0.9
+结核中毒症状,有或无结核中毒症状,llm,0.9
+头痛、流涕、咽痛和耳痛,感冒样症状,llm,0.7
+auditory hallucinations,夜梦异常和幻觉,llm,0.8
+amoxicillin-clavulanic acid,阿莫西林克拉维酸钾41颗粒,llm,0.9
+多黏菌素e（colistin）,硫酸粘菌素颗粒,llm,0.9
+prodrug of colistin,硫酸粘菌素颗粒,llm,0.8
+替卡西林/克拉维酸钾,阿莫西林克拉维酸钾41颗粒,llm,0.8
+colistin-carbapenem,硫酸粘菌素颗粒,llm,0.8
+巴龙霉素（humatin）,白萝仙,llm,0.8
+头孢吡,头孢匹姆,llm,0.9
+玛巴罗沙韦,瑞凯平,llm,0.8
+veklury,瑞凯平,llm,0.8
+青霉素（耐青霉素酶）,苯唑青,llm,0.9
+阿尼芬净溶液,瑞凯平,llm,0.9
+阿尼芬净胶囊,瑞凯平,llm,0.9
+左旋奥硝唑,司里蒙,llm,0.9
+结核病新药氯法齐明,氯法齐明,llm,0.9
+普罗帕酮,心律平,llm,0.9
+特比萘芬口服液,兰美抒,llm,0.9
+甲氧苄啶-磺胺甲恶唑,复方新诺明,llm,0.9
+口服溶液,稀氨溶液,llm,0.8
+硫酸多黏菌素b,硫酸粘菌素颗粒,llm,0.9
+磷霉素（monurol）,复方磷霉素钙胶囊,llm,0.9
+zidovudine+3tc,齐多夫定拉米夫定片,llm,0.9
+voriconazole (general),威凡,llm,0.9
+头孢拉定/维,头孢拉定胶囊,llm,0.9
+plazomicin,硫酸庆大霉素,llm,0.9
+特地唑胺,特地唑胺片,llm,0.9
+万古霉素15mg/kgivq12h， auc24400～600μg·h/ml（体重<2000g）,稳可信,llm,0.9
+amoxicillin plus clavulanic acid,阿莫西林克拉维酸钾41颗粒,llm,0.7
+antithymocyte globulin,抗人胸腺淋巴细胞球蛋白猪,llm,0.9
+polymyxin class,硫酸粘菌素颗粒,llm,0.8
+氨氯地平,平克亚欣,llm,0.8
+注射用硫酸黏菌素,硫酸粘菌素颗粒,llm,0.8
+氟奋乃静,氟奋乃静,llm,1.0
+金刚烷胺 c级,金刚烷胺,llm,0.8
+tobi,妥布霉素,llm,0.9
+norfloxacin,诺氟沙星,llm,0.9
+伊曲康唑混悬液,伊曲康唑,llm,0.8
+盐酸洛哌丁胺,盐酸洛哌丁胺,llm,1.0
+阿莫西林0.5~1gi.v.q.6h.,安比西林,llm,0.8
+环丙沙星 500mg p.o.b.i.d.,盐酸环丙沙星凝胶,llm,0.7
+硫酸黏菌素为多黏菌素 e,硫酸粘菌素颗粒,llm,0.9
+青霉素 g,苯氧甲基盘尼西林钾,llm,0.8
+两性霉素b口服液,瑞思,llm,0.7
+洛哌丁胺,易蒙停,llm,0.9
+两性霉素b脂质复合体,康丽能,llm,0.8
+isavuconazole sulfate,瑞思,llm,0.8
+泰利霉素（telithromycin）,沁林,llm,0.8
+阿德福韦酯,阿多停,llm,0.8
+阿莫西林-克拉维酸7：1,阿莫西林克拉维酸钾41颗粒,llm,0.8
+colistin group,硫酸粘菌素颗粒,llm,0.8
+（去甲）万古霉素,瑞思,llm,0.8
+雷贝拉唑,瑞凯平,llm,0.8
+灰黄霉素凝胶,灰黄霉素凝胶,llm,1.0
+泼尼松口服,hydroprednisone,llm,0.7
+替加环素（tigecycline）,他索尔明,llm,0.9
+伏立康唑和卡,瑞思,llm,0.8
+特比萘芬片,特罗凯,llm,0.7
+polymyxin e sulfate,硫酸粘菌素颗粒,llm,0.9
+colistin (cms),硫酸粘菌素颗粒,llm,0.85
+青蒿琥酯片,瑞思,llm,0.8
+二甲双胍,格隆溴铵,llm,0.7
+两性霉素b溶液剂,瑞思,llm,0.8
+mycophenolate mofetil (general),吗替麦考酚酯片,llm,0.9
+methronidazole,甲硝唑胶囊,llm,0.9
+colomycin,硫酸粘菌素颗粒,llm,0.9
+corticosteroids (general),皮质醇,llm,0.8
+泊沙康唑口服悬浮液 (posaconazole oral suspension),诺沛,llm,0.8
+泊沙康唑缓释片,诺沛,llm,0.8
+posaconazole,诺沛,llm,0.8
+厄他培南（ertapenem）,速伏抗,llm,0.7
+亚胺培南-西拉司丁,捷平,llm,0.7
+imipenem-cilastatin plus colistin,捷平,llm,0.7
+美罗培南1.0g i.v.q.8h.,瑞凯平,llm,0.7
+蒿甲醚-苯荡醇,沁林,llm,0.7
+甲硝唑0.2-0.4g p.o.t.i.d.,甲硝唑胶囊,llm,0.8
+齐多夫定（zdv）,齐征,llm,0.9
+fluorocycline,他索尔明,llm,0.9
+cephalexin,苯氧甲基盘尼西林钾,llm,0.8
+bacitracin,杆菌肽,llm,0.9
+scopolamine,氢溴酸东莨菪碱,llm,0.9
+cyclosporine (general),环孢素,llm,0.9
+glucocorticoid therapy,皮质醇,llm,0.8
+zidovudine,齐多夫定,llm,0.9
+夫西地酸（fucidin，taksta）,瑞思,llm,0.9
+齐多夫定 (azt),齐征,llm,0.9
+多黏菌素b（polymyxin b）,硫酸粘菌素颗粒,llm,0.8
+amoxicillin/clavulanic acid,阿莫西林克拉维酸钾41颗粒,llm,0.9
+actemra,瑞凯平,llm,0.8
+amoxicillin/clavulanic acid (oral antibiotic),阿莫西林克拉维酸钾41颗粒,llm,0.9
+corticosteroids,皮质醇,llm,0.8
+glucocorticoid,皮质醇,llm,0.8
+氟康唑40mg/dp.o.,瑞思,llm,0.8
+氟胞嘧啶栓剂,瑞思,llm,0.8
+青霉素160万~240万ui.v.q.6h.~ q.4h.,苯唑青,llm,0.7
+利福平 (rifampin),利福平0.12g,llm,0.8
+阿奇霉素250mg/d,azithromycin dispirsible tablets,llm,0.8
+dextrose in water,100ml：加替沙星0.2g，葡萄糖5g,llm,0.8
+β-内酰胺类药物,舒巴坦钠（1：1）,llm,0.7
+氯己定,氯己定,llm,1.0
+meropenem-vaborbactam or imipenem-cilastatin-relebactam,imipenemand cilastatin sodium for injection,llm,0.8
+active antibiotic,抗菌药物的应用,llm,0.7
+imipenem-cilastatin-relebactam,imipenemand cilastatin sodium for injection,llm,0.8
+克拉霉素500~1000g/d,genlamycin sulfate tablets,llm,0.8
+聚山梨酯‑80,聚山梨酯—80,llm,0.95
+anti-pd-l1,anti-pd-l1,llm,1.0
+nucleoside analogues,核苷类似物,llm,1.0
+beta-lactamases inhibitors,舒巴坦钠（1：1）,llm,0.8
+cephalosporin,头孢匹胺,llm,0.9
+止痛药物,消炎痛,llm,0.9
+isentress,isentress,llm,1.0
+聚维酮碘,聚维酮碘,llm,1.0
+amphotericin b cream,两性霉素b,llm,0.9
+克拉霉素500mgp.o.b.i.d.,genlamycin sulfate tablets,llm,0.8
+蔡夫西林/苯唑西林2giv q4h×4～6w,苯唑青,llm,0.8
+头孢唑啉2giv q8h×4～6w,zinacef（cefuroxime axetil tablets）,llm,0.7
+tetracycline derivatives,四环素类衍生物,llm,1.0
+cephalosporins,头孢匹胺,llm,0.8
+hiv-2,人类免疫缺陷病毒（hiv）感染,llm,0.8
+bordetella pertussis,百日咳杆菌,llm,0.9
+aspergillus antibodies,曲霉菌抗体,llm,0.9
+hemorrhagic fever virus,出血热病毒,llm,0.9
+hiv-1/-2 dna,人类免疫缺陷病毒（hiv）感染,llm,0.9
+blastomyces dermatitidis,是由固孢蛙粪霉通过接触感染引起,llm,0.7
+耐药肺炎球菌,继发于肺炎链球菌性肺炎,llm,0.8
+hiv-1/-2 rna,人类免疫缺陷病毒（hiv）感染,llm,0.95
+厌氧微生物,厌氧菌等,llm,0.8
+艾滋病病毒,人类免疫缺陷病毒（hiv）感染,llm,0.95
+百日咳鲍特菌,百日咳鲍特菌,llm,1.0
+含有结核分枝杆菌的irps,结核分枝杆菌感染,llm,0.8
+厌氧菌中的脆弱拟杆菌,厌氧菌等,llm,0.7
+结核菌,结核分枝杆菌感染,llm,0.9
+serratia spp.,沙雷菌感染,llm,0.9
+人类慢病毒组,人类免疫缺陷病毒（hiv）感染,llm,0.8
+hiv types 1 and 2 (hiv-1/2),人类免疫缺陷病毒（hiv）感染,llm,0.9
+hiv-2 antibodies,人类免疫缺陷病毒（hiv）感染,llm,0.8
+结核分枝杆菌感染,结核分枝杆菌感染,llm,1.0
+legionella spp.,嗜肺军团杆菌感染,llm,0.8
+hiv (human immunodeficiency virus),人类免疫缺陷病毒（hiv）感染,llm,0.95
+cryptococcus species,隐球菌,llm,0.8
+human coronaviruses (hcov)-hku1,呼吸道融合病毒,llm,0.7
+chlamydia trachomatis (ct),沙眼衣原体,llm,0.9
+chlamydophila pneumoniae,肺炎衣原体,llm,0.9
+west nile virus,西尼罗河病毒,llm,0.8
+streptococcus species,链球菌,llm,0.8
+e. cloacae,阴沟肠杆菌,llm,0.8
+isospora,等孢球虫,llm,0.8
+flua,甲型流感病毒,llm,0.7
+human immunodeficiency virus (hiv) (general),人类免疫缺陷病毒（hiv）感染,llm,0.9
+sars cov-2,严重急性呼吸综合征冠状病毒2型,llm,1.0
+aspergillus niger,黑曲霉,llm,0.9
+bartonella,巴尔通体,llm,0.9
+neisseria,奈瑟菌,llm,0.9
+aspergillus spp,曲霉菌属,llm,0.9
+fusobacterium necrophorum,坏死梭杆菌,llm,0.9
+产单核李斯特菌,产单核细胞李斯特菌,llm,0.9
+卵圆拟杆菌,卵形拟杆菌,llm,0.9
+蛲虫（蛲虫病）,蛲虫,llm,1.0
+棘阿米巴原虫,棘阿米巴,llm,0.9
+甲氧西林敏感金黄色葡萄球菌,甲氧西林敏感金黄色葡萄球菌,llm,1.0
+脑膜炎奈瑟菌,脑膜炎奈瑟菌,llm,1.0
+cryptococcus neoformans,新型隐球菌,llm,0.9
+lacrosse encephalitis virus,拉克罗斯脑炎病毒,llm,0.9
+hsv 1 and 2,单纯疱疹病毒1型和2型,llm,0.9
+parainfluenza virus,iii型副流感病毒,llm,0.9
+hpiv-1,iii型副流感病毒,llm,0.8
+mycobacterium tuberculosis,结核分枝杆菌感染,llm,0.9
+呼吸道合胞病毒（rsv）,呼吸道融合病毒误吸,llm,0.8
+军团菌（legionella species）,嗜肺军团杆菌感染,llm,0.9
+人类免疫缺陷病毒 (hiv),人类免疫缺陷病毒（hiv）感染,llm,1.0
+人类免疫缺陷病毒（hiv）,人类免疫缺陷病毒（hiv）感染,llm,0.95
+hiv 需借助易感细胞表面的受体进入细胞,人类免疫缺陷病毒（hiv）感染,llm,0.9
+legionella,嗜肺军团杆菌感染,llm,0.9
+human immunodeficiency virus (hiv),人类免疫缺陷病毒（hiv）感染,llm,0.9
+炭疽杆菌,炭疽杆菌感染所致,llm,0.9
+马来丝虫,马来丝虫及犬恶丝虫或微丝蚴在胸部淋巴管内寄生,llm,0.8
+anaerobic bacteria,厌氧菌等,llm,0.8
+cytomegalovirus,巨细胞病毒,llm,0.9
+hiv-2 rna,人类免疫缺陷病毒（hiv）感染,llm,0.8
+小螺旋菌,由小螺菌感染引起,llm,0.9
+人类免疫缺陷病毒,人类免疫缺陷病毒（hiv）感染,llm,0.9
+hiv 在感染者体内不断复制,人类免疫缺陷病毒（hiv）感染,llm,0.9
+血吸虫,血吸虫的幼虫或成虫在肺内移行,llm,0.9
+沙雷菌,沙雷菌感染,llm,0.9
+legionella pneumophila,嗜肺军团杆菌感染,llm,0.9
+cryptococcus neoformans/gattii,楚尔盖分枝杆菌,llm,0.8
+aspergillus species,固孢蛙粪霉,llm,0.7
+blood film,痰涂片检测,llm,0.7
+blood smear evaluation,痰涂片检测,llm,0.7
+annual pulmonary function tests,肺功能测试,llm,0.9
+pcr 检测,反转录聚合酶链反应,llm,0.8
+elisa kit,(5)加终止液以终止反应，每孔50μl，观察结果。每批试验设固定的阳性血清、阴性血清及抗原对照等。,llm,0.7
+涂片染色镜检法（革兰染色、抗酸染色、免疫荧光染色和墨汁染色等）,痰涂片检测,llm,0.8
+direct fluorescent antibody test,直接荧光抗体试验,llm,1.0
+igm抗体检测,特异igm,llm,0.7
+经纤支镜留取的痰液,痰涂片检测,llm,0.8
+paranasal ct,胸部 x 线,llm,0.7
+immunofluorescence (ifa),直接荧光抗体试验,llm,0.9
+magnetic resonance imaging (mri),断层成像,llm,0.7
+免疫学试验,一般实验室检查,llm,0.7
+足部x片,普通x线检查,llm,0.8
+pelvic aspirate and naat and aerobic and anaerobic cultures and gram stain and acid-fast bacilli stain and culture and mycobacterial naat,病灶活检,llm,0.7
+腹腔感染实验室检测流程,一般实验室检查,llm,0.7
+cell count and differential of dialysate and protein analysis and cytospin gram stain evaluation and aerobic and anaerobic cultures and acid-fast bacilli stain and culture and mycobacterial naat and fungal culture and koh or fluorescent stain microscopy,白细胞分类计数,llm,0.8
+abscess aspirate,病灶活检,llm,0.8
+脑脊液真菌培养,普通致病菌培养,llm,0.7
+分子检测方法,反转录聚合酶链反应,llm,0.8
+biopsy aspirate and culture and gram stain,病灶活检,llm,0.8
+bacterial culture,普通致病菌培养,llm,0.9
+chest ct-scan,胸部 x 线,llm,0.8
+throat culture,普通致病菌培养,llm,0.8
+in situ hybridization tests,行细胞学检查,llm,0.8
+cd4+ t 淋巴细胞计数,全血细胞分析,llm,0.7
+abscess aspirate and culture and gram stain and aerobic and anaerobic cultures and acid-fast bacilli stain and culture and mycobacterial naat,肺穿刺培养,llm,0.7
+gram stains,痰涂片检测,llm,0.8
+saliva samples,痰液显微镜检,llm,0.7
+computed tomography (ct),x线或ct检查,llm,0.8
+serologic testing,验血（γ—干扰素释放试验）,llm,0.7
+imaging for diagnosis and guidance and specimen collection and surgical treatment and aerobic and anaerobic cultures and gram stain and acid-fast bacilli stain and culture and mycobacterial naat,胸部 x 线,llm,0.8
+secondary peritonitis aspirate and culture and gram stain and aerobic and anaerobic cultures,胸腔积液的细菌学检查：近年，脓胸的病因菌厌氧性菌增加，革兰阳性球菌为金黄色葡萄球菌、链球菌。革兰阴性杆菌为绿脓杆菌、大肠杆菌。结核性胸膜炎时结核杆菌培养阳性约为25%。,llm,0.8
+fitz-hugh-curtis syndrome aspirate and culture,肺穿刺培养,llm,0.7
+verigene® gram-negative blood culture test,普通致病菌培养,llm,0.7
+real-time molecular assays,反转录聚合酶链反应,llm,0.8
+in situ hybridization,行细胞学检查,llm,0.7
+blood cultures prior to antimicrobial therapy and after initiation and aerobic and anaerobic cultures and gram stain and acid-fast bacilli stain and culture and mycobacterial naat and fungal culture and koh or fluorescent stain microscopy,普通致病菌培养,llm,0.8
+sars-cov-2抗原检测,直接荧光抗体试验,llm,0.7
+抗酸染色,痰涂片检测,llm,0.7
+腹盆腔ct,x线或ct检查,llm,0.7
+需氧/厌氧血液培养瓶,普通致病菌培养,llm,0.8
+needle aspiration,ct引导下经胸壁针刺抽吸活检术,llm,0.85
+chest radiograph results,胸部 x 线,llm,0.9
+bronchoscopy with bronchoalveolar lavage (bal),电子支气管镜检查,llm,0.8
+flexible bronchoscopy,电子支气管镜检查,llm,0.9
+bronchoscopy,电子支气管镜检查,llm,0.9
+纤支镜,电子支气管镜检查,llm,0.8
+bronchoscopy with bal,电子支气管镜检查,llm,0.8
+cpr,现场心肺复苏,llm,0.9
+内镜,电子支气管镜检查,llm,0.8
+现场即时检测,现场心肺复苏,llm,0.7
+吉姆萨染色,(1)采血1小滴于载玻片一端，用一推片以35°～45°倾斜推出四周留有适量空隙，可分清头、体、尾的薄血片。血膜长度不少于2.5cm，末梢至玻片另一端尚余空隙约1cm。血膜干后染色。,llm,0.8
+血管造影,心血管造影检查,llm,0.9
+surgical debridement (general),外科清创,llm,0.9
+surgical decompression,狭窄解除手术,llm,0.8
+open debridement,外科清创,llm,0.85
+异基因造血干细胞移植（hsct）,allogeneic hsct (general),llm,0.95
+definitive surgery,手术纠正,llm,0.8
+percutaneous endoscopic discectomy and drainage,胸腹腔引流术,llm,0.7
+herniorrhaphy,手术纠正,llm,0.7
+清创术,胸腹腔引流术,llm,0.7
+videoassisted thoracic surgical procedure,切口进胸,llm,0.7
+drainage of the joint,胸腹腔引流术,llm,0.7
+laser photocoagulation,激光,llm,0.9
+local debridement,胸腹腔引流术,llm,0.7
+resection for persistent hemoptysis,切除受累肺叶或段,llm,0.8
+surgical drainage,胸腹腔引流术,llm,0.9
+cyclophotocoagulation,激光,llm,0.8
+鼻息肉切除术,摘除囊肿或结节,llm,0.7
+引流,胸腹腔引流术,llm,0.9
+surgical or endoscopic removal,摘除囊肿或结节,llm,0.7
+脑室腹腔（心房）分流术,fontan分流术,llm,0.7
+再开胸探查,切口进胸,llm,0.7
+resection for symptomatic aspergilloma,切除受累肺叶或段,llm,0.7
+video-assisted thoracoscopic surgery,切口进胸,llm,0.7
+感染性心内膜炎手术治疗,手术纠正,llm,0.8
+first reoperation,再手术,llm,0.9
+yag laser capsulotomy,激光,llm,0.7
+损伤控制手术,手术纠正,llm,0.7
+再手术,再手术,llm,1.0
+open excisional biopsy,摘除囊肿或结节,llm,0.7
+surgical resection for localized disease,切除受累肺叶或段,llm,0.8
+thoracotomy,切口进胸,llm,0.9
+脓肿切开引流术,胸腹腔引流术,llm,0.7
+肺叶切除,肺叶切除术,llm,0.95
+脓肿切开引流,胸腹腔引流术,llm,0.7
+glaucoma drainage device implantation,肺动脉分流术,llm,0.7
+organ transplantation (general),自体或人胚胎气管移植,llm,0.8
+debridement and drainage surgery,胸腹腔引流术,llm,0.8
+引流术,胸腹腔引流术,llm,0.8
+造口术,气管造口术,llm,0.8
+pneumonectomy,肺叶切除术,llm,0.9
+经皮穿刺引流术,胸腹腔引流术,llm,0.8
+surgical instrument laser,激光,llm,0.9
+lobectomy,肺叶切除术,llm,0.95
+手术减压,右心室减压,llm,0.8
+laser treatment,激光,llm,0.9
+surgical debridement with clean margins,外科清创术,llm,0.9
+balloon dilation,球囊扩张,llm,0.95
+palliative surgery,体肺动脉分流姑息手术,llm,0.85
+conventional lobectomy,肺叶切除术,llm,0.9
+laparoscopic appendectomy,阑尾切除术,llm,0.9
+open drainage,胸腹腔引流术,llm,0.8
+lung resection,肺叶切除术,llm,0.9
+polymyxin-based combination therapy,其它氨基糖苷类,llm,0.7
+阿莫西林／克拉维酸,广谱青霉素/抗生素,llm,0.7
+upper respiratory tract,上呼吸道黏膜,llm,0.7
+organ,脏器,llm,0.9
+bronchus,支气管,llm,0.9
+alveoli,肺泡壁,llm,0.7
+上叶,肺上叶,llm,0.9
+right upper lobe,肺上叶,llm,0.9
+lower respiratory tract,下呼吸道,llm,0.9
+infected lungs,肺脏,llm,0.8
+肺组织,肺脏,llm,0.9
+3个肺野,下肺野,llm,0.7
+distal airways,小气道周围,llm,0.7
+vertebral endplate,椎骨,llm,0.7
+lung parenchyma,肺实质,llm,1.0
+pleural space,胸膜情况,llm,0.8
+mediastinum,纵膈,llm,0.95
+posterior segment,后壁,llm,0.8
+bronchioles,毛细支气管,llm,0.9
+chest wall,同侧半胸廓,llm,0.8
+膈,左侧肺下叶后基底部与横膈之间,llm,0.7
+lung,肺脏,llm,0.9
+支气管黏膜,上呼吸道黏膜,llm,0.8
+肺中上叶,肺上叶,llm,0.9
+双肺,肺脏,llm,0.9
+diaphragm,左侧肺下叶后基底部与横膈之间,llm,0.7
+metastatic sites,肝脏转移,llm,0.8
+pleura,肺和胸膜,llm,0.8
+airway,大气道,llm,0.9
+pulmonary involvement,肺脏,llm,0.7
+pericardium,心包膜,llm,1.0
+right lower lobe,右下叶,llm,1.0
+肺上下叶,肺上叶,llm,0.9
+肺部局限病灶,肺脏,llm,0.7
+airways,大气道,llm,0.8
+左主支气管,支气管,llm,0.8
+皮肤软组织,皮肤及呼吸道,llm,0.7
+skin and subcutaneous tissue,皮肤及呼吸道,llm,0.7
+bone and joint,椎骨,llm,0.7
+pleural cavity,肺和胸膜,llm,0.8
+epiglottis,会厌及其周围组织,llm,0.8
+纵隔内,纵膈,llm,0.9
+right middle-lobe,右中叶,llm,1.0
+中叶,右中叶,llm,0.9
+vertebrae,椎骨,llm,1.0
+单侧肺下叶,肺下叶,llm,0.9
+气道,大气道,llm,0.8
+气道黏膜,上呼吸道黏膜,llm,0.7
+右肺中叶,右中叶,llm,1.0
+trachea,大气道,llm,0.7
+supraglottis,喉入口,llm,0.8
+椎体,椎骨,llm,0.9
+肺/支气管/肺炎,"支气管,肺",llm,0.8
+气管支气管,大气道,llm,0.7
+肺组织/细胞,肺脏,llm,0.9
+right lung central,肺门周围,llm,0.8
+chest,同侧半胸廓,llm,0.8
+lungs,肺脏,llm,0.9
+endobronchial lesions,支气管,llm,0.8
+bronchial stumps/sutures,支气管壁,llm,0.7
+throat,喉入口,llm,0.8
+声门下,声门下喉,llm,0.9
+远端气道,毛细支气管,llm,0.8
+abdominal cavity,体腔浆膜,llm,0.7
+bronchi,支气管,llm,0.9
+lungs (general),肺脏,llm,0.9
+pharynx,上气道,llm,0.7
+lung tissue,肺脏,llm,0.9
+肺门淋巴结,肺门周围,llm,0.8
+spine,椎骨,llm,0.9
+allograft lung,肺脏,llm,0.8
+纵隔或肺门淋巴结,肺门周围,llm,0.85
+头面部,面颈部及胸腹部,llm,0.7
+腹膜,体腔浆膜,llm,0.8
+下呼吸道,上下呼吸道,llm,0.7
+支气管镜操作腔道,大气道,llm,0.8
+肺部系统,肺脏,llm,0.9
+老年科,老年病科,llm,0.9
+重症医学科（icu）,内科；急诊科,llm,0.7
+neurology,神经内科,llm,0.9
+immunology,免疫科,llm,0.9
+hepatology,肝病科,llm,0.9
+呼吸与危重症医学科,内科；急诊科,llm,0.7
+中华医学会重症医学分会,内科；急诊科,llm,0.7
+picu,小儿内科,llm,0.8
+neonatal ward,儿科,llm,0.7
+oncology,外科；肿瘤科,llm,0.9
+hematologists/oncologists,外科；肿瘤科,llm,0.8
+infection management optimization systems,感染内科,llm,0.7
+geriatrics,老年病科,llm,0.9
+geriatricians,老年病科,llm,0.9
+pulmonologists,呼吸科,llm,0.9
+言语治疗科,五官科,llm,0.7
+儿科学,儿科,llm,0.9
+infectious diseases society of taiwan (idst),感染内科,llm,0.7
+infectious disease management,感染内科,llm,0.8
+infection management optimization methods,感染内科,llm,0.7
+patient with acute laryngitis,五官科,llm,0.7
+patient with pleural effusion,呼吸科,llm,0.7
+2~5岁儿童,儿科,llm,0.9
+康复科,康复科,llm,1.0
+姑息治疗科,老年病科,llm,0.7
+乡镇医院,社区科室,llm,0.7
+新生儿病房,儿科,llm,0.8
+neonatal icu,儿科,llm,0.8
+烧伤科,烧伤整形科,llm,0.8
+infectious disease department,感染内科,llm,0.9
+感染控制科,感染内科,llm,0.8
+临床微生物学和传染病学会,感染和临床微生物科,llm,0.7
+微生物学实验室,感染和临床微生物科,llm,0.7
+感染病科,感染内科,llm,0.9
+physical therapy department,物理治疗科,llm,1.0
+preventive care department,预防保健科,llm,1.0
+immunotherapy department,免疫治疗科,llm,1.0
+oncology department,外科；肿瘤科,llm,0.8
+primary care,社区科室,llm,0.7
+全科,社区科室,llm,0.7
+急诊,急诊科,llm,0.9
+pediatric medicine,儿科,llm,0.9
+移植科,外科；肿瘤科,llm,0.7
+clinical microbiology and infection,感染和临床微生物科,llm,0.9
+infectious diseases clinic,感染内科,llm,0.85
+infection,感染内科,llm,0.8
+ccu,内科；急诊科,llm,0.7
+clinical microbiology lab,感染和临床微生物科,llm,0.9
+中西医结合医院,中西医结合科,llm,0.8
+结核科,传染科,llm,0.7
+paediatrics,儿科,llm,0.9
+pediatric icu,小儿科,llm,0.8
+intensive care unit,内科；急诊科,llm,0.7
+重症监护室（icu）,内科；急诊科,llm,0.7
+口腔科,五官科,llm,0.8
+ophthalmology,五官科,llm,0.9
+nicu,儿科,llm,0.8
+重症监护病房,内科；急诊科,llm,0.7
+儿科hiv专家会诊,儿科,llm,0.8
+儿科传染病医师,儿科,llm,0.8
+消化内科,内科；急诊科,llm,0.7
+感染病学,感染内科,llm,0.8
+急诊临床医师,内科；急诊科,llm,0.7
+critical care,急诊科,llm,0.8
+urologic department,外科；肿瘤科,llm,0.7
+rehabilitation center,烧伤整形科,llm,0.7
+audiologist,五官科,llm,0.8
+cardiology,循环系统药物,llm,0.7
+surgery,外科；肿瘤科,llm,0.7
+呼吸病学,呼吸科,llm,0.9
+pulmonology,呼吸科,llm,0.9
+儿科学会,儿科,llm,0.8
+respiratory,呼吸科,llm,0.9
+allergy,变态反应科,llm,0.9
+放射科、急诊科、理疗科等平台科室,内科；急诊科,llm,0.7
+重症医学科,内科；急诊科,llm,0.7
+urology,泌尿科,llm,0.9
+intensive care,重症监护,llm,0.9
+infectious diseases,感染内科,llm,0.8
+pediatric infectious diseases specialists,小儿科,llm,0.7
+儿科 / 新生儿 icu,儿科,llm,0.8
+整形骨科,烧伤整形科,llm,0.7
+健康管理中心,体检、保健科,llm,0.8
+clinical microbiology services,感染和临床微生物科,llm,0.8
+medical microbiology,感染和临床微生物科,llm,0.7
+clinical microbiology,感染和临床微生物科,llm,0.9
+interventional radiologist,外科；肿瘤科,llm,0.7
+burns,烧伤整形科,llm,0.9
+obstetrics and gynecology,妇产科用药,llm,0.7
+pediatrics,儿科,llm,0.9
+patient with acute burn infection,烧伤整形科,llm,0.7
+specialists in infectious diseases,感染内科,llm,0.8
+clinical microbiology labs,感染和临床微生物科,llm,0.9
+ophthalmology department,五官科,llm,0.8
+儿科患者,儿科,llm,0.9
+division of pulmonology,呼吸科,llm,0.9
+emergency department,急诊科,llm,0.95
+otolaryngology,耳鼻咽喉头颈外科,llm,0.85
+肝病科,感染内科,llm,0.7
+耳鼻喉科会诊,五官科,llm,0.8
+intensive care units (icu),急诊科,llm,0.8
+infectious diseases community of practice,感染内科,llm,0.8
+sports medicine,运动医学科,llm,0.7
+treatment regimen suggestion assessment metric value effect size,根据病情严重程度及治疗反应选择方案,llm,0.8
+treatment suggestions,根据病情严重程度及治疗反应选择方案,llm,0.8
+治疗评估评估评估评估评估评估评估评估评估评估评估评估评估评估调整方案,根据病情严重程度及治疗反应选择方案,llm,0.8
+dose adjustment,调节国际标准化比值达标（2.0—3.0）,llm,0.7
+antibiotic use policies,根据病情严重程度及治疗反应选择方案,llm,0.7
+preterm infants,幼婴及新生儿,llm,0.8
+newborn or infant,新生儿和婴儿,llm,0.9

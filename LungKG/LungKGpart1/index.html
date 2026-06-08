@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Lung Disease Knowledge Graph Visualization</title>
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<style>
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }
+#panel { display: flex; gap: 16px; align-items: center; padding: 12px 16px; border-bottom: 1px solid #eee; flex-wrap: wrap; }
+#panel input[type="text"] { width: 260px; padding: 6px 8px; }
+#panel .group { display: flex; gap: 8px; align-items: center; }
+#typeFilters { display: flex; flex-wrap: wrap; gap: 8px; max-height: 140px; overflow: auto; border: 1px solid #eee; padding: 8px; }
+#stats { margin-left: auto; color: #666; }
+#legend { display: flex; gap: 8px; padding: 8px 16px; border-bottom: 1px solid #eee; flex-wrap: wrap; }
+.legend-item { display: flex; align-items: center; gap: 6px; font-size: 12px; }
+.legend-swatch { width: 12px; height: 12px; border-radius: 2px; }
+#graph { width: 100vw; height: calc(100vh - 188px); background: #fafafa; }
+.node { stroke: #fff; stroke-width: 0.5px; cursor: pointer; }
+.link { stroke: #999; stroke-opacity: 0.6; }
+.label { font-size: 10px; fill: #333; pointer-events: none; text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff; }
+.highlight { stroke: #f00; stroke-width: 2px; }
+.hidden { display: none; }
+button { padding: 6px 10px; cursor: pointer; }
+</style>
+</head>
+<body>
+<div id="panel">
+  <div class="group">
+    <span>Keywords/Entity</span>
+    <input id="search" type="text" placeholder="e.g. Pneumonia, Asthma, Bronchus" />
+  </div>
+  <div class="group">
+    <span>Max Nodes</span>
+    <input id="maxNodes" type="range" min="50" max="1000" value="200" />
+    <span id="maxNodesVal">200</span>
+  </div>
+  <div class="group">
+    <button id="renderBtn">Render</button>
+    <button id="resetBtn">Reset</button>
+  </div>
+  <div id="stats"></div>
+</div>
+<div id="legend"></div>
+<div id="typeFilters"></div>
+<svg id="graph"></svg>
+<script>
+const csvNodesPath = 'nodes.csv'
+const csvEdgesPath = 'edges.csv'
+const palette = d3.schemeTableau10
+let allNodes = []
+let allEdges = []
+let nodeById = new Map()
+let degree = new Map()
+let types = []
+
+function idFor(name, type) { return name + '|' + (type || '') }
+function normalize(s) { if (s === undefined || s === null) return ''; return String(s).trim() }
+
+function buildIndex() {
+  nodeById.clear(); degree.clear()
+  for (const n of allNodes) { const id = idFor(n.name, n.type); nodeById.set(id, n); degree.set(id, 0) }
+  for (const e of allEdges) {
+    const s = idFor(normalize(e.source), normalize(e.source_type))
+    const t = idFor(normalize(e.target), normalize(e.target_type))
+    if (nodeById.has(s)) degree.set(s, (degree.get(s) || 0) + 1)
+    if (nodeById.has(t)) degree.set(t, (degree.get(t) || 0) + 1)
+  }
+  types = Array.from(new Set(allNodes.map(d => normalize(d.type)))).filter(d => d.length > 0).sort()
+}
+
+function setupTypeFilters() {
+  const c = d3.select('#typeFilters'); c.selectAll('*').remove()
+  const items = c.selectAll('.type-item').data(types).enter().append('label').attr('class','type-item')
+  items.append('input').attr('type','checkbox').attr('value',d=>d).property('checked',true).on('change', renderGraph)
+  items.append('span').text(d=>d)
+}
+
+function colorByType(t) { const i = types.indexOf(normalize(t)); if (i === -1) return '#888'; return palette[i % palette.length] }
+
+function setLegend() {
+  const c = d3.select('#legend'); c.selectAll('*').remove()
+  const items = c.selectAll('.legend-item').data(types).enter().append('div').attr('class','legend-item')
+  items.append('div').attr('class','legend-swatch').style('background', d => colorByType(d))
+  items.append('span').text(d => d)
+}
+
+function getSelectedTypes() {
+  const inputs = document.querySelectorAll('#typeFilters input[type="checkbox"]')
+  const sel = new Set(); inputs.forEach(i => { if (i.checked) sel.add(i.value) })
+  return sel
+}
+
+function topDegreeNodes(limit, typeSet) {
+  const arr = []
+  for (const [id, n] of nodeById.entries()) {
+    const t = normalize(n.type); if (typeSet.size && !typeSet.has(t)) continue
+    arr.push({ id, d: degree.get(id) || 0 })
+  }
+  arr.sort((a,b)=>b.d-a.d)
+  const picked = new Set(arr.slice(0, limit).map(x=>x.id))
+  return picked
+}
+
+function neighborsOf(seedIds, limit) {
+  const picked = new Set(seedIds)
+  for (const e of allEdges) {
+    const s = idFor(normalize(e.source), normalize(e.source_type))
+    const t = idFor(normalize(e.target), normalize(e.target_type))
+    if (picked.has(s) && picked.size < limit) picked.add(t)
+    if (picked.has(t) && picked.size < limit) picked.add(s)
+    if (picked.size >= limit) break
+  }
+  return picked
+}
+
+function bySearch(term, typeSet, limit) {
+  const m = term.toLowerCase()
+  const seeds = []
+  for (const [id, n] of nodeById.entries()) {
+    const t = normalize(n.type); if (typeSet.size && !typeSet.has(t)) continue
+    if (normalize(n.name).toLowerCase().includes(m)) seeds.push(id)
+  }
+  const base = seeds.length ? seeds.slice(0, Math.min(seeds.length, Math.max(50, Math.floor(limit/4)))) : []
+  return neighborsOf(base, limit)
+}
+
+function buildSubgraph(ids) {
+  const nodes = []
+  const nodeIndex = new Map()
+  ids.forEach(id => { const n = nodeById.get(id); if (n) { nodeIndex.set(id, nodes.length); nodes.push({ id, name: n.name, type: n.type }) } })
+  const links = []
+  for (const e of allEdges) {
+    const s = idFor(normalize(e.source), normalize(e.source_type))
+    const t = idFor(normalize(e.target), normalize(e.target_type))
+    if (nodeIndex.has(s) && nodeIndex.has(t)) links.push({ source: nodeIndex.get(s), target: nodeIndex.get(t), relation: normalize(e.relation || e.sub_relation), raw:e })
+  }
+  return { nodes, links }
+}
+
+function renderGraph() {
+  const maxNodes = parseInt(document.getElementById('maxNodes').value, 10)
+  const search = normalize(document.getElementById('search').value)
+  const typeSet = getSelectedTypes()
+  let ids
+  if (search.length > 0) ids = bySearch(search, typeSet, maxNodes)
+  else ids = topDegreeNodes(maxNodes, typeSet)
+  const sub = buildSubgraph(ids)
+  draw(sub)
+}
+
+function draw(data) {
+  const svg = d3.select('#graph'); svg.selectAll('*').remove()
+  const width = svg.node().clientWidth; const height = svg.node().clientHeight
+  const g = svg.append('g')
+  const zoom = d3.zoom().scaleExtent([0.1, 8]).on('zoom', (event)=>{ g.attr('transform', event.transform) })
+  svg.call(zoom)
+
+  const link = g.append('g').attr('stroke','#999').attr('stroke-opacity',0.6).selectAll('line').data(data.links).enter().append('line').attr('class','link').attr('stroke-width', 0.6)
+  
+  const node = g.append('g').selectAll('circle').data(data.nodes).enter().append('circle').attr('class','node')
+    .attr('r', d => 4 + Math.min(12, (degree.get(d.id)||0) ** 0.5))
+    .attr('fill', d => colorByType(d.type))
+    .call(d3.drag().on('start', dragstarted).on('drag', dragged).on('end', dragended))
+  
+  const label = g.append('g').selectAll('text').data(data.nodes).enter().append('text').attr('class','label').text(d => d.name).attr('dx', 8).attr('dy', 3)
+
+  node.append('title').text(d => d.name + ' [' + normalize(d.type) + ']')
+  link.append('title').text(d => d.relation)
+
+  const sim = d3.forceSimulation(data.nodes)
+    .force('link', d3.forceLink(data.links).id((d,i)=>i).distance(100).strength(0.1))
+    .force('charge', d3.forceManyBody().strength(-200))
+    .force('center', d3.forceCenter(width/2, height/2))
+    .force('collide', d3.forceCollide().radius(d => 10 + Math.min(12, (degree.get(d.id)||0) ** 0.5)))
+
+  sim.on('tick', () => {
+    link.attr('x1', d => d.source.x).attr('y1', d => d.source.y).attr('x2', d => d.target.x).attr('y2', d => d.target.y)
+    node.attr('cx', d => d.x).attr('cy', d => d.y)
+    label.attr('x', d => d.x).attr('y', d => d.y)
+  })
+
+  node.on('click', (event, d) => {
+    event.stopPropagation();
+    highlightNode(d, link, node);
+  });
+  
+  svg.on('click', () => {
+     node.classed('highlight', false);
+     link.style('stroke-opacity', 0.6);
+  });
+
+  d3.select('#stats').text('Nodes: ' + data.nodes.length + ' | Edges: ' + data.links.length)
+}
+
+function highlightNode(d, link, nodeSel) {
+  const neigh = new Set()
+  link.each(l => { if (l.source.id === d.id) neigh.add(l.target.id); if (l.target.id === d.id) neigh.add(l.source.id) })
+  
+  nodeSel.classed('highlight', n => n.id === d.id || neigh.has(n.id))
+  nodeSel.style('opacity', n => (n.id === d.id || neigh.has(n.id)) ? 1 : 0.1)
+  link.style('stroke-opacity', l => (l.source.id === d.id || l.target.id === d.id) ? 1 : 0.05)
+}
+
+function dragstarted(event) { if (!event.active) event.subject.fx = event.subject.x, event.subject.fy = event.subject.y }
+function dragged(event) { event.subject.fx = event.x; event.subject.fy = event.y }
+function dragended(event) { event.subject.fx = null; event.subject.fy = null }
+
+function init() {
+  d3.csv(csvNodesPath).then(ns => { allNodes = ns.map(d => ({ name: normalize(d.name), type: normalize(d.type) })) }).then(() => d3.csv(csvEdgesPath)).then(es => {
+    allEdges = es.map(d => ({ source: normalize(d.source), source_type: normalize(d.source_type), relation: normalize(d.relation), sub_relation: normalize(d.sub_relation), target: normalize(d.target), target_type: normalize(d.target_type), source_table: normalize(d.source_table) }))
+    buildIndex(); setupTypeFilters(); setLegend(); renderGraph()
+  })
+
+  d3.select('#renderBtn').on('click', renderGraph)
+  d3.select('#resetBtn').on('click', () => { 
+    document.getElementById('search').value = ''; 
+    const inputs = document.querySelectorAll('#typeFilters input[type="checkbox"]'); 
+    inputs.forEach(i => i.checked = true); 
+    document.getElementById('maxNodes').value = 200; 
+    document.getElementById('maxNodesVal').textContent = '200'; 
+    renderGraph() 
+  })
+  d3.select('#maxNodes').on('input', () => { document.getElementById('maxNodesVal').textContent = document.getElementById('maxNodes').value })
+  
+  // Enter key for search
+  document.getElementById('search').addEventListener('keyup', function(event) {
+      if (event.key === 'Enter') {
+          renderGraph();
+      }
+  });
+}
+
+init()
+</script>
+</body>
+</html>

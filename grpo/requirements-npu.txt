@@ -1,0 +1,14 @@
+# GRPO RL dependencies for Ascend NPU environments.
+# Install this after activating an existing torch/torch_npu/CANN environment.
+# Do not reinstall torch here; torch and torch_npu must match the installed CANN stack.
+
+transformers>=4.51.0
+trl==0.18.2
+accelerate>=1.13.0
+peft>=0.15.0
+datasets>=3.0.0
+modelscope>=1.35.0
+networkx>=3.0
+pandas>=2.0
+numpy>=1.24,<2.0
+sentencepiece

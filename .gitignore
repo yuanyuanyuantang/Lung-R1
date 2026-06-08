@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Model weights
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Training outputs
+grpo/output/
+graphcot/output_internalized_v1/
+
+# Log files
+*.log
+
+# Environment / secrets
+.env
+.env.*
+*.secret
+*_api_key*
+credentials.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Model cache (large binary files)
+**/model_cache/
+
+# LLM API call cache
+LungKG/LungKG_fusion/cache/
