@@ -1,4 +1,4 @@
-# Lung-R1: Knowledge Graph-Guided Reinforcement Learning for Pulmonary Diagnosis
+# Lung-R1: A Knowledge Graph-Guided LLM for Pulmonary Diagnostic Reasoning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
