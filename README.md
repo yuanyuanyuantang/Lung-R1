@@ -171,17 +171,15 @@ We design LungBench, a self-constructed pulmonary diagnosis evaluation benchmark
 | `emr_eval` | Electronic medical record diagnosis — real clinical case descriptions → diagnosis prediction | F1, Exact Match |
 | `kgqa_eval` | Knowledge-grounded QA — questions requiring KG-based reasoning | Accuracy, Faithfulness |
 
-## Model Weights
+### Model Weights
 
-Trained model weights will be released on ModelScope upon publication.
+All trained model weights are available on ModelScope:
 
-<!--
-| Model | Stage | ModelScope |
-|-------|-------|-------------|
-| Lung-R1-7B | SFT → GRPO (RL) | Link |
-| Lung-R1-14B | SFT → GRPO (RL) | Link |
-| Lung-R1-SFT | SFT only (7B/14B) | Link |
--->
+- **SFT-only (before GRPO RL)**
+  - 7B & 14B checkpoints: [yuanyuanyuantang/Lung-R1-before-RL](https://modelscope.cn/models/yuanyuanyuantang/Lung-R1-before-RL)
+- **After GRPO RL training**
+  - 7B: [yuanyuanyuantang/Lung-R1-7B](https://modelscope.cn/models/yuanyuanyuantang/LungR1-7B)
+  - 14B: [yuanyuanyuantang/Lung-R1-14B](https://modelscope.cn/models/yuanyuanyuantang/Lung-R1-14B)
 
 ## License
 
